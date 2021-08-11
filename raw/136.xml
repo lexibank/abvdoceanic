@@ -1,0 +1,2523 @@
+<record>
+	<id>136</id>
+	<language>Tongan</language>
+	<author>Blust, from: Churchward (1959)</author>
+	<silcode>ton</silcode>
+	<glottocode>tong1325</glottocode>
+	<notes>Churchward, C.M. (1959). Tongan dictionary. Oxford University Press: London</notes>
+	<problems></problems>
+	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Tongic</classification>
+	<typedby>Debasish Roy</typedby>
+	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{117207,
+  address               = {London},
+  pages                 = {xiv+836},
+  publisher             = {Oxford Univ. Press},
+  title                 = {Tongan dictionary: Tongan-English and English-Tongan},
+  year                  = {1959},
+  bibtexkey             = {churchward_tongan-dictionary1959},
+  class_loc             = {PL6531},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6531 CHU 1959},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#d:Churchward:Tongan, mpieva#Churchward1959Tongandi},
+  subject_headings      = {Tongan language–Dictionaries–English, English language–Dictionaries–Tonga (Tonga Islands), Tongan language–Dictionaries–English – English language–Dictionaries–Tonga (Tonga Islands)},
+  author                = {Churchward, Clerk Maxwell}
+}</source>
+</record>
+
+<record>
+	<latitude>-21.23050210195644993405</latitude>
+	<longitude>-175.14404296875000000000</longitude>
+</record>
+
+<record>
+	<id>136</id>
+	<word_id>1</word_id>
+	<word>hand</word>
+	<item>nima</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1, 64</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>493</id>
+	<word_id>2</word_id>
+	<word>left</word>
+	<item>hema</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>11</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>850</id>
+	<word_id>3</word_id>
+	<word>right</word>
+	<item>mataʔu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>5,13</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>1207</id>
+	<word_id>4</word_id>
+	<word>leg/foot</word>
+	<item>vaʔe</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1, 100</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>1564</id>
+	<word_id>5</word_id>
+	<word>to walk</word>
+	<item>ʔalu</item>
+	<annotation>Cognate in Ponapean ?</annotation>
+	<loan></loan>
+	<cognacy>34</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>1921</id>
+	<word_id>6</word_id>
+	<word>road/path</word>
+	<item>hala</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>87240</id>
+	<word_id>7</word_id>
+	<word>to come</word>
+	<item>haʔu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>44</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>87241</id>
+	<word_id>7</word_id>
+	<word>to come</word>
+	<item>ō mai</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>71728</id>
+	<word_id>8</word_id>
+	<word>to turn</word>
+	<item>tāafeafe</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>71729</id>
+	<word_id>8</word_id>
+	<word>to turn</word>
+	<item>liliu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>2992</id>
+	<word_id>9</word_id>
+	<word>to swim</word>
+	<item>kakau</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>5</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3349</id>
+	<word_id>10</word_id>
+	<word>dirty</word>
+	<item>ʔuli</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3706</id>
+	<word_id>11</word_id>
+	<word>dust</word>
+	<item>efu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1?</pmpcognacy>
+</record>
+
+<record>
+	<id>4063</id>
+	<word_id>12</word_id>
+	<word>skin</word>
+	<item>kili</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>4420</id>
+	<word_id>13</word_id>
+	<word>back</word>
+	<item>tuʔa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>11</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>4777</id>
+	<word_id>14</word_id>
+	<word>belly</word>
+	<item>kete</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>7</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>5134</id>
+	<word_id>15</word_id>
+	<word>bone</word>
+	<item>hui</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>52</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>5491</id>
+	<word_id>16</word_id>
+	<word>intestines</word>
+	<item>ŋākau</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>12</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>5848</id>
+	<word_id>17</word_id>
+	<word>liver</word>
+	<item>ʔate</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>6205</id>
+	<word_id>18</word_id>
+	<word>breast</word>
+	<item>huhu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>6562</id>
+	<word_id>19</word_id>
+	<word>shoulder</word>
+	<item>uma</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>10</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>6919</id>
+	<word_id>20</word_id>
+	<word>to know, be knowledgeable</word>
+	<item>ʔilo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>13</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>7276</id>
+	<word_id>21</word_id>
+	<word>to think</word>
+	<item>fakakaukau</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>7633</id>
+	<word_id>22</word_id>
+	<word>to fear</word>
+	<item>manavahē</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>92</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>7990</id>
+	<word_id>23</word_id>
+	<word>blood</word>
+	<item>toto</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>4</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>8347</id>
+	<word_id>24</word_id>
+	<word>head</word>
+	<item>ʔulu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>8704</id>
+	<word_id>25</word_id>
+	<word>neck</word>
+	<item>kia</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>20</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>9061</id>
+	<word_id>26</word_id>
+	<word>hair</word>
+	<item>louʔulu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>40</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>9418</id>
+	<word_id>27</word_id>
+	<word>nose</word>
+	<item>ihu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>9775</id>
+	<word_id>28</word_id>
+	<word>to breathe</word>
+	<item>mānava</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>10132</id>
+	<word_id>29</word_id>
+	<word>to sniff, smell</word>
+	<item>nāmuʔi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>41</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>10489</id>
+	<word_id>30</word_id>
+	<word>mouth</word>
+	<item>ŋutu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>10846</id>
+	<word_id>31</word_id>
+	<word>tooth</word>
+	<item>nifo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>11203</id>
+	<word_id>32</word_id>
+	<word>tongue</word>
+	<item>ʔelelo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>15</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>11560</id>
+	<word_id>33</word_id>
+	<word>to laugh</word>
+	<item>kata</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>7</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>11917</id>
+	<word_id>34</word_id>
+	<word>to cry</word>
+	<item>taŋi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>12274</id>
+	<word_id>35</word_id>
+	<word>to vomit</word>
+	<item>lua</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>8</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>12631</id>
+	<word_id>36</word_id>
+	<word>to spit</word>
+	<item>ʔanuhi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>14,84</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>12988</id>
+	<word_id>37</word_id>
+	<word>to eat</word>
+	<item>kai</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,47</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>89371</id>
+	<word_id>38</word_id>
+	<word>to chew</word>
+	<item>lamu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>7</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>89372</id>
+	<word_id>38</word_id>
+	<word>to chew</word>
+	<item>mama</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>73397</id>
+	<word_id>39</word_id>
+	<word>to cook</word>
+	<item>feimeʔakai</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>73398</id>
+	<word_id>39</word_id>
+	<word>to cook</word>
+	<item>feitunu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>9</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>14059</id>
+	<word_id>40</word_id>
+	<word>to drink</word>
+	<item>inu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>14416</id>
+	<word_id>41</word_id>
+	<word>to bite</word>
+	<item>uʔu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>8</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>14773</id>
+	<word_id>42</word_id>
+	<word>to suck</word>
+	<item>huhu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>25</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>15130</id>
+	<word_id>43</word_id>
+	<word>ear</word>
+	<item>teliŋa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>15487</id>
+	<word_id>44</word_id>
+	<word>to hear</word>
+	<item>fenoŋo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1, 59</cognacy>
+	<pmpcognacy>1?</pmpcognacy>
+</record>
+
+<record>
+	<id>15844</id>
+	<word_id>45</word_id>
+	<word>eye</word>
+	<item>mata</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>16201</id>
+	<word_id>46</word_id>
+	<word>to see</word>
+	<item>sio</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>132</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>16558</id>
+	<word_id>47</word_id>
+	<word>to yawn</word>
+	<item>mamao</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>19,28</cognacy>
+	<pmpcognacy>1?</pmpcognacy>
+</record>
+
+<record>
+	<id>16915</id>
+	<word_id>48</word_id>
+	<word>to sleep</word>
+	<item>mohe</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>10, 109</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>17272</id>
+	<word_id>49</word_id>
+	<word>to lie down</word>
+	<item>tokoto</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>7</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>17629</id>
+	<word_id>50</word_id>
+	<word>to dream</word>
+	<item>misi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>36</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>74065</id>
+	<word_id>51</word_id>
+	<word>to sit</word>
+	<item>nofo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>16</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>74066</id>
+	<word_id>51</word_id>
+	<word>to sit</word>
+	<item>taŋutu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>122?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>18343</id>
+	<word_id>52</word_id>
+	<word>to stand</word>
+	<item>tuʔu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>18700</id>
+	<word_id>53</word_id>
+	<word>person/human being</word>
+	<item>taŋata</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,66, 97</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>19057</id>
+	<word_id>54</word_id>
+	<word>man/male</word>
+	<item>taŋata</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>12,14</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>19414</id>
+	<word_id>55</word_id>
+	<word>woman/female</word>
+	<item>fefine</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,106</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>19771</id>
+	<word_id>56</word_id>
+	<word>child</word>
+	<item>tamasiʔi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>6,103</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>20128</id>
+	<word_id>57</word_id>
+	<word>husband</word>
+	<item>mali</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>20485</id>
+	<word_id>58</word_id>
+	<word>wife</word>
+	<item>mali</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>20842</id>
+	<word_id>59</word_id>
+	<word>mother</word>
+	<item>faʔē</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>6</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>21199</id>
+	<word_id>60</word_id>
+	<word>father</word>
+	<item>tama|i</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1, 52</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>21556</id>
+	<word_id>61</word_id>
+	<word>house</word>
+	<item>fale</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>14</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>21913</id>
+	<word_id>62</word_id>
+	<word>thatch/roof</word>
+	<item>ʔato</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>22270</id>
+	<word_id>63</word_id>
+	<word>name</word>
+	<item>hiŋoa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>6</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>22627</id>
+	<word_id>64</word_id>
+	<word>to say</word>
+	<item>pehē</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>59</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>22984</id>
+	<word_id>65</word_id>
+	<word>rope</word>
+	<item>maea</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>10</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>23341</id>
+	<word_id>66</word_id>
+	<word>to tie up, fasten</word>
+	<item>nonoʔo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>15</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>23698</id>
+	<word_id>67</word_id>
+	<word>to sew</word>
+	<item>tuitui</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>13, 16</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>24055</id>
+	<word_id>68</word_id>
+	<word>needle</word>
+	<item>hui-tuitui</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>66</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>24412</id>
+	<word_id>69</word_id>
+	<word>to hunt</word>
+	<item>tuli manu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>8</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>24769</id>
+	<word_id>70</word_id>
+	<word>to shoot</word>
+	<item>fana</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>91601</id>
+	<word_id>71</word_id>
+	<word>to stab, pierce</word>
+	<item>hoka</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>67</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>91602</id>
+	<word_id>71</word_id>
+	<word>to stab, pierce</word>
+	<item>tuiʔi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>52</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>25483</id>
+	<word_id>72</word_id>
+	<word>to hit</word>
+	<item>tā</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>10</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>25840</id>
+	<word_id>73</word_id>
+	<word>to steal</word>
+	<item>kaihaʔa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>7</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>26197</id>
+	<word_id>74</word_id>
+	<word>to kill</word>
+	<item>tāmateʔi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>26554</id>
+	<word_id>75</word_id>
+	<word>to die, be dead</word>
+	<item>mate</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>26911</id>
+	<word_id>76</word_id>
+	<word>to live, be alive</word>
+	<item>moʔui</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1, 76</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>27268</id>
+	<word_id>77</word_id>
+	<word>to scratch</word>
+	<item>vaku</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>9</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>27625</id>
+	<word_id>78</word_id>
+	<word>to cut, hack</word>
+	<item>totofi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>10?</cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>27982</id>
+	<word_id>79</word_id>
+	<word>stick/wood</word>
+	<item>ʔa|kau</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>28339</id>
+	<word_id>80</word_id>
+	<word>to split</word>
+	<item>fahi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>4</cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>28696</id>
+	<word_id>81</word_id>
+	<word>sharp</word>
+	<item>māsila</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>29053</id>
+	<word_id>82</word_id>
+	<word>dull, blunt</word>
+	<item>peku</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>61</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>29410</id>
+	<word_id>83</word_id>
+	<word>to work</word>
+	<item>ŋāue</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>11</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>29767</id>
+	<word_id>84</word_id>
+	<word>to plant</word>
+	<item>tō</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>4</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>30124</id>
+	<word_id>85</word_id>
+	<word>to choose</word>
+	<item>fili</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>30481</id>
+	<word_id>86</word_id>
+	<word>to grow</word>
+	<item>tupu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>30838</id>
+	<word_id>87</word_id>
+	<word>to swell</word>
+	<item>pupula</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>7</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>31195</id>
+	<word_id>88</word_id>
+	<word>to squeeze</word>
+	<item>tatau</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>13</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>31552</id>
+	<word_id>89</word_id>
+	<word>to hold</word>
+	<item>kuku</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>12</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>31909</id>
+	<word_id>90</word_id>
+	<word>to dig</word>
+	<item>keli</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>32266</id>
+	<word_id>91</word_id>
+	<word>to buy</word>
+	<item>fakatau</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>9</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>32623</id>
+	<word_id>92</word_id>
+	<word>to open, uncover</word>
+	<item>fakaava</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>32980</id>
+	<word_id>93</word_id>
+	<word>to pound, beat</word>
+	<item>tuki</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>76754</id>
+	<word_id>94</word_id>
+	<word>to throw</word>
+	<item>lī</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>79?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>76755</id>
+	<word_id>94</word_id>
+	<word>to throw</word>
+	<item>tolo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>10?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>33694</id>
+	<word_id>95</word_id>
+	<word>to fall</word>
+	<item>tō</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>14</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>34051</id>
+	<word_id>96</word_id>
+	<word>dog</word>
+	<item>kulī</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>7</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>34408</id>
+	<word_id>97</word_id>
+	<word>bird</word>
+	<item>manu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>34765</id>
+	<word_id>98</word_id>
+	<word>egg</word>
+	<item>foʔi manu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>5</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>35122</id>
+	<word_id>99</word_id>
+	<word>feather</word>
+	<item>fulufulu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>35479</id>
+	<word_id>100</word_id>
+	<word>wing</word>
+	<item>kapakau</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,59</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>35836</id>
+	<word_id>101</word_id>
+	<word>to fly</word>
+	<item>puna</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>36193</id>
+	<word_id>102</word_id>
+	<word>rat</word>
+	<item>kumā</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>13</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>36550</id>
+	<word_id>103</word_id>
+	<word>meat/flesh</word>
+	<item>kano</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>14</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>36907</id>
+	<word_id>104</word_id>
+	<word>fat/grease</word>
+	<item>ŋako</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>14</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>37264</id>
+	<word_id>105</word_id>
+	<word>tail</word>
+	<item>iku</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>13</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>37621</id>
+	<word_id>106</word_id>
+	<word>snake</word>
+	<item>ŋata</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>12</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>37978</id>
+	<word_id>107</word_id>
+	<word>worm (earthworm)</word>
+	<item>kelemutu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>9</cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>105127</id>
+	<word_id>108</word_id>
+	<word>louse</word>
+	<item>kutu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>105128</id>
+	<word_id>108</word_id>
+	<word>louse</word>
+	<item>tuma</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>3</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>38692</id>
+	<word_id>109</word_id>
+	<word>mosquito</word>
+	<item>namu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>39049</id>
+	<word_id>110</word_id>
+	<word>spider</word>
+	<item>hina</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>39406</id>
+	<word_id>111</word_id>
+	<word>fish</word>
+	<item>ika</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>39763</id>
+	<word_id>112</word_id>
+	<word>rotten</word>
+	<item>pala</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>13</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>40120</id>
+	<word_id>113</word_id>
+	<word>branch</word>
+	<item>vaʔakau</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>65</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>77782</id>
+	<word_id>114</word_id>
+	<word>leaf</word>
+	<item>lau</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>77783</id>
+	<word_id>114</word_id>
+	<word>leaf</word>
+	<item>lou</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>40834</id>
+	<word_id>115</word_id>
+	<word>root</word>
+	<item>aka</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>41191</id>
+	<word_id>116</word_id>
+	<word>flower</word>
+	<item>kakala</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>38?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>41548</id>
+	<word_id>117</word_id>
+	<word>fruit</word>
+	<item>fua</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>41905</id>
+	<word_id>118</word_id>
+	<word>grass</word>
+	<item>mohuku</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>58</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>42262</id>
+	<word_id>119</word_id>
+	<word>earth/soil</word>
+	<item>kelekele</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>10</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>42619</id>
+	<word_id>120</word_id>
+	<word>stone</word>
+	<item>maka</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>4</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>42976</id>
+	<word_id>121</word_id>
+	<word>sand</word>
+	<item>ʔoneʔone</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>43333</id>
+	<word_id>122</word_id>
+	<word>water</word>
+	<item>vai</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>43690</id>
+	<word_id>123</word_id>
+	<word>to flow</word>
+	<item>tafe</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>10</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>44047</id>
+	<word_id>124</word_id>
+	<word>sea</word>
+	<item>tahi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>44404</id>
+	<word_id>125</word_id>
+	<word>salt</word>
+	<item>māsima</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>3</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>44761</id>
+	<word_id>126</word_id>
+	<word>lake</word>
+	<item>ano</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>45118</id>
+	<word_id>127</word_id>
+	<word>woods/forest</word>
+	<item>vao</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>14</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>45475</id>
+	<word_id>128</word_id>
+	<word>sky</word>
+	<item>laŋi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>45832</id>
+	<word_id>129</word_id>
+	<word>moon</word>
+	<item>māhina</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>37, 5</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>46189</id>
+	<word_id>130</word_id>
+	<word>star</word>
+	<item>fetuʔu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>46546</id>
+	<word_id>131</word_id>
+	<word>cloud</word>
+	<item>ʔao</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>12</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>46903</id>
+	<word_id>132</word_id>
+	<word>fog</word>
+	<item>kakapu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1?</pmpcognacy>
+</record>
+
+<record>
+	<id>47260</id>
+	<word_id>133</word_id>
+	<word>rain</word>
+	<item>ʔuha</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>47617</id>
+	<word_id>134</word_id>
+	<word>thunder</word>
+	<item>mana</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>37</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>47974</id>
+	<word_id>135</word_id>
+	<word>lightning</word>
+	<item>ʔuhila</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy>1?</pmpcognacy>
+</record>
+
+<record>
+	<id>48331</id>
+	<word_id>136</word_id>
+	<word>wind</word>
+	<item>mat|aŋi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,66</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>108113</id>
+	<word_id>137</word_id>
+	<word>to blow</word>
+	<item>aŋi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>8</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>108114</id>
+	<word_id>137</word_id>
+	<word>to blow</word>
+	<item>ifi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>5</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>49045</id>
+	<word_id>138</word_id>
+	<word>warm</word>
+	<item>mafana</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1, 72</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>49402</id>
+	<word_id>139</word_id>
+	<word>cold</word>
+	<item>momoko</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>10</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>49759</id>
+	<word_id>140</word_id>
+	<word>dry</word>
+	<item>mōmoa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>92?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>50116</id>
+	<word_id>141</word_id>
+	<word>wet</word>
+	<item>[vi]viku</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>10, 48</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>50473</id>
+	<word_id>142</word_id>
+	<word>heavy</word>
+	<item>mamafa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>46</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>50830</id>
+	<word_id>143</word_id>
+	<word>fire</word>
+	<item>afi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>51187</id>
+	<word_id>144</word_id>
+	<word>to burn</word>
+	<item>tutu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1, 6</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>51544</id>
+	<word_id>145</word_id>
+	<word>smoke</word>
+	<item>ʔahu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>51901</id>
+	<word_id>146</word_id>
+	<word>ash</word>
+	<item>efuefu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>52258</id>
+	<word_id>147</word_id>
+	<word>black</word>
+	<item>ʔuliʔuli</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>7</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>52615</id>
+	<word_id>148</word_id>
+	<word>white</word>
+	<item>hinehina</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>66</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>52972</id>
+	<word_id>149</word_id>
+	<word>red</word>
+	<item>kulokula</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>13</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>53329</id>
+	<word_id>150</word_id>
+	<word>yellow</word>
+	<item>eŋeeŋa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>10</cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>53686</id>
+	<word_id>151</word_id>
+	<word>green</word>
+	<item>lanu-mata</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1, 12</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>54043</id>
+	<word_id>152</word_id>
+	<word>small</word>
+	<item>siʔi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>141</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>80012</id>
+	<word_id>153</word_id>
+	<word>big</word>
+	<item>fuʔu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>13</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>80013</id>
+	<word_id>153</word_id>
+	<word>big</word>
+	<item>lahi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>12</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>54757</id>
+	<word_id>154</word_id>
+	<word>short</word>
+	<item>nounou</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>42</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>55114</id>
+	<word_id>155</word_id>
+	<word>long</word>
+	<item>lōloa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>12,105</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>55471</id>
+	<word_id>156</word_id>
+	<word>thin</word>
+	<item>manifi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>55828</id>
+	<word_id>157</word_id>
+	<word>thick</word>
+	<item>matolu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>3</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>56185</id>
+	<word_id>158</word_id>
+	<word>narrow</word>
+	<item>lausiʔi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>56542</id>
+	<word_id>159</word_id>
+	<word>wide</word>
+	<item>laulahi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>73, 9</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>56899</id>
+	<word_id>160</word_id>
+	<word>painful, sick</word>
+	<item>mahaki</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>57256</id>
+	<word_id>161</word_id>
+	<word>shy, ashamed</word>
+	<item>mā</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>57613</id>
+	<word_id>162</word_id>
+	<word>old</word>
+	<item>motuʔa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>57970</id>
+	<word_id>163</word_id>
+	<word>new</word>
+	<item>foʔou</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>58327</id>
+	<word_id>164</word_id>
+	<word>good</word>
+	<item>lelei</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>17</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>58684</id>
+	<word_id>165</word_id>
+	<word>bad, evil</word>
+	<item>kovi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>10</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>59041</id>
+	<word_id>166</word_id>
+	<word>correct, true</word>
+	<item>tonu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>8</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>59398</id>
+	<word_id>167</word_id>
+	<word>night</word>
+	<item>pō</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>59755</id>
+	<word_id>168</word_id>
+	<word>day</word>
+	<item>ʔaho</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1, 54</cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>60112</id>
+	<word_id>169</word_id>
+	<word>year</word>
+	<item>taʔu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>80938</id>
+	<word_id>170</word_id>
+	<word>when?</word>
+	<item>ʔa fē</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>5</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>80939</id>
+	<word_id>170</word_id>
+	<word>when?</word>
+	<item>ʔane fē</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>5</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>60826</id>
+	<word_id>171</word_id>
+	<word>to hide</word>
+	<item>toi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>61183</id>
+	<word_id>172</word_id>
+	<word>to climb</word>
+	<item>kaka</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>61540</id>
+	<word_id>173</word_id>
+	<word>at</word>
+	<item>ʔi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>20?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>61897</id>
+	<word_id>174</word_id>
+	<word>in, inside</word>
+	<item>ʔi loto</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>5</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>62254</id>
+	<word_id>175</word_id>
+	<word>above</word>
+	<item>ʔi ʔoluŋa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>9</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>62611</id>
+	<word_id>176</word_id>
+	<word>below</word>
+	<item>ʔi lalo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>8</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>62968</id>
+	<word_id>177</word_id>
+	<word>this</word>
+	<item>ko eni</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>63325</id>
+	<word_id>178</word_id>
+	<word>that</word>
+	<item>ko ena</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>63682</id>
+	<word_id>179</word_id>
+	<word>near</word>
+	<item>ofi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>45</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>64039</id>
+	<word_id>180</word_id>
+	<word>far</word>
+	<item>mamaʔo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>13</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>64396</id>
+	<word_id>181</word_id>
+	<word>where?</word>
+	<item>ʔi fē</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>3,35</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>81795</id>
+	<word_id>182</word_id>
+	<word>I</word>
+	<item>au</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,21</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>81796</id>
+	<word_id>182</word_id>
+	<word>I</word>
+	<item>ou</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,21</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>65110</id>
+	<word_id>183</word_id>
+	<word>thou</word>
+	<item>koe</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>65467</id>
+	<word_id>184</word_id>
+	<word>he/she</word>
+	<item>ia</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>113920</id>
+	<word_id>185</word_id>
+	<word>we</word>
+	<item>kitautolu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1, 39</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>113921</id>
+	<word_id>185</word_id>
+	<word>we</word>
+	<item>kimautolu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2, 39</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>66181</id>
+	<word_id>186</word_id>
+	<word>you</word>
+	<item>kimoutolu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>16?</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>66538</id>
+	<word_id>187</word_id>
+	<word>they</word>
+	<item>kinautolu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1, 19?</cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>66895</id>
+	<word_id>188</word_id>
+	<word>what?</word>
+	<item>hā</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>67252</id>
+	<word_id>189</word_id>
+	<word>who?</word>
+	<item>hai</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>67609</id>
+	<word_id>190</word_id>
+	<word>other</word>
+	<item>kehe</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>8</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>67966</id>
+	<word_id>191</word_id>
+	<word>all</word>
+	<item>kotoa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>13</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>82508</id>
+	<word_id>192</word_id>
+	<word>and</word>
+	<item>mo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>9</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>82509</id>
+	<word_id>192</word_id>
+	<word>and</word>
+	<item>pea</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>68680</id>
+	<word_id>193</word_id>
+	<word>if</word>
+	<item>ka[pau]</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1?</pmpcognacy>
+</record>
+
+<record>
+	<id>69037</id>
+	<word_id>194</word_id>
+	<word>how?</word>
+	<item>fēfē</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>11</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>69394</id>
+	<word_id>195</word_id>
+	<word>no, not</word>
+	<item>ʔikai</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>10,83</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>69751</id>
+	<word_id>196</word_id>
+	<word>to count</word>
+	<item>lau-a</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>62</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>70108</id>
+	<word_id>197</word_id>
+	<word>One</word>
+	<item>taha</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>41</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>70465</id>
+	<word_id>198</word_id>
+	<word>Two</word>
+	<item>ua</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>70822</id>
+	<word_id>199</word_id>
+	<word>Three</word>
+	<item>tolu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>71179</id>
+	<word_id>200</word_id>
+	<word>Four</word>
+	<item>fā</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,66</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>83767</id>
+	<word_id>201</word_id>
+	<word>Five</word>
+	<item>nima</item>
+	<annotation>Five, hand.(Source: Pollex)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>172415</id>
+	<word_id>202</word_id>
+	<word>Six</word>
+	<item>ono</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>83668</id>
+	<word_id>203</word_id>
+	<word>Seven</word>
+	<item>fitu</item>
+	<annotation>Seven.(Source: Pollex)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>90658</id>
+	<word_id>204</word_id>
+	<word>Eight</word>
+	<item>valu</item>
+	<annotation>Pollex 06: Valu. :Eight.</annotation>
+	<loan></loan>
+	<cognacy>3</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>83542</id>
+	<word_id>205</word_id>
+	<word>Nine</word>
+	<item>hiva</item>
+	<annotation>Nine.(Source: Pollex)</annotation>
+	<loan></loan>
+	<cognacy>5,44</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>83434</id>
+	<word_id>206</word_id>
+	<word>Ten</word>
+	<item>hongofulu</item>
+	<annotation>Ten.(Source: Pollex)</annotation>
+	<loan></loan>
+	<cognacy>5</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>83389</id>
+	<word_id>207</word_id>
+	<word>Twenty</word>
+	<item>tekau</item>
+	<annotation>Twenty, score (Cwd).(Source: Pollex)</annotation>
+	<loan></loan>
+	<cognacy>4</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>242246</id>
+	<word_id>208</word_id>
+	<word>Fifty</word>
+	<item>nimangofulu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3230664</id>
+	<word_id>209</word_id>
+	<word>One Hundred</word>
+	<item>-nge</item>
+	<annotation>Hundreds.(Source: Pollex)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3230665</id>
+	<word_id>209</word_id>
+	<word>One Hundred</word>
+	<item>teau</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>83323</id>
+	<word_id>210</word_id>
+	<word>One Thousand</word>
+	<item>afe</item>
+	<annotation>Thousand.(Source: Pollex)</annotation>
+	<loan></loan>
+	<cognacy>3</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
