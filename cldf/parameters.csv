@@ -1,0 +1,211 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+1_hand,hand,1277,HAND
+2_left,left,244,LEFT
+3_right,right,1019,RIGHT
+4_legfoot,leg/foot,2098,FOOT OR LEG
+5_towalk,to walk,1443,WALK
+6_roadpath,road/path,2457,PATH OR ROAD
+7_tocome,to come,1446,COME
+8_toturn,to turn,1588,TURN
+9_toswim,to swim,1439,SWIM
+10_dirty,dirty,1230,DIRTY
+11_dust,dust,2,DUST
+12_skin,skin,763,SKIN
+13_back,back,1291,BACK
+14_belly,belly,1251,BELLY
+15_bone,bone,1394,BONE
+16_intestines,intestines,1991,INTESTINES
+17_liver,liver,1224,LIVER
+18_breast,breast,1402,BREAST
+19_shoulder,shoulder,1482,SHOULDER
+20_toknowbeknowledgeable,"to know, be knowledgeable",1410,KNOW (SOMETHING)
+21_tothink,to think,2271,THINK
+22_tofear,to fear,1419,FEAR (BE AFRAID)
+23_blood,blood,946,BLOOD
+24_head,head,1256,HEAD
+25_neck,neck,1333,NECK
+26_hair,hair,1040,HAIR
+27_nose,nose,1221,NOSE
+28_tobreathe,to breathe,1407,BREATHE
+29_tosniffsmell,"to sniff, smell",1586,SMELL (PERCEIVE)
+30_mouth,mouth,674,MOUTH
+31_tooth,tooth,1380,TOOTH
+32_tongue,tongue,1205,TONGUE
+33_tolaugh,to laugh,1355,LAUGH
+34_tocry,to cry,1839,CRY
+35_tovomit,to vomit,1278,VOMIT
+36_tospit,to spit,1440,SPIT
+37_toeat,to eat,1336,EAT
+38_tochew,to chew,321,CHEW
+39_tocook,to cook,1100,COOK (SOMETHING)
+40_todrink,to drink,1401,DRINK
+41_tobite,to bite,1403,BITE
+42_tosuck,to suck,1421,SUCK
+43_ear,ear,1247,EAR
+44_tohear,to hear,1408,HEAR
+45_eye,eye,1248,EYE
+46_tosee,to see,1409,SEE
+47_toyawn,to yawn,1028,YAWN
+48_tosleep,to sleep,1585,SLEEP
+49_toliedown,to lie down,215,LIE DOWN
+50_todream,to dream,1920,DREAM (SOMETHING)
+51_tosit,to sit,1416,SIT
+52_tostand,to stand,1442,STAND
+53_personhumanbeing,person/human being,683,PERSON
+54_manmale,man/male,2106,MALE PERSON
+55_womanfemale,woman/female,2105,FEMALE PERSON
+56_child,child,2099,CHILD
+57_husband,husband,1200,HUSBAND
+58_wife,wife,1199,WIFE
+59_mother,mother,1216,MOTHER
+60_father,father,1217,FATHER
+61_house,house,1252,HOUSE
+62_thatchroof,thatch/roof,2100,THATCH OR ROOF
+63_name,name,1405,NAME
+64_tosay,to say,1458,SAY
+65_rope,rope,1218,ROPE
+66_totieupfasten,"to tie up, fasten",1094,FASTEN
+67_tosew,to sew,1457,SEW
+68_needle,needle,1382,NEEDLE (FOR SEWING)
+69_tohunt,to hunt,1435,HUNT
+70_toshoot,to shoot,1172,SHOOT
+71_tostabpierce,"to stab, pierce",1434,STAB
+72_tohit,to hit,1433,HIT
+73_tosteal,to steal,713,STEAL
+74_tokill,to kill,1417,KILL
+75_todiebedead,"to die, be dead",2101,BE DEAD OR DIE
+76_tolivebealive,"to live, be alive",1422,BE ALIVE
+77_toscratch,to scratch,1436,SCRATCH
+78_tocuthack,"to cut, hack",3889,CUT OR HACK
+79_stickwood,stick/wood,1295,STICK
+80_tosplit,to split,1437,SPLIT
+81_sharp,sharp,1396,SHARP
+82_dullblunt,"dull, blunt",379,BLUNT
+83_towork,to work,1086,WORK (ACTIVITY)
+84_toplant,to plant,1486,PLANT (SOMETHING)
+85_tochoose,to choose,1750,CHOOSE
+86_togrow,to grow,479,GROW
+87_toswell,to swell,1573,SWELL
+88_tosqueeze,to squeeze,1414,SQUEEZE
+89_tohold,to hold,1448,HOLD
+90_todig,to dig,1418,DIG
+91_tobuy,to buy,1869,BUY
+92_toopenuncover,"to open, uncover",1156,OPEN
+93_topoundbeat,"to pound, beat",354,POUND
+94_tothrow,to throw,1456,THROW
+95_tofall,to fall,1280,FALL
+96_dog,dog,2009,DOG
+97_bird,bird,937,BIRD
+98_egg,egg,744,EGG
+99_feather,feather,1201,FEATHER
+100_wing,wing,1257,WING
+101_tofly,to fly,1441,FLY (MOVE THROUGH AIR)
+102_rat,rat,1490,RAT
+103_meatflesh,meat/flesh,2615,FLESH OR MEAT
+104_fatgrease,fat/grease,323,FAT (ORGANIC SUBSTANCE)
+105_tail,tail,1220,TAIL
+106_snake,snake,730,SNAKE
+107_wormearthworm,worm (earthworm),1219,WORM
+108_louse,louse,1392,LOUSE
+109_mosquito,mosquito,1509,MOSQUITO
+110_spider,spider,843,SPIDER
+111_fish,fish,227,FISH
+112_rotten,rotten,1728,ROTTEN
+113_branch,branch,1531,BRANCH
+114_leaf,leaf,628,LEAF
+115_root,root,670,ROOT
+116_flower,flower,239,FLOWER
+117_fruit,fruit,1507,FRUIT
+118_grass,grass,606,GRASS
+119_earthsoil,earth/soil,1228,EARTH (SOIL)
+120_stone,stone,857,STONE
+121_sand,sand,671,SAND
+122_water,water,948,WATER
+123_toflow,to flow,2003,FLOW
+124_sea,sea,1474,SEA
+125_salt,salt,1274,SALT
+126_lake,lake,624,LAKE
+127_woodsforest,woods/forest,420,FOREST
+128_sky,sky,1732,SKY
+129_moon,moon,1313,MOON
+130_star,star,1430,STAR
+131_cloud,cloud,1489,CLOUD
+132_fog,fog,249,FOG
+133_rain,rain,658,RAIN (PRECIPITATION)
+134_thunder,thunder,1150,THUNDER
+135_lightning,lightning,1654,LIGHTNING
+136_wind,wind,960,WIND
+137_toblow,to blow,175,BLOW (OF WIND)
+138_warm,warm,1232,WARM
+139_cold,cold,1287,COLD
+140_dry,dry,1398,DRY
+141_wet,wet,1726,WET
+142_heavy,heavy,1210,HEAVY
+143_fire,fire,221,FIRE
+144_toburn,to burn,2102,BURN
+145_smoke,smoke,778,SMOKE (EXHAUST)
+146_ashes,ashes,646,ASH
+147_black,black,163,BLACK
+148_white,white,1335,WHITE
+149_red,red,156,RED
+150_yellow,yellow,1424,YELLOW
+151_green,green,1425,GREEN
+152_small,small,1246,SMALL
+153_big,big,1202,BIG
+154_short,short,1645,SHORT
+155_long,long,1203,LONG
+156_thin,thin,2308,THIN
+157_thick,thick,1244,THICK
+158_narrow,narrow,1267,NARROW
+159_wide,wide,1243,WIDE
+160_painfulsick,"painful, sick",2103,PAINFUL OR SICK
+161_shyashamed,"shy, ashamed",3805,SHY OR ASHAMED
+162_old,old,1229,OLD
+163_new,new,1231,NEW
+164_good,good,1035,GOOD
+165_badevil,"bad, evil",3764,BAD OR EVIL
+166_correcttrue,"correct, true",1725,CORRECT (RIGHT)
+167_night,night,1233,NIGHT
+168_day,day,1225,DAY (NOT NIGHT)
+169_year,year,1226,YEAR
+170_when,when?,1238,WHEN
+171_tohide,to hide,2486,HIDE
+172_toclimb,to climb,1102,CLIMB
+173_at,at,1461,AT
+174_ininside,"in, inside",1460,IN
+175_above,above,1741,ABOVE
+176_below,below,1485,BELOW OR UNDER
+177_this,this,1214,THIS
+178_that,that,78,THAT
+179_near,near,1942,NEAR
+180_far,far,1406,FAR
+181_where,where?,1237,WHERE
+182_i,I,1209,I
+183_thou,thou,1215,THOU
+184_heshe,he/she,2642,HE OR SHE
+185_we,we,1212,WE
+186_you,you,1213,YOU
+187_they,they,817,THEY
+188_what,what?,1236,WHAT
+189_who,who?,1235,WHO
+190_other,other,197,OTHER
+191_all,all,98,ALL
+192_and,and,1577,AND
+193_if,if,1459,IF
+194_how,how?,1239,HOW
+195_nonot,"no, not",2279,NO OR NOT
+196_tocount,to count,1420,COUNT
+197_one,One,1493,ONE
+198_two,Two,1498,TWO
+199_three,Three,492,THREE
+200_four,Four,1500,FOUR
+201_five,Five,493,FIVE
+202_six,Six,1703,SIX
+203_seven,Seven,1704,SEVEN
+204_eight,Eight,1705,EIGHT
+205_nine,Nine,1483,NINE
+206_ten,Ten,1515,TEN
+207_twenty,Twenty,1710,TWENTY
+208_fifty,Fifty,1717,FIFTY
+209_onehundred,One Hundred,1634,HUNDRED
+210_onethousand,One Thousand,1843,THOUSAND
