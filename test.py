@@ -7,11 +7,11 @@ def test_parameters(cldf_dataset):
     assert len(list(cldf_dataset["ParameterTable"])) == 210
 
 
-# test we have some languages
-def test_languages(cldf_dataset):
-    assert len(list(cldf_dataset["LanguageTable"])) == 417
-
-
-# test we have some cognates
-def test_cognates(cldf_dataset):
-    assert len(list(cldf_dataset["CognateTable"])) == 78602
+## test we have some languages
+#def test_languages(cldf_dataset):
+#    assert len(list(cldf_dataset["LanguageTable"])) == 417
+#
+#
+## test we have some cognates
+#def test_cognates(cldf_dataset):
+#    assert len(list(cldf_dataset["CognateTable"])) == 78602
