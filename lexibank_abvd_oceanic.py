@@ -40,6 +40,21 @@ class Dataset(abvd.BVD):
         separators=";/,~",
         missing_data=('-', ),
         strip_inside_brackets=True,
+        replacements=[
+            ("Vb1", ""),
+            (" +", ""),
+            (".", ""),
+            ("3AUG", ""),
+            ("3U-AUG", ""),
+            ("#NAME?", ""),
+            ("1", ""),
+            ("? ", ""),
+            ("#a-k", ""),
+            (" ̂ŋ"[1:], "ŋ"),
+            (" ̃pur"[1:], ""), 
+            ('"""', ""),
+            ("mo ̂ne", "mo ne"),
+            ]
     )
 
     def cmd_download(self, args):

@@ -12,30 +12,31 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Greenhill et al.'s \"Austronesian Basic Vocabulary Database\" from 2020",
+    "dcat:accessURL": "https://github.com/SimonGreenhill/abvd_oceanic",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "abvd_oceanic",
             "rdf:type": "prov:Entity",
-            "dc:created": "8fcd8bb",
-            "dc:title": "Repository"
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/SimonGreenhill/abvd_oceanic",
+            "dc:created": "16d6dc4"
         },
         {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
-            "dc:title": "Glottolog"
+            "dc:created": "v4.4"
         },
         {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v2.5.0",
-            "dc:title": "Concepticon"
+            "dc:created": "v2.5.0"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.1.0",
-            "dc:title": "CLTS"
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "dc:created": "v2.0.0"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -45,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.8.1"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
@@ -61,7 +62,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 85563,
+            "dc:extent": 85560,
             "tableSchema": {
                 "columns": [
                     {
@@ -286,7 +287,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 78602,
+            "dc:extent": 78601,
             "tableSchema": {
                 "columns": [
                     {
