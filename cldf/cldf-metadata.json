@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/SimonGreenhill/abvd_oceanic",
-            "dc:created": "16d6dc4"
+            "dc:created": "e8b99ae"
         },
         {
             "rdf:type": "prov:Entity",
@@ -46,14 +46,14 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.6"
+            "dc:description": "3.9.4"
         },
         {
             "dc:title": "python-packages",
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "abvd_oceanic",
+    "rdf:ID": "abvdoceanic",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
