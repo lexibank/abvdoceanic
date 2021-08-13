@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/SimonGreenhill/abvd_oceanic",
-            "dc:created": "b9429d8"
+            "dc:created": "a818a3b"
         },
         {
             "rdf:type": "prov:Entity",
@@ -62,7 +62,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 85562,
+            "dc:extent": 85561,
             "tableSchema": {
                 "columns": [
                     {

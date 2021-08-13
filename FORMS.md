@@ -17,7 +17,7 @@ These methods use the attributes of a `FormSpec` instance to configure their beh
   Iterable of strings that are used to mark missing data
 - `strip_inside_brackets`: `True`
   Flag signaling whether to strip content in brackets (**and** strip leading and trailing whitespace)
-- `replacements`: `[('Vb1', ''), (' +', ''), ('.', ''), ('3AUG', ''), ('3U-AUG', ''), ('#NAME?', '')]`
+- `replacements`: `[('Vb1', ''), (' +', ''), ('.', ''), ('3AUG', ''), ('3U-AUG', ''), ('#NAME?', ''), ('1', ''), ('? ', '')]`
   List of pairs (`source`, `target`) used to replace occurrences of `source` in formswith `target` (before stripping content in brackets)
 - `first_form_only`: `False`
   Flag signaling whether at most one form should be returned from `split` - effectively ignoring any spelling variants, etc.
