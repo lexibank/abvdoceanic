@@ -6,17 +6,17 @@
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
 | a | 75087 | ✓ | ✓ |
-| i | 36537 | ✓ | ✓ |
+| i | 36538 | ✓ | ✓ |
 | u | 30426 | ✓ | ✓ |
 | n | 28182 | ✓ | ✓ |
-| e | 24576 | ✓ | ✓ |
+| e | 24574 | ✓ | ✓ |
 | o | 23849 | ✓ | ✓ |
 | m | 19200 | ✓ | ✓ |
 | t | 18602 | ✓ | ✓ |
 | l | 17990 | ✓ | ✓ |
 | k | 16686 | ✓ | ✓ |
 | r | 16136 | ✓ | ✓ |
-| + | 14599 | ✓ | ✓ |
+| + | 14520 | ✓ | ✓ |
 | s | 11581 | ✓ | ✓ |
 | p | 8468 | ✓ | ✓ |
 | g | 6543 | ✓ | ✓ |
@@ -24,18 +24,18 @@
 | ŋ | 6115 | ✓ | ✓ |
 | v | 5970 | ✓ | ✓ |
 | b | 5315 | ✓ | ✓ |
-| w | 5085 | ✓ | ✓ |
-| ʔ | 4585 | ✓ | ✓ |
+| w | 5087 | ✓ | ✓ |
+| ʔ | 4584 | ✓ | ✓ |
 | d | 4055 | ✓ | ✓ |
 | f | 3226 | ✓ | ✓ |
-| y/j | 2880 | ✓ | ✓ |
+| y/j | 2881 | ✓ | ✓ |
 | ɣ | 2605 | ✓ | ✓ |
 | ɔ | 2467 | ✓ | ✓ |
 | ɛ | 2411 | ✓ | ✓ |
 | ə | 1931 | ✓ | ✓ |
 | β | 1818 | ✓ | ✓ |
 | aː | 1425 | ✓ | ✓ |
-| ⁿb | 1325 | ✓ | ✓ |
+| ⁿb | 1327 | ✓ | ✓ |
 | x | 1180 | ✓ | ✓ |
 | j/dʒ | 1153 | ✓ | ✓ |
 | mʷ | 1101 | ✓ | ✓ |
@@ -96,8 +96,8 @@
 | gʱ | 112 | ✓ | ✓ |
 | ü/y | 106 | ✓ | ✓ |
 | ē/e | 101 | ✓ | ✓ |
-| ⁿbʷ | 97 | ✓ | ✓ |
 | ⁿʙ | 97 | ✓ | ✓ |
+| ⁿbʷ | 95 | ✓ | ✓ |
 | ŋʷ | 93 | ✓ | ✓ |
 | ɳ | 93 | ✓ | ✓ |
 | tː | 89 | ✓ | ✓ |
@@ -131,9 +131,9 @@
 | ù/u | 55 | ✓ | ✓ |
 | pʰ | 54 | ✓ | ✓ |
 | ⁿr | 53 | ✓ | ✓ |
+| ì/i | 52 | ✓ | ✓ |
 | û/u | 52 | ✓ | ✓ |
 | nʰ | 51 | ✓ | ✓ |
-| ì/i | 51 | ✓ | ✓ |
 | ⁿk | 51 | ✓ | ✓ |
 | î/i | 49 | ✓ | ✓ |
 | ʀ | 49 | ✓ | ✓ |
@@ -141,9 +141,9 @@
 | ɵ | 47 | ✓ | ✓ |
 | rʰ | 45 | ✓ | ✓ |
 | óó/oː | 45 | ✓ | ✓ |
-| iy/i | 43 | ✓ | ✓ |
-| ᶢʟ/ʟ | 43 | ✓ | ✓ |
+| iy/i | 42 | ✓ | ✓ |
 | ȯ/o | 42 | ✓ | ✓ |
+| ᶢʟ/ʟ | 42 | ✓ | ✓ |
 | m̈/m | 39 | ✓ | ✓ |
 | fʷ | 37 | ✓ | ✓ |
 | rʷ | 37 | ✓ | ✓ |
@@ -153,8 +153,8 @@
 | v̈/vʱ | 35 | ✓ | ✓ |
 | ĕ/e | 34 | ✓ | ✓ |
 | ū/u | 34 | ✓ | ✓ |
-| ì | 33 | ✓ | ✓ |
 | š/ʃ | 33 | ✓ | ✓ |
+| ì | 32 | ✓ | ✓ |
 | βʷ | 32 | ✓ | ✓ |
 | fː | 31 | ✓ | ✓ |
 | nʷ | 31 | ✓ | ✓ |
@@ -173,11 +173,11 @@
 | ï | 23 | ✓ | ✓ |
 | ˀt | 23 | ✓ | ✓ |
 | wʰ | 22 | ✓ | ✓ |
+| ᶢ/ʟ | 22 | ✓ | ✓ |
 | ij/i | 21 | ✓ | ✓ |
 | lʰ | 21 | ✓ | ✓ |
 | tʷ | 21 | ✓ | ✓ |
 | ʏ | 21 | ✓ | ✓ |
-| ᶢ/ʟ | 21 | ✓ | ✓ |
 | ẽ | 21 | ✓ | ✓ |
 | bː | 20 | ✓ | ✓ |
 | sː | 20 | ✓ | ✓ |
@@ -274,6 +274,7 @@
 | uʰ/u | 5 | ✓ | ✓ |
 | êː/eː | 5 | ✓ | ✓ |
 | üü | 5 | ✓ | ✓ |
+| ɔ̃ | 5 | ✓ | ✓ |
 | ɖ | 5 | ✓ | ✓ |
 | əː | 5 | ✓ | ✓ |
 | ɛʰ/ɛ | 5 | ✓ | ✓ |
@@ -290,7 +291,6 @@
 | ņ/n | 4 | ✓ | ✓ |
 | ņ/ŋ | 4 | ✓ | ✓ |
 | ŋ̊/ŋ | 4 | ✓ | ✓ |
-| ɔ̃ | 4 | ✓ | ✓ |
 | ɔ̅/ɔ | 4 | ✓ | ✓ |
 | ɛ̃ː | 4 | ✓ | ✓ |
 | ʁ | 4 | ✓ | ✓ |
@@ -416,7 +416,6 @@
 | ȡ/d | 1 | ✓ | ✓ |
 | ɒ̃ | 1 | ✓ | ✓ |
 | ɔʰ/ɔ | 1 | ✓ | ✓ |
-| ɔ͂ | 1 | ? | ? |
 | ə˞ | 1 | ✓ | ✓ |
 | ə́/ə | 1 | ✓ | ✓ |
 | ɭ | 1 | ✓ | ✓ |
@@ -430,6 +429,7 @@
 | ˀpʷ | 1 | ✓ | ✓ |
 | ˀð | 1 | ✓ | ✓ |
 | ˀɸ | 1 | ✓ | ✓ |
+| ˤ/ʕ | 1 | ✓ | ✓ |
 | βʰ | 1 | ✓ | ✓ |
 | βˀ | 1 | ✓ | ✓ |
 | βː | 1 | ✓ | ✓ |
@@ -466,74 +466,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-----------------------------------|:---------------------|:-----------------|:----------------|:----------------------------|
-| AmbaeWestNgwatua-4_legfoot-1 | AmbaeWestNgwatua | 4_legfoot | tutu·-ᵑgu | t u t u + + ⁿg u |
-| AvokAvok16299-137_toblow-1 | AvokAvok16299 | 137_toblow | ɳo--vuv | ɳ o + + v u v |
-| AvokAvok16299-175_above-1 | AvokAvok16299 | 175_above | ha--miɛx | h a + + m i ɛ x |
-| BieriaVowa-100_wing-1 | BieriaVowa | 100_wing | kaᵐba·-na | k a ⁿb a + + n a |
-| BieriaVowa-23_blood-1 | BieriaVowa | 23_blood | ⁿda·-ŋ | ⁿd a + + ŋ |
-| BieriaVowa-59_mother-1 | BieriaVowa | 59_mother | la·-ŋ | l a + + ŋ |
-| BigaMisool-25_neck-1 | BigaMisool | 25_neck | geli- kabayo | g e l i + + k a b a y/j o |
-| BigaMisool-49_toliedown-1 | BigaMisool | 49_toliedown | -enef -amnayo | e n e f + + a m n a y/j o |
-| Bilibil-28_tobreathe-1 | Bilibil | 28_tobreathe | yaiŋ -ŋal- | y/j a i ŋ + + ŋ a l |
-| Chuukese-183_thou-5 | Chuukese | 183_thou | ká- kó- | k á/a + + k ó/o |
-| Haku-196_tocount-1 | Haku | 196_tocount | e- esena | e + + e s e n a |
-| Haku-22_tofear-1 | Haku | 22_tofear | e- matutuna | e + + m a t u t u n a |
-| Haku-29_tosniffsmell-1 | Haku | 29_tosniffsmell | e- sokana | e + + s o k a n a |
-| Haku-33_tolaugh-1 | Haku | 33_tolaugh | e- golona | e + + g o l o n a |
-| Haku-35_tovomit-1 | Haku | 35_tovomit | e- lŏana | e + + l ŏ/o a n a |
-| Haku-42_tosuck-1 | Haku | 42_tosuck | e- to pona | e + + t o + p o n a |
-| Haku-66_totieupfasten-1 | Haku | 66_totieupfasten | e- longoton̄a | e + + l o n g o t o n̄/n a |
-| Haku-77_toscratch-1 | Haku | 77_toscratch | e- takirahan | e + + t a k i r a h a n |
-| Haku-83_towork-1 | Haku | 83_towork | e- kutina | e + + k u t i n a |
-| Haku-87_toswell-1 | Haku | 87_toswell | e- pukuna | e + + p u k u n a |
-| Kilivila-202_six-1 | Kilivila | 202_six | -lima -tala | l i m a + + t a l a |
-| Kilivila-203_seven-1 | Kilivila | 203_seven | -lima -yu | l i m a + + y/j u |
-| Kilivila-204_eight-1 | Kilivila | 204_eight | -lima -tolu | l i m a + + t o l u |
-| Kilivila-205_nine-1 | Kilivila | 205_nine | -lima -vasi | l i m a + + v a s i |
-| Madak-97_bird-1 | Madak | 97_bird | liviga - lapka | l i v i g a + + + l a p k a |
-| Maii-16_intestines-1 | Maii | 16_intestines | tna·-ŋ | t n a + + ŋ |
-| Maii-23_blood-1 | Maii | 23_blood | ⁿda·-ŋ | ⁿd a + + ŋ |
-| MandriFarun16291-143_fire-1 | MandriFarun16291 | 143_fire | nɪ--xamp | n ɪ + + x a m p |
-| MandriFarun16291-202_six-1 | MandriFarun16291 | 202_six | lɪmɪru--ʧkai | l ɪ m ɪ r u + + tʃ k a i |
-| MangapMbula-58_wife-1 | MangapMbula | 58_wife | kusi- moori | k u s i + + m oː r i |
-| MaringeLeleghia-25_neck-1 | MaringeLeleghia | 25_neck | grara-ña - | g r a r a + ɲ a + |
-| Misima-191_all-1 | Misima | 191_all | gegewe|-na | g e g e w e + + n a |
-| Misima-191_all-2 | Misima | 191_all | gegewe|-l | g e g e w e + + l |
-| MonoAlu-4_legfoot-1 | MonoAlu | 4_legfoot | tɔtɔ·-na | t ɔ t ɔ + + n a |
-| NaahaiMbatvanui16285-118_grass-1 | NaahaiMbatvanui16285 | 118_grass | nɪ- mʷini | n ɪ + + mʷ i n i |
-| Navwien16287-7_tocome-1 | Navwien16287 | 7_tocome | usə--ᵐbʷɛl | u s ə + + ⁿbʷ ɛ l |
-| NehanHape-188_what-1 | NehanHape | 188_what | ahaw | haw | a h a w + + + h a w |
-| NititaKhatbol-66_totieupfasten-1 | NititaKhatbol | 66_totieupfasten | -pisiŋ -pan | p i s i ŋ + + p a n |
-| NyelayuBelepDialect-28_tobreathe-1 | NyelayuBelepDialect | 28_tobreathe | te- huc | t e + + h u c/ts |
-| Piamatsina-2_left-1 | Piamatsina | 2_left | lima- hi marau- | l i m a + + h i + m a r a u |
-| Piamatsina-3_right-1 | Piamatsina | 3_right | lima- hi matua- | l i m a + + h i + m a t u a |
-| Riwo-88_tosqueeze-1 | Riwo | 88_tosqueeze | abi -pipi | a b i + + p i p i |
-| SaaAuluVillage-79_stickwood-1 | SaaAuluVillage | 79_stickwood | hai -djano | h a i + + d j/dʒ a n o |
-| Sengseng-27_nose-2 | Sengseng | 27_nose | hut - | h u t + |
-| Takia-28_tobreathe-1 | Takia | 28_tobreathe | yaes -bal | y/j a e s + + b a l |
-| Takia-29_tosniffsmell-1 | Takia | 29_tosniffsmell | -wen -loŋ | w e n + + l o ŋ |
-| Takia-47_toyawn-1 | Takia | 47_toyawn | awa- -abi | a w a + + + a b i |
-| Takia-74_tokill-1 | Takia | 74_tokill | -pun- -mat- | p u n + + + m a t |
-| Tami-21_tothink-1 | Tami | 21_tothink | kade- ŋka | k a d e + + ŋ k a |
-| TannaNorth-117_fruit-1 | TannaNorth | 117_fruit | na·-nəŋ | n a + + n ə ŋ |
-| Tarpia-41_tobite-1 | Tarpia | 41_tobite | kar -aʔpor | k a r + + a ʔ p o r |
-| Tarpia-45_eye-1 | Tarpia | 45_eye | mapu- kani- | m a p u + + k a n i |
-| Tarpia-48_tosleep-1 | Tarpia | 48_tosleep | mun -aien | m u n + + a i e n |
-| Tarpia-49_toliedown-1 | Tarpia | 49_toliedown | nari -aiñen | n a r i + + a i ɲ e n |
-| Tarpia-78_tocuthack-1 | Tarpia | 78_tocuthack | nobomte -ke | n o b o m t e + + k e |
-| Tarpia-91_tobuy-1 | Tarpia | 91_tobuy | nin -isiʔ | n i n + + i s i ʔ |
-| UliveoLurtes162107-119_earthsoil-2 | UliveoLurtes162107 | 119_earthsoil | na- ðan | n a + + ð a n |
-| UliveoLurtes162107-134_thunder-2 | UliveoLurtes162107 | 134_thunder | næ- pulurur | n æ + + p u l u r u r |
-| UliveoLurtes162107-137_toblow-2 | UliveoLurtes162107 | 137_toblow | e- wuɸ | e + + w u ɸ |
-| UliveoLurtes162107-143_fire-2 | UliveoLurtes162107 | 143_fire | na- -ɣam | n a + + + ɣ a m |
-| UliveoLurtes162107-82_dullblunt-2 | UliveoLurtes162107 | 82_dullblunt | ɛ- ᵐbʷið | ɛ + + ⁿbʷ i ð |
-| Varisi-1_hand-1 | Varisi | 1_hand | karisi - | k a r i s i + |
-| Varisi-2_left-1 | Varisi | 2_left | ɣende - na | ɣ e n d e + + + n a |
-| Varisi-4_legfoot-1 | Varisi | 4_legfoot | make - | m a k e + |
-| WindesiWandamen-187_they-1 | WindesiWandamen | 187_they | si| | s i + |
-| atarxobuGunwar-44_tohear-1 | atarxobuGunwar | 44_tohear | -roŋɔ͂ | r o ŋ <s> ɔ͂ </s> |
+|------|------------|-----------|--------|------------|
 
-(66 rows)
+(0 rows)
 
 

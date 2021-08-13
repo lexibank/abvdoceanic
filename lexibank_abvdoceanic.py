@@ -41,6 +41,7 @@ class Dataset(abvd.BVD):
         missing_data=('-', ),
         strip_inside_brackets=True,
         replacements=[
+            (" ", "_"),
             ("Vb1", ""),
             (" +", ""),
             (".", ""),

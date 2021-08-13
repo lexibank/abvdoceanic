@@ -6,16 +6,16 @@ with open('metadata.json', 'r', encoding='utf-8') as fp:
 
 
 setup(
-    name='lexibank_abvd_oceanic',
+    name='lexibank_abvdoceanic',
     description=metadata['title'],
     license=metadata['license'],
     url=metadata['url'],
-    py_modules=['lexibank_abvd_oceanic'],
+    py_modules=['lexibank_abvdoceanic'],
     include_package_data=True,
     zip_safe=False,
     entry_points={
         'lexibank.dataset': [
-            'abvd_oceanic=lexibank_abvd_oceanic:Dataset',
+            'abvdoceanic=lexibank_abvdoceanic:Dataset',
         ]
     },
     extras_require={"test": ["pytest-cldf"]},
