@@ -11,12 +11,12 @@
 | n | 28182 | ✓ | ✓ |
 | e | 24576 | ✓ | ✓ |
 | o | 23849 | ✓ | ✓ |
-| + | 21450 | ✓ | ✓ |
 | m | 19200 | ✓ | ✓ |
 | t | 18602 | ✓ | ✓ |
 | l | 17990 | ✓ | ✓ |
 | k | 16686 | ✓ | ✓ |
 | r | 16136 | ✓ | ✓ |
+| + | 14599 | ✓ | ✓ |
 | s | 11581 | ✓ | ✓ |
 | p | 8468 | ✓ | ✓ |
 | g | 6543 | ✓ | ✓ |
@@ -274,7 +274,6 @@
 | uʰ/u | 5 | ✓ | ✓ |
 | êː/eː | 5 | ✓ | ✓ |
 | üü | 5 | ✓ | ✓ |
-| ɔ̃ | 5 | ✓ | ✓ |
 | ɖ | 5 | ✓ | ✓ |
 | əː | 5 | ✓ | ✓ |
 | ɛʰ/ɛ | 5 | ✓ | ✓ |
@@ -291,6 +290,7 @@
 | ņ/n | 4 | ✓ | ✓ |
 | ņ/ŋ | 4 | ✓ | ✓ |
 | ŋ̊/ŋ | 4 | ✓ | ✓ |
+| ɔ̃ | 4 | ✓ | ✓ |
 | ɔ̅/ɔ | 4 | ✓ | ✓ |
 | ɛ̃ː | 4 | ✓ | ✓ |
 | ʁ | 4 | ✓ | ✓ |
@@ -416,6 +416,7 @@
 | ȡ/d | 1 | ✓ | ✓ |
 | ɒ̃ | 1 | ✓ | ✓ |
 | ɔʰ/ɔ | 1 | ✓ | ✓ |
+| ɔ͂ | 1 | ? | ? |
 | ə˞ | 1 | ✓ | ✓ |
 | ə́/ə | 1 | ✓ | ✓ |
 | ɭ | 1 | ✓ | ✓ |
@@ -449,7 +450,7 @@
 | ⁿtʃ | 1 | ✓ | ✓ |
 | ⁿw | 1 | ✓ | ✓ |
 
-(443 rows)
+(444 rows)
 
 
 
@@ -465,108 +466,74 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:------------------------------|-----------:|:-------------------------|:-------------|:--------------------------|
-| 19-115_root-1 | 19 | 115_root | kʷɛɛ- | kʷ ɛː + |
-| 19-57_husband-1 | 19 | 57_husband | kʷɛɛtɔ- | kʷ ɛː t ɔ + |
-| 19-58_wife-1 | 19 | 58_wife | kʷɛɛɔ- | kʷ ɛː ɔ + |
-| 19-59_mother-1 | 19 | 59_mother | mʷiñɛ- | mʷ i ɲ ɛ + |
-| 19-60_father-1 | 19 | 60_father | panɛɛ- | p a n ɛː + |
-| 21-100_wing-1 | 21 | 100_wing | baɣi- | b a ɣ i + |
-| 21-103_meatflesh-1 | 21 | 103_meatflesh | fnahi- | f n a h i + |
-| 21-104_fatgrease-1 | 21 | 104_fatgrease | maruhu- | m a r u h u + |
-| 21-105_tail-1 | 21 | 105_tail | seku- | s e k u + |
-| 21-12_skin-1 | 21 | 12_skin | guli- | g u l i + |
-| 21-13_back-1 | 21 | 13_back | tataʔaru- | t a t a ʔ a r u + |
-| 21-14_belly-1 | 21 | 14_belly | thiʔa- | tʰ i ʔ a + |
-| 21-15_bone-1 | 21 | 15_bone | hnuʔma- | h n u ʔ m a + |
-| 21-16_intestines-1 | 21 | 16_intestines | ñapa- | ɲ a p a + |
-| 21-17_liver-1 | 21 | 17_liver | kekeʔsu- | k e k e ʔ s u + |
-| 21-18_breast-1 | 21 | 18_breast | suʔu- | s u ʔ u + |
-| 21-1_hand-1 | 21 | 1_hand | kʰame- | kʰ a m e + |
-| 21-23_blood-1 | 21 | 23_blood | dadara- | d a d a r a + |
-| 21-24_head-1 | 21 | 24_head | pʰaʔu- | pʰ a ʔ u + |
-| 21-25_neck-1 | 21 | 25_neck | tʰaʔna- | tʰ a ʔ n a + |
-| 21-27_nose-1 | 21 | 27_nose | nehu- | n e h u + |
-| 21-30_mouth-1 | 21 | 30_mouth | maŋa- | m a ŋ a + |
-| 21-31_tooth-1 | 21 | 31_tooth | kʰeʔi- | kʰ e ʔ i + |
-| 21-32_tongue-1 | 21 | 32_tongue | glapi- | g l a p i + |
-| 21-43_ear-1 | 21 | 43_ear | kʰuli- | kʰ u l i + |
-| 21-45_eye-1 | 21 | 45_eye | natʰa- | n a tʰ a + |
-| 21-4_legfoot-1 | 21 | 4_legfoot | neneʔe- | n e n e ʔ e + |
-| 21-63_name-1 | 21 | 63_name | nahŋa- | n a h ŋ a + |
-| 21-99_feather-1 | 21 | 99_feather | kʰala- | kʰ a l a + |
-| 23-183_thou-2 | 23 | 183_thou | k- | k + |
-| 23-184_heshe-2 | 23 | 184_heshe | a- | a + |
-| 23-185_we-2 | 23 | 185_we | t- | t + |
-| 23-185_we-4 | 23 | 185_we | m- | m + |
-| 24-173_at-1 | 24 | 173_at | -na | + n a |
-| 26-191_all-1 | 26 | 191_all | ibou- | i b o u + |
-| 30-13_back-1 | 30 | 13_back | kapya- | k a p y/j a + |
-| 38-55_womanfemale-2 | 38 | 55_womanfemale | -hine | + h i n e |
-| 39-28_tobreathe-1 | 39 | 28_tobreathe | -lol alí-ak | + l o l + a l í/i + a k |
-| 39-51_tosit-1 | 39 | 51_tosit | -nasi pitʏ | + n a s i + p i t ʏ |
-| 39-52_tostand-1 | 39 | 52_tostand | -lul | + l u l |
-| 39-52_tostand-2 | 39 | 52_tostand | -tou | + t o u |
-| 39-64_tosay-1 | 39 | 64_tosay | -pal aliŋ | + p a l + a l i ŋ |
-| 39-69_tohunt-1 | 39 | 69_tohunt | -or | + o r |
-| 39-76_tolivebealive-1 | 39 | 76_tolivebealive | -tou | + t o u |
-| 39-7_tocome-1 | 39 | 7_tocome | -ma | + m a |
-| 4-100_wing-1 | 4 | 100_wing | buburu- | b u b u r u + |
-| 4-100_wing-2 | 4 | 100_wing | bana- | b a n a + |
-| 4-12_skin-1 | 4 | 12_skin | kabunu- | k a b u n u + |
-| 4-13_back-1 | 4 | 13_back | tsughi- | ts u gʱ i + |
-| 4-14_belly-1 | 4 | 14_belly | kobi- | k o b i + |
-| 4-15_bone-1 | 4 | 15_bone | sipana- | s i p a n a + |
-| 4-16_intestines-1 | 4 | 16_intestines | kore- | k o r e + |
-| 4-17_liver-1 | 4 | 17_liver | date- | d a t e + |
-| 4-18_breast-1 | 4 | 18_breast | su- | s u + |
-| 4-19_shoulder-1 | 4 | 19_shoulder | dzaneko- | dz a n e k o + |
-| 4-1_hand-1 | 4 | 1_hand | numa- | n u m a + |
-| 4-24_head-1 | 4 | 24_head | tope- | t o p e + |
-| 4-25_neck-1 | 4 | 25_neck | kokoromo- | k o k o r o m o + |
-| 4-26_hair-1 | 4 | 26_hair | punu- | p u n u + |
-| 4-27_nose-1 | 4 | 27_nose | vivitsi- | v i v i ts i + |
-| 4-27_nose-2 | 4 | 27_nose | visu- | v i s u + |
-| 4-30_mouth-1 | 4 | 30_mouth | maŋo- | m a ŋ o + |
-| 4-31_tooth-1 | 4 | 31_tooth | nuki- | n u k i + |
-| 4-32_tongue-1 | 4 | 32_tongue | mea- | m e a + |
-| 4-3_right-1 | 4 | 3_right | matoo- | m a t oː + |
-| 4-43_ear-1 | 4 | 43_ear | taŋina- | t a ŋ i n a + |
-| 4-45_eye-1 | 4 | 45_eye | mata- | m a t a + |
-| 4-53_personhumanbeing-1 | 4 | 53_personhumanbeing | na- | n a + |
-| 4-59_mother-1 | 4 | 59_mother | tsina- | ts i n a + |
-| 4-60_father-1 | 4 | 60_father | tama- | t a m a + |
-| 4-63_name-1 | 4 | 63_name | vasaŋa- | v a s a ŋ a + |
-| 4-7_tocome-1 | 4 | 7_tocome | -ma | + m a |
-| 4-99_feather-1 | 4 | 99_feather | puata- | p u a t a + |
-| 40-103_meatflesh-1 | 40 | 103_meatflesh | tarai- | t a r a i + |
-| 40-13_back-1 | 40 | 13_back | kuruu- | k u r uː + |
-| 40-14_belly-1 | 40 | 14_belly | ene- | e n e + |
-| 40-172_toclimb-1 | 40 | 172_toclimb | -utai | + u t a i |
-| 40-26_hair-1 | 40 | 26_hair | nu- | n u + |
-| 40-27_nose-1 | 40 | 27_nose | ube- | u b e + |
-| 40-29_tosniffsmell-1 | 40 | 29_tosniffsmell | -naha | + n a h a |
-| 40-30_mouth-1 | 40 | 30_mouth | boro- | b o r o + |
-| 40-31_tooth-1 | 40 | 31_tooth | dore- | d o r e + |
-| 40-32_tongue-1 | 40 | 32_tongue | tapre- | t a p r e + |
-| 40-43_ear-1 | 40 | 43_ear | taraa- | t a r aː + |
-| 40-45_eye-1 | 40 | 45_eye | ure- | u r e + |
-| 40-50_todream-1 | 40 | 50_todream | -miai | + m i a i |
-| 40-7_tocome-1 | 40 | 7_tocome | -ma | + m a |
-| 40-9_toswim-1 | 40 | 9_toswim | -eria | + e r i a |
-| 46-13_back-1 | 46 | 13_back | uta- | u t a + |
-| 46-14_belly-1 | 46 | 14_belly | nia- | n i a + |
-| 46-20_toknowbeknowledgeable-1 | 46 | 20_toknowbeknowledgeable | -uno | + u n o |
-| 46-21_tothink-1 | 46 | 21_tothink | -fikir | + f i k i r |
-| 46-22_tofear-1 | 46 | 22_tofear | -mtat | + m t a t |
-| 46-24_head-1 | 46 | 24_head | wu- | w u + |
-| 46-25_neck-1 | 46 | 25_neck | geli- kabayo | g e l i + + k a b a y/j o |
-| 46-4_legfoot-1 | 46 | 4_legfoot | k|ae- | k + a e + |
-| 46-5_towalk-1 | 46 | 5_towalk | -tag | + t a g |
-| 46-8_toturn-1 | 46 | 8_toturn | mafu- | m a f u + |
-| 46-9_toswim-1 | 46 | 9_toswim | -mas | + m a s |
-| 7-173_at-1 | 7 | 173_at | -lak | + l a k |
+|:-----------------------------------|:---------------------|:-----------------|:----------------|:----------------------------|
+| AmbaeWestNgwatua-4_legfoot-1 | AmbaeWestNgwatua | 4_legfoot | tutu·-ᵑgu | t u t u + + ⁿg u |
+| AvokAvok16299-137_toblow-1 | AvokAvok16299 | 137_toblow | ɳo--vuv | ɳ o + + v u v |
+| AvokAvok16299-175_above-1 | AvokAvok16299 | 175_above | ha--miɛx | h a + + m i ɛ x |
+| BieriaVowa-100_wing-1 | BieriaVowa | 100_wing | kaᵐba·-na | k a ⁿb a + + n a |
+| BieriaVowa-23_blood-1 | BieriaVowa | 23_blood | ⁿda·-ŋ | ⁿd a + + ŋ |
+| BieriaVowa-59_mother-1 | BieriaVowa | 59_mother | la·-ŋ | l a + + ŋ |
+| BigaMisool-25_neck-1 | BigaMisool | 25_neck | geli- kabayo | g e l i + + k a b a y/j o |
+| BigaMisool-49_toliedown-1 | BigaMisool | 49_toliedown | -enef -amnayo | e n e f + + a m n a y/j o |
+| Bilibil-28_tobreathe-1 | Bilibil | 28_tobreathe | yaiŋ -ŋal- | y/j a i ŋ + + ŋ a l |
+| Chuukese-183_thou-5 | Chuukese | 183_thou | ká- kó- | k á/a + + k ó/o |
+| Haku-196_tocount-1 | Haku | 196_tocount | e- esena | e + + e s e n a |
+| Haku-22_tofear-1 | Haku | 22_tofear | e- matutuna | e + + m a t u t u n a |
+| Haku-29_tosniffsmell-1 | Haku | 29_tosniffsmell | e- sokana | e + + s o k a n a |
+| Haku-33_tolaugh-1 | Haku | 33_tolaugh | e- golona | e + + g o l o n a |
+| Haku-35_tovomit-1 | Haku | 35_tovomit | e- lŏana | e + + l ŏ/o a n a |
+| Haku-42_tosuck-1 | Haku | 42_tosuck | e- to pona | e + + t o + p o n a |
+| Haku-66_totieupfasten-1 | Haku | 66_totieupfasten | e- longoton̄a | e + + l o n g o t o n̄/n a |
+| Haku-77_toscratch-1 | Haku | 77_toscratch | e- takirahan | e + + t a k i r a h a n |
+| Haku-83_towork-1 | Haku | 83_towork | e- kutina | e + + k u t i n a |
+| Haku-87_toswell-1 | Haku | 87_toswell | e- pukuna | e + + p u k u n a |
+| Kilivila-202_six-1 | Kilivila | 202_six | -lima -tala | l i m a + + t a l a |
+| Kilivila-203_seven-1 | Kilivila | 203_seven | -lima -yu | l i m a + + y/j u |
+| Kilivila-204_eight-1 | Kilivila | 204_eight | -lima -tolu | l i m a + + t o l u |
+| Kilivila-205_nine-1 | Kilivila | 205_nine | -lima -vasi | l i m a + + v a s i |
+| Madak-97_bird-1 | Madak | 97_bird | liviga - lapka | l i v i g a + + + l a p k a |
+| Maii-16_intestines-1 | Maii | 16_intestines | tna·-ŋ | t n a + + ŋ |
+| Maii-23_blood-1 | Maii | 23_blood | ⁿda·-ŋ | ⁿd a + + ŋ |
+| MandriFarun16291-143_fire-1 | MandriFarun16291 | 143_fire | nɪ--xamp | n ɪ + + x a m p |
+| MandriFarun16291-202_six-1 | MandriFarun16291 | 202_six | lɪmɪru--ʧkai | l ɪ m ɪ r u + + tʃ k a i |
+| MangapMbula-58_wife-1 | MangapMbula | 58_wife | kusi- moori | k u s i + + m oː r i |
+| MaringeLeleghia-25_neck-1 | MaringeLeleghia | 25_neck | grara-ña - | g r a r a + ɲ a + |
+| Misima-191_all-1 | Misima | 191_all | gegewe|-na | g e g e w e + + n a |
+| Misima-191_all-2 | Misima | 191_all | gegewe|-l | g e g e w e + + l |
+| MonoAlu-4_legfoot-1 | MonoAlu | 4_legfoot | tɔtɔ·-na | t ɔ t ɔ + + n a |
+| NaahaiMbatvanui16285-118_grass-1 | NaahaiMbatvanui16285 | 118_grass | nɪ- mʷini | n ɪ + + mʷ i n i |
+| Navwien16287-7_tocome-1 | Navwien16287 | 7_tocome | usə--ᵐbʷɛl | u s ə + + ⁿbʷ ɛ l |
+| NehanHape-188_what-1 | NehanHape | 188_what | ahaw | haw | a h a w + + + h a w |
+| NititaKhatbol-66_totieupfasten-1 | NititaKhatbol | 66_totieupfasten | -pisiŋ -pan | p i s i ŋ + + p a n |
+| NyelayuBelepDialect-28_tobreathe-1 | NyelayuBelepDialect | 28_tobreathe | te- huc | t e + + h u c/ts |
+| Piamatsina-2_left-1 | Piamatsina | 2_left | lima- hi marau- | l i m a + + h i + m a r a u |
+| Piamatsina-3_right-1 | Piamatsina | 3_right | lima- hi matua- | l i m a + + h i + m a t u a |
+| Riwo-88_tosqueeze-1 | Riwo | 88_tosqueeze | abi -pipi | a b i + + p i p i |
+| SaaAuluVillage-79_stickwood-1 | SaaAuluVillage | 79_stickwood | hai -djano | h a i + + d j/dʒ a n o |
+| Sengseng-27_nose-2 | Sengseng | 27_nose | hut - | h u t + |
+| Takia-28_tobreathe-1 | Takia | 28_tobreathe | yaes -bal | y/j a e s + + b a l |
+| Takia-29_tosniffsmell-1 | Takia | 29_tosniffsmell | -wen -loŋ | w e n + + l o ŋ |
+| Takia-47_toyawn-1 | Takia | 47_toyawn | awa- -abi | a w a + + + a b i |
+| Takia-74_tokill-1 | Takia | 74_tokill | -pun- -mat- | p u n + + + m a t |
+| Tami-21_tothink-1 | Tami | 21_tothink | kade- ŋka | k a d e + + ŋ k a |
+| TannaNorth-117_fruit-1 | TannaNorth | 117_fruit | na·-nəŋ | n a + + n ə ŋ |
+| Tarpia-41_tobite-1 | Tarpia | 41_tobite | kar -aʔpor | k a r + + a ʔ p o r |
+| Tarpia-45_eye-1 | Tarpia | 45_eye | mapu- kani- | m a p u + + k a n i |
+| Tarpia-48_tosleep-1 | Tarpia | 48_tosleep | mun -aien | m u n + + a i e n |
+| Tarpia-49_toliedown-1 | Tarpia | 49_toliedown | nari -aiñen | n a r i + + a i ɲ e n |
+| Tarpia-78_tocuthack-1 | Tarpia | 78_tocuthack | nobomte -ke | n o b o m t e + + k e |
+| Tarpia-91_tobuy-1 | Tarpia | 91_tobuy | nin -isiʔ | n i n + + i s i ʔ |
+| UliveoLurtes162107-119_earthsoil-2 | UliveoLurtes162107 | 119_earthsoil | na- ðan | n a + + ð a n |
+| UliveoLurtes162107-134_thunder-2 | UliveoLurtes162107 | 134_thunder | næ- pulurur | n æ + + p u l u r u r |
+| UliveoLurtes162107-137_toblow-2 | UliveoLurtes162107 | 137_toblow | e- wuɸ | e + + w u ɸ |
+| UliveoLurtes162107-143_fire-2 | UliveoLurtes162107 | 143_fire | na- -ɣam | n a + + + ɣ a m |
+| UliveoLurtes162107-82_dullblunt-2 | UliveoLurtes162107 | 82_dullblunt | ɛ- ᵐbʷið | ɛ + + ⁿbʷ i ð |
+| Varisi-1_hand-1 | Varisi | 1_hand | karisi - | k a r i s i + |
+| Varisi-2_left-1 | Varisi | 2_left | ɣende - na | ɣ e n d e + + + n a |
+| Varisi-4_legfoot-1 | Varisi | 4_legfoot | make - | m a k e + |
+| WindesiWandamen-187_they-1 | WindesiWandamen | 187_they | si| | s i + |
+| atarxobuGunwar-44_tohear-1 | atarxobuGunwar | 44_tohear | -roŋɔ͂ | r o ŋ <s> ɔ͂ </s> |
 
-(100 rows)
+(66 rows)
 
 

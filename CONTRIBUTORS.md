@@ -2,6 +2,5 @@
 
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
-Simon J. Greenhill | @SimonGreenhill | patron                               | Author
-Robert Forkel      | @xrotwang       | patron                               | Author
-Tiago Tresoldi     | @tresoldi       | profile                              | Author
+Simon J. Greenhill | @SimonGreenhill | maintainer                           | Author
+Johann-Mattis List | @lingulist  | orthography profiles | Other
