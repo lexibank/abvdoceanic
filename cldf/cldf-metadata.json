@@ -15,28 +15,28 @@
     "dcat:accessURL": "https://github.com/SimonGreenhill/abvd_oceanic",
     "prov:wasDerivedFrom": [
         {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
             "rdf:about": "https://github.com/SimonGreenhill/abvd_oceanic",
-            "rdf:type": "prov:Entity",
-            "dc:created": "1a7af07",
-            "dc:title": "Repository"
+            "dc:created": "534ca8d"
         },
         {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
-            "dc:title": "Glottolog"
+            "dc:created": "v4.4"
         },
         {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v2.5.0",
-            "dc:title": "Concepticon"
+            "dc:created": "v2.5.0"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.0.0",
-            "dc:title": "CLTS"
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "dc:created": "v2.0.0"
         }
     ],
     "prov:wasGeneratedBy": [

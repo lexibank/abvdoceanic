@@ -16,7 +16,10 @@ setup(
     entry_points={
         'lexibank.dataset': [
             'abvdoceanic=lexibank_abvdoceanic:Dataset',
-        ]
+        ],
+        'cldfbench.commands': [
+            'abvdoceanic=abvdoceanic_commands',
+        ],
     },
     extras_require={"test": ["pytest-cldf"]},
     install_requires=[
