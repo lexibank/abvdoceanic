@@ -60,6 +60,8 @@ class Dataset(abvd.BVD):
 
     def cmd_download(self, args):
         raise NotImplementedException("Manually place raw XML files in ./raw/")
+    
+
 
     def cmd_makecldf(self, args):
         args.writer.add_sources(*self.etc_dir.read_bib())

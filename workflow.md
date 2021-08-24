@@ -33,3 +33,11 @@ If you have `cartopy` installed, you can also plot the data in PDF format:
 ```
 $ cldfbench cldfviz.map --language-properties=Consonants,Vowels --format pdf --width 30 --height 20 --markersize 20 cldf-structure/StructureDataset-metadata.json --extent=-40,80,30,-50 --pacific-centered --output=plots/map
 ```
+
+To align the data, type:
+
+```
+$ cldfbench abvdoceanic.align
+```
+
+
