@@ -42,6 +42,7 @@ class Dataset(abvd.BVD):
         strip_inside_brackets=True,
         replacements=[
             (" ", "_"),
+            ('"', ""),
             ("Vb1", ""),
             (" +", ""),
             (".", ""),
@@ -64,12 +65,12 @@ class Dataset(abvd.BVD):
 
 
     def cmd_makecldf(self, args):
-        args.writer.add_sources(*self.etc_dir.read_bib())
+        args.writer.add_sources(*self.raw_dir.read_bib())
         concepts = args.writer.add_concepts(
             id_factory=lambda c: c.id.split('-')[-1]+ '_' + slug(c.english),
             lookup_factory=lambda c: c['ID'].split('_')[0]
         )
-        for wl in progressbar(self.iter_wordlists(args.log), desc="cldfify"):
+        for wl in progressbar(list(self.iter_wordlists(args.log)), desc="cldfify"):
             args.writer.add_language(
                     ID=slug(wl.language.name, lowercase=False),
                     Glottocode=wl.language.glottocode,
@@ -115,7 +116,10 @@ class Dataset(abvd.BVD):
                         Loan=True if entry.loan and len(entry.loan) else False,
                     )
                 except:  # NOQA: E722; pragma: no cover
+                    
                     args.log.warning("ERROR with %r -- %r" % (entry.id, entry.name))
+                    args.log.warning(wl.language.name)
+                    args.log.warning(wl.language.id)
                     raise
 
                 if lex:
