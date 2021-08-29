@@ -65,6 +65,17 @@ class Dataset(abvd.BVD):
 
 
     def cmd_makecldf(self, args):
+
+        # Load ignore list
+        ignore_list = {}
+        try:
+            ignore_raw = self.etc_dir.read_csv("ignore.tsv", delimiter="\t")
+            ignore_list = {(row[0], row[2]) : None for row in ignore_raw}
+            args.log.info("Loaded etc/ignore.tsv with {} entries".format(len(ignore_list)))
+        # Unless there isn't one
+        except FileNotFoundError:
+            pass
+        
         args.writer.add_sources(*self.raw_dir.read_bib())
         concepts = args.writer.add_concepts(
             id_factory=lambda c: c.id.split('-')[-1]+ '_' + slug(c.english),
@@ -92,6 +103,11 @@ class Dataset(abvd.BVD):
                 # (x = probably, s = definitely)
                 if entry.cognacy and entry.cognacy.lower() in ('s', 'x'):
                     continue  # pragma: no cover
+
+                # Skip entries which appear in etc/ignore.tsv
+                lid = slug(wl.language.name, lowercase=False)
+                if ignore_list and (lid, entry.name) in ignore_list:
+                    continue
 
                 # handle concepts
                 cid = concepts.get(entry.word_id)
@@ -138,7 +154,6 @@ class Dataset(abvd.BVD):
                                 Doubt=bool(match.group('doubt')),
                                 Source=['Greenhilletal2008'] if wl.section == 'austronesian' else []
                             )
-
             #wl.to_cldf(args.writer, concepts)
             # Now normalize the typedby and checkedby values:
             args.writer.objects['LanguageTable'][-1] = normalize_contributors(args.writer.objects['LanguageTable'][-1])
