@@ -65,6 +65,14 @@ class Dataset(abvd.BVD):
 
 
     def cmd_makecldf(self, args):
+
+        # Load ignore list
+        ignore_raw = self.etc_dir.read_csv("ignore.tsv", delimiter="\t")
+        # Format: Doculect, Concept, Value
+        ignore_list = {(row[0], row[1], row[2]) : None for row in ignore_raw}
+        n_ignored = 0
+        args.log.info("Loaded etc/ignore.tsv with {} entries".format(len(ignore_list)))
+        
         args.writer.add_sources(*self.raw_dir.read_bib())
         concepts = args.writer.add_concepts(
             id_factory=lambda c: c.id.split('-')[-1]+ '_' + slug(c.english),
@@ -100,6 +108,13 @@ class Dataset(abvd.BVD):
                     # add it if we don't have it.
                     args.writer.add_concept(ID=entry.word_id, Name=entry.word)
                     cid = entry.word_id
+                    
+                # Skip entries which appear in etc/ignore.tsv
+                lid = slug(wl.language.name, lowercase=False)
+                
+                if (lid, entry.word, entry.name) in ignore_list:
+                    n_ignored += 1
+                    continue
 
                 # handle lexemes
                 try:
@@ -138,7 +153,7 @@ class Dataset(abvd.BVD):
                                 Doubt=bool(match.group('doubt')),
                                 Source=['Greenhilletal2008'] if wl.section == 'austronesian' else []
                             )
-
             #wl.to_cldf(args.writer, concepts)
             # Now normalize the typedby and checkedby values:
             args.writer.objects['LanguageTable'][-1] = normalize_contributors(args.writer.objects['LanguageTable'][-1])
+        args.log.info("Ignored {} entries".format(n_ignored))
