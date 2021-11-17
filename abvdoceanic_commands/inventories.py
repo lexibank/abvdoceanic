@@ -62,8 +62,11 @@ def run(args):
     rows = []
     for language in wl.languages:
         if language.glottocode in family_codes:
+            # NB The language names in ABVD and Glottolog are different
             rows.append([
                 language.name,
+                language.glottocode,
+                "https://glottolog.org/resource/languoid/id/{}".format(language.glottocode),
                 len(language.sound_inventory.vowels),
                 len(language.sound_inventory.consonants),
                 " ".join([s.grapheme for s in language.sound_inventory.vowels]),
@@ -77,7 +80,8 @@ def run(args):
     table = tabulate(
         rows,
         headers=[
-            "Name", "# Vowels", "# Consonants", "Vowel phonemes", "Consonant phonemes"
+            "Name", "Glottocode", "Link", "# Vowels", "# Consonants",
+            "Generated vowel phonemes", "Generated consonant phonemes"
         ],
         tablefmt="tsv",
     )
