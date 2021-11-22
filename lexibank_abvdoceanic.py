@@ -40,6 +40,7 @@ class Dataset(abvd.BVD):
         separators=";/,~",
         missing_data=('-', ),
         strip_inside_brackets=True,
+        first_form_only=True,
         replacements=[
             (" ", "_"),
             ('"', ""),
