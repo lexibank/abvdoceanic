@@ -12,12 +12,12 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Greenhill et al.'s \"Austronesian Basic Vocabulary Database\" from 2020",
-    "dcat:accessURL": "git@github.com:lexibank/abvdoceanic",
+    "dcat:accessURL": "https://github.com/SimonGreenhill/abvd_oceanic",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "git@github.com:lexibank/abvdoceanic",
+            "rdf:about": "https://github.com/SimonGreenhill/abvd_oceanic",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.1-23-g81bde85",
+            "dc:created": "866f397",
             "dc:title": "Repository"
         },
         {
@@ -33,9 +33,9 @@
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.1.0",
+            "dc:created": "v2.1.0-26-gb12a7df",
             "dc:title": "CLTS"
         }
     ],
@@ -62,7 +62,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 85386,
+            "dc:extent": 84789,
             "tableSchema": {
                 "columns": [
                     {
