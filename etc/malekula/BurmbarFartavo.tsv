@@ -3,13 +3,13 @@ Grapheme	IPA	Frequency
 a	a	139
 r	r	59
 -$	NULL	21
-^h	h	1
+^h	NULL	1
 e	e	12
 -	+	47
 m	m	33
-ɛ	ɛ	50
+ɛ	e	50
 r$	r	17
-^ɳ	ɳ	3
+^ɳ	ŋ	3
 t	t	32
 i	i	23
 n$	n	21
@@ -17,11 +17,11 @@ n$	n	21
 u	u	36
 ^-	NULL	72
 f	f	26
-ɪ	ɪ	10
+ɪ	i	10
 n	n	20
 p	p	10
 s	s	22
-g	g	2
+g	ⁿg	2
 e$	e	16
 i$	i	26
 ⁿdʳ	ⁿdʳ	7
@@ -29,11 +29,11 @@ o	o	52
 x$	x	8
 ^m	m	19
 ŋ	ŋ	8
-ɸ$	ɸ	1
+ɸ$	f	1
 x	x	3
 ᵐb	ⁿb	25
 ^x	x	2
-v	v	5
+v	f	5
 ^ᵐb	ⁿb	9
 fs	f s	1
 s$	s	15
@@ -42,13 +42,13 @@ vs	v s	2
 m$	m	9
 ^ⁿd	ⁿd	5
 _	+	1
-b	b	2
+b	ᵐb	2	This is only found after an m, so the sequence mb should be changed to ᵐb. If we do this, this line would perhaps need to be deleted?
 ^w	w	1
 ʧ	tʃ	1
 ŋ$	ŋ	7
 u$	u	9
 ɣ	ɣ	22
-ɳ	ɳ	3
+ɳ	ŋ	3
 ps	p s	1
 rs	r s	1
 t$	t	10
@@ -58,11 +58,11 @@ a$	a	4
 ^t	t	2
 xs	x s	1
 w	w	1
-ɔ$	ɔ	3
+ɔ$	o	3
 ŋs	ŋ s	1
 o$	o	8
 t͡s	ts	1
-ʊ	ʊ	2
+ʊ	u	2
 ᵑg	ⁿg	2
 aᵐb	a ⁿb	2
 ^ⁿdʳ	ⁿdʳ	2
@@ -71,7 +71,7 @@ f$	f	3
 ^ᵑg	ⁿg	2
 l	l	1
 t͡s$	ts	1
-nw	nʷ	1
+nw	n w	1
 p$	p	2
 ^a	a	1
 ^k	k	2
