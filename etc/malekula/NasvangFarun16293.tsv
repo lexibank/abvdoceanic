@@ -3,14 +3,14 @@ Grapheme	IPA	Frequency
 a	a	157
 -	+	77
 v	v	24
-ɪ	ɪ	45
+ɪ	i	45
 r	r	34
 m$	m	19
 ^t	t	3
 i	i	19
 m	m	49
 r$	r	17
-ɛ	ɛ	10
+ɛ	e	10
 ɣ	ɣ	16
 o	o	28
 i$	i	15
@@ -21,7 +21,7 @@ l	l	35
 l$	l	12
 ^s	s	4
 ^h	h	6
-ã$	ã	2
+ã$	a	2
 ^k	k	2
 vs	v s	1
 x$	x	12
@@ -33,7 +33,7 @@ n$	n	27
 ^ᵐb	ⁿb	5
 n	n	18
 ^ʧ	tʃ	1
-æ	æ	10
+æ	a	10
 s	s	15
 s$	s	12
 ^ⁿdʳ	ⁿdʳ	2
@@ -47,14 +47,14 @@ u$	u	9
 p	p	17
 k	k	7
 t͡s$	ts	4
-ʉ	ʉ	3
+ʉ	ə	3
 ^ⁿd	ⁿd	1
-ʊ	ʊ	9
+ʊ	ə	9
 ʧ$	tʃ	4
 aᵐb	a ⁿb	6
 ^i	i	14
-bs	b s	1
-b$	b	1
+bs	ⁿb s	1
+b$	ⁿb	1
 e	e	3
 h	h	1
 k$	k	9
@@ -66,25 +66,26 @@ o$	o	6
 ᵐʙ	ⁿʙ	3
 ʧ	tʃ	13
 $	NULL	3
-ᴩ	ᴩ/p	2
+ᴩ	ᴩ	2
 ^l	l	4
 ⁿd	ⁿd	1
 _$	NULL	1
-ɔ	ɔ	1
+ɔ	o	1
 ^x	x	2
-j	j/dʒ	2
+j	j	2
 ^p	p	2
 ^ᵑg	ⁿg	1
 t͡s	ts	4
 f	f	2
 e$	e	2
 f$	f	1
-ã	ã	1
+ã	a	1
 t$	t	2
 x	x	1
 p$	p	3
-vh	vʰ	1
+vh	v h	1
 ^o	o	1
 ^a	a	9
 ⁿdʳ$	ⁿdʳ	2
 d	d	1
+mb	ⁿb
