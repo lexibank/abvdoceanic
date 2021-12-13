@@ -1,6 +1,6 @@
 Grapheme	IPA	Frequency
 ^n	n	70
-ɛ	ɛ	22
+ɛ	e	22
 -	+	151
 v	v	27
 r	r	22
@@ -8,7 +8,7 @@ a	a	134
 ŋ	ŋ	21
 k$	k	7
 ^t	t	2
-ɪ	ɪ	78
+ɪ	i	78
 ⁿd	ⁿd	20
 l	l	33
 mʷ	mʷ	3
@@ -39,22 +39,23 @@ p$	p	3
 n	n	17
 e$	e	6
 m	m	43
-b$	b	4
+b$	ⁿb	4
+mb	ⁿb
 ^ᵐb	ⁿb	2
 ^m	m	3
 ⁿdʳ	ⁿdʳ	8
-ʊ	ʊ	3
+ʊ	ø	3
 ^ᵑg	ⁿg	1
 rs	r s	1
-b	b	2
-æ	æ	15
+b	ⁿb	2
+æ	a	15
 ŋ$	ŋ	6
 p	p	9
 _ⁿd	+ ⁿd	2
 $	NULL	2
 t$	t	13
 _$	NULL	1
-^æ	æ	1
+^æ	a	1
 m$	m	3
 o$	o	7
 k	k	6
@@ -62,23 +63,23 @@ _	+	5
 ᵑg	ⁿg	2
 i$	i	6
 x	x	9
-^ɛ	ɛ	1
-ʙ	ʙ	1
+^ɛ	e	1
+ʙ	ⁿʙ	1
 aᵐb	a ⁿb	2
 pʷ	pʷ	1
 vs	v s	1
 vʷ	vʷ	1
 v$	v	2
-ɸ$	ɸ	1
-ʙ$	ʙ	1
-g	g	1
+ɸ$	f	1
+ʙ$	ⁿʙ	1
+g	ⁿg	1
 ks	k s	1
-aa	aː	1
+aa	a	1
 w	w	3
 ^l	l	3
 ^mʷ	mʷ	1
-ɛʰ$	ɛʰ/ɛ̤	1
+ɛʰ$	e	1
 ^ⁿd	ⁿd	4
-ʉ	ʉ	1
-z	z	1
+ʉ	y	1
+z	s	1
 a$	a	1
