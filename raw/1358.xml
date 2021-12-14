@@ -1238,7 +1238,7 @@
 	<item>mona</item>
 	<annotation>grease</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1,65</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1678,7 +1678,7 @@
 	<item>tuŋ-tuŋu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,7</cognacy>
+	<cognacy>1, 7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1881,10 +1881,21 @@
 </record>
 
 <record>
-	<id>315016</id>
+	<id>3233061</id>
 	<word_id>163</word_id>
 	<word>new</word>
-	<item>paɡu~paɣu</item>
+	<item>paɡu</item>
+	<annotation>new</annotation>
+	<loan></loan>
+	<cognacy>1,26</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233062</id>
+	<word_id>163</word_id>
+	<word>new</word>
+	<item>paɣu</item>
 	<annotation>new</annotation>
 	<loan></loan>
 	<cognacy>1,26</cognacy>
@@ -2019,7 +2030,7 @@
 	<item>you</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,22</cognacy>
+	<cognacy>1,21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

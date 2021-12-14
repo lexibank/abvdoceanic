@@ -283,7 +283,7 @@ See Schlossberg 2012 for details</notes>
 	<item>lala</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -360,7 +360,7 @@ See Schlossberg 2012 for details</notes>
 	<item>ebonalala</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>42</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -404,7 +404,7 @@ See Schlossberg 2012 for details</notes>
 	<item>mamai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>3</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -882,10 +882,21 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>329927</id>
+	<id>3232991</id>
 	<word_id>90</word_id>
 	<word>to dig</word>
-	<item>oiʔa@uʔa</item>
+	<item>oiʔa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3232992</id>
+	<word_id>90</word_id>
+	<word>to dig</word>
+	<item>uʔa</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -940,7 +951,7 @@ See Schlossberg 2012 for details</notes>
 	<id>329932</id>
 	<word_id>96</word_id>
 	<word>dog</word>
-	<item>oveka@</item>
+	<item>oveka</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>41</cognacy>
@@ -1237,7 +1248,7 @@ See Schlossberg 2012 for details</notes>
 	<id>329959</id>
 	<word_id>119</word_id>
 	<word>earth/soil</word>
-	<item>peko@</item>
+	<item>peko</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1427,7 +1438,7 @@ See Schlossberg 2012 for details</notes>
 	<item>lani</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

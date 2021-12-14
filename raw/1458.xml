@@ -27,7 +27,7 @@ See Schlossberg 2012 for details</notes>
 	<id>333598</id>
 	<word_id>1</word_id>
 	<word>hand</word>
-	<item>nima@</item>
+	<item>nima</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1,66</cognacy>
@@ -71,7 +71,7 @@ See Schlossberg 2012 for details</notes>
 	<id>333602</id>
 	<word_id>5</word_id>
 	<word>to walk</word>
-	<item>lokeikeile@</item>
+	<item>lokeikeile</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -126,7 +126,7 @@ See Schlossberg 2012 for details</notes>
 	<id>333607</id>
 	<word_id>9</word_id>
 	<word>to swim</word>
-	<item>sugu@</item>
+	<item>sugu</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>95</cognacy>
@@ -382,7 +382,7 @@ See Schlossberg 2012 for details</notes>
 	<item>memena</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy>7,40</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -602,7 +602,7 @@ See Schlossberg 2012 for details</notes>
 	<item>tomo</item>
 	<annotation>folk etymology</annotation>
 	<loan></loan>
-	<cognacy>1,66</cognacy>
+	<cognacy>68</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1069,10 +1069,21 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>333693</id>
+	<id>3233048</id>
 	<word_id>102</word_id>
 	<word>rat</word>
-	<item>gimwau@gimau</item>
+	<item>gimwau</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>94</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233049</id>
+	<word_id>102</word_id>
+	<word>rat</word>
+	<item>gimau</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>94</cognacy>
@@ -1083,7 +1094,7 @@ See Schlossberg 2012 for details</notes>
 	<id>333694</id>
 	<word_id>103</word_id>
 	<word>meat/flesh</word>
-	<item>buluma@</item>
+	<item>buluma</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>34</cognacy>
@@ -1394,7 +1405,7 @@ See Schlossberg 2012 for details</notes>
 	<item>yaumai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>73</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1405,7 +1416,7 @@ See Schlossberg 2012 for details</notes>
 	<item>mana</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1515,7 +1526,7 @@ See Schlossberg 2012 for details</notes>
 	<item>gabu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1702,7 +1713,7 @@ See Schlossberg 2012 for details</notes>
 	<item>tabataba</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>51</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1985,7 +1996,7 @@ See Schlossberg 2012 for details</notes>
 	<id>333776</id>
 	<word_id>185</word_id>
 	<word>we</word>
-	<item>kai @</item>
+	<item>kai </item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -2230,7 +2241,7 @@ See Schlossberg 2012 for details</notes>
 	<item>vehopali</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,65</cognacy>
+	<cognacy>72</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2241,7 +2252,7 @@ See Schlossberg 2012 for details</notes>
 	<item>esopali</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,65</cognacy>
+	<cognacy>72</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
