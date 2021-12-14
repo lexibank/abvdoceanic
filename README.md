@@ -1,5 +1,7 @@
 # CLDF dataset derived from Greenhill et al.'s "Austronesian Basic Vocabulary Database" from 2020
 
+[![CLDF validation](https://github.com/SimonGreenhill/abvd_oceanic/workflows/CLDF-validation/badge.svg)](https://github.com/SimonGreenhill/abvd_oceanic/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -10,7 +12,7 @@ If you use these data please cite
 ## Description
 
 
-This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://abvd.shh.mpg.de/austronesian/
 
@@ -20,25 +22,37 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
+[![CLDF validation](https://github.com/SimonGreenhill/abvd_oceanic/workflows/CLDF-validation/badge.svg)](https://github.com/SimonGreenhill/abvd_oceanic/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-green.svg "Glottolog: 99%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 417
 - **Concepts:** 210
-- **Lexemes:** 85,563
-- **Sources:** 241
-- **Synonymy:** 1.16
-- **Cognacy:** 78,602 cognates in 10,104 cognate sets (2,383 singletons)
+- **Lexemes:** 84,789
+- **Sources:** 0
+- **Synonymy:** 1.15
+- **Cognacy:** 78,429 cognates in 10,102 cognate sets (2,438 singletons)
 - **Cognate Diversity:** 0.12
+- **Invalid lexemes:** 0
+- **Tokens:** 429,562
+- **Segments:** 441 (0 BIPA errors, 0 CTLS sound class errors, 440 CLTS modified)
+- **Inventory size (avg):** 31.05
+
+## Possible Improvements:
+
+
+
+- Entries missing sources: 84789/84789 (100.00%)
 
 # Contributors
 
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
-Simon J. Greenhill | @SimonGreenhill | patron                               | Author
-Robert Forkel      | @xrotwang       | patron                               | Author
-Tiago Tresoldi     | @tresoldi       | profile                              | Author
+Simon J. Greenhill | @SimonGreenhill | maintainer                           | Author
+Johann-Mattis List | @lingulist  | orthography profiles | Other
 
 
 

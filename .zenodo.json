@@ -8,15 +8,14 @@
     "creators": [
         {
             "name": "Simon J. Greenhill"
-        },
-        {
-            "name": "Robert Forkel"
-        },
-        {
-            "name": "Tiago Tresoldi"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"

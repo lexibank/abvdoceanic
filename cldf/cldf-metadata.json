@@ -12,11 +12,12 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Greenhill et al.'s \"Austronesian Basic Vocabulary Database\" from 2020",
+    "dcat:accessURL": "https://github.com/SimonGreenhill/abvd_oceanic",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "abvd_oceanic",
+            "rdf:about": "https://github.com/SimonGreenhill/abvd_oceanic",
             "rdf:type": "prov:Entity",
-            "dc:created": "8fcd8bb",
+            "dc:created": "866f397",
             "dc:title": "Repository"
         },
         {
@@ -32,9 +33,9 @@
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.1.0",
+            "dc:created": "v2.1.0-26-gb12a7df",
             "dc:title": "CLTS"
         }
     ],
@@ -45,14 +46,14 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.8.1"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "abvd_oceanic",
+    "rdf:ID": "abvdoceanic",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
@@ -61,7 +62,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 85563,
+            "dc:extent": 84789,
             "tableSchema": {
                 "columns": [
                     {
@@ -286,7 +287,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 78602,
+            "dc:extent": 78429,
             "tableSchema": {
                 "columns": [
                     {
