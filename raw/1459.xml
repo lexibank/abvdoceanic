@@ -250,7 +250,7 @@ See Schlossberg 2012 for details</notes>
 	<item>ateate</item>
 	<annotation>gall-bladder</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -310,10 +310,21 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>333827</id>
+	<id>3233052</id>
 	<word_id>21</word_id>
 	<word>to think</word>
-	<item>avavana@nota</item>
+	<item>avavana</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233053</id>
+	<word_id>21</word_id>
+	<word>to think</word>
+	<item>nota</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>94</cognacy>
@@ -756,7 +767,7 @@ See Schlossberg 2012 for details</notes>
 	<item>wavine</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,52</cognacy>
+	<cognacy>1,106</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1471,7 +1482,7 @@ See Schlossberg 2012 for details</notes>
 	<item>hinna</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1493,7 +1504,7 @@ See Schlossberg 2012 for details</notes>
 	<item>kwairoro</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1801,7 +1812,7 @@ See Schlossberg 2012 for details</notes>
 	<item>mara</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>80</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1993,13 +2004,24 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>333980</id>
+	<id>3233028</id>
 	<word_id>144</word_id>
 	<word>to burn</word>
-	<item>ararata@apui</item>
+	<item>ararata</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>17, 16</cognacy>
+	<cognacy>17</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233029</id>
+	<word_id>144</word_id>
+	<word>to burn</word>
+	<item>apui</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2065,7 +2087,7 @@ See Schlossberg 2012 for details</notes>
 	<item>ararapoirina</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>67</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2125,13 +2147,24 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>333992</id>
+	<id>3233042</id>
 	<word_id>152</word_id>
 	<word>small</word>
-	<item>keikeina@aburuna</item>
+	<item>keikeina</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233043</id>
+	<word_id>152</word_id>
+	<word>small</word>
+	<item>aburuna</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>69</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2186,7 +2219,7 @@ See Schlossberg 2012 for details</notes>
 	<item>manamanaina</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>21</cognacy>
+	<cognacy>12</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2197,7 +2230,7 @@ See Schlossberg 2012 for details</notes>
 	<item>manawa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>21</cognacy>
+	<cognacy>12</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2213,13 +2246,24 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>334000</id>
+	<id>3233001</id>
 	<word_id>156</word_id>
 	<word>thin</word>
-	<item>avavana@dinadinana</item>
+	<item>avavana</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>56, 57</cognacy>
+	<cognacy>56</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233002</id>
+	<word_id>156</word_id>
+	<word>thin</word>
+	<item>dinadinana</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>57</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2571,7 +2615,7 @@ See Schlossberg 2012 for details</notes>
 	<item>lana</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2840,10 +2884,21 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>334057</id>
+	<id>3232950</id>
 	<word_id>201</word_id>
 	<word>Five</word>
-	<item>ura tagogi@ura i kwa</item>
+	<item>ura i kwa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3232949</id>
+	<word_id>201</word_id>
+	<word>Five</word>
+	<item>ura tagogi</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>

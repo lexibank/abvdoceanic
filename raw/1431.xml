@@ -288,13 +288,24 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>328144</id>
+	<id>3231336</id>
 	<word_id>21</word_id>
 	<word>to think</word>
-	<item>-nota@-nua</item>
+	<item>-nota</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>94,30</cognacy>
+	<cognacy>94</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231337</id>
+	<word_id>21</word_id>
+	<word>to think</word>
+	<item>-nua</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>30</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -349,7 +360,7 @@ See Schlossberg 2012 for details</notes>
 	<item>uyawi-</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -569,7 +580,7 @@ See Schlossberg 2012 for details</notes>
 	<item>tini-</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -712,7 +723,7 @@ See Schlossberg 2012 for details</notes>
 	<item>wavine</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,52</cognacy>
+	<cognacy>1,106</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -981,13 +992,24 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>328207</id>
+	<id>3231334</id>
 	<word_id>77</word_id>
 	<word>to scratch</word>
-	<item>giuri@wosin</item>
+	<item>giuri</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>94</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231335</id>
+	<word_id>77</word_id>
+	<word>to scratch</word>
+	<item>wosin</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1017,7 +1039,7 @@ See Schlossberg 2012 for details</notes>
 	<id>328210</id>
 	<word_id>79</word_id>
 	<word>stick/wood</word>
-	<item>#NAME?</item>
+	<item>-susuri</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1036,10 +1058,21 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>328212</id>
+	<id>3231342</id>
 	<word_id>80</word_id>
 	<word>to split</word>
-	<item>dari@sesera</item>
+	<item>dari</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231343</id>
+	<word_id>80</word_id>
+	<word>to split</word>
+	<item>sesera</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1124,13 +1157,24 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>328220</id>
+	<id>3231346</id>
 	<word_id>88</word_id>
 	<word>to squeeze</word>
-	<item>botoboto-i vorovoro-i*</item>
+	<item>botoboto-i</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>81</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231347</id>
+	<word_id>88</word_id>
+	<word>to squeeze</word>
+	<item>vorovoro-i</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>42</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1259,7 +1303,7 @@ See Schlossberg 2012 for details</notes>
 	<id>328232</id>
 	<word_id>100</word_id>
 	<word>wing</word>
-	<item>mapemape-na**</item>
+	<item>mapemape-na</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>86</cognacy>
@@ -1289,13 +1333,24 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>328235</id>
+	<id>3231344</id>
 	<word_id>103</word_id>
 	<word>meat/flesh</word>
-	<item>vio-@sia</item>
+	<item>vio-</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>10</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231345</id>
+	<word_id>103</word_id>
+	<word>meat/flesh</word>
+	<item>sia</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>31,101</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1713,7 +1768,7 @@ See Schlossberg 2012 for details</notes>
 	<item>motom</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>119</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1790,7 +1845,7 @@ See Schlossberg 2012 for details</notes>
 	<item>tupitupi-na</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>96</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1834,7 +1889,7 @@ See Schlossberg 2012 for details</notes>
 	<item>gisi-na</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>121</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2076,7 +2131,7 @@ See Schlossberg 2012 for details</notes>
 	<item>wen</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2087,7 +2142,7 @@ See Schlossberg 2012 for details</notes>
 	<item>nan</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2098,7 +2153,7 @@ See Schlossberg 2012 for details</notes>
 	<item>nokon</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>63</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2208,15 +2263,26 @@ See Schlossberg 2012 for details</notes>
 	<item>ta</item>
 	<annotation></annotation>
 	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231341</id>
+	<word_id>185</word_id>
+	<word>we</word>
+	<item>tota</item>
+	<annotation></annotation>
+	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
-	<id>328319</id>
+	<id>3231340</id>
 	<word_id>185</word_id>
 	<word>we</word>
-	<item>ka@tota</item>
+	<item>ka</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -2307,7 +2373,7 @@ See Schlossberg 2012 for details</notes>
 	<item>ikia</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>24</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2345,10 +2411,21 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>328331</id>
+	<id>3231338</id>
 	<word_id>196</word_id>
 	<word>to count</word>
-	<item>-ruva@-yava</item>
+	<item>-ruva</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231339</id>
+	<word_id>196</word_id>
+	<word>to count</word>
+	<item>-yava</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>67</cognacy>

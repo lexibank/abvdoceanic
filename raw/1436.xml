@@ -753,8 +753,8 @@ See Schlossberg 2012 for details</notes>
 	<id>329230</id>
 	<word_id>55</word_id>
 	<word>woman/female</word>
-	<item>-vevine (pl.)</item>
-	<annotation></annotation>
+	<item>-vevine</item>
+	<annotation>(pl.)</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -981,6 +981,17 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
+	<id>3232954</id>
+	<word_id>71</word_id>
+	<word>to stab, pierce</word>
+	<item>-onana</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>329251</id>
 	<word_id>71</word_id>
 	<word>to stab, pierce</word>
@@ -992,13 +1003,24 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>329252</id>
+	<id>3232953</id>
 	<word_id>71</word_id>
 	<word>to stab, pierce</word>
-	<item>-folena@-onana</item>
+	<item>-folena</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>96</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3232931</id>
+	<word_id>72</word_id>
+	<word>to hit</word>
+	<item>-tafina</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1014,10 +1036,10 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>329254</id>
+	<id>3232930</id>
 	<word_id>72</word_id>
 	<word>to hit</word>
-	<item>-mununa@-tafina</item>
+	<item>-mununa</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1149,7 +1171,7 @@ See Schlossberg 2012 for details</notes>
 	<id>329266</id>
 	<word_id>80</word_id>
 	<word>to split</word>
-	<item>-luvahina@</item>
+	<item>-luvahina</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -2120,7 +2142,7 @@ See Schlossberg 2012 for details</notes>
 	<item>tunugina</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2175,7 +2197,7 @@ See Schlossberg 2012 for details</notes>
 	<item>lalafana</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>48</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
