@@ -1,5 +1,6 @@
 Grapheme	IPA	Frequency
 ^f	f	6
+mb	ⁿb
 a	a	139
 r	r	59
 -$	NULL	21
@@ -42,7 +43,7 @@ vs	v s	2
 m$	m	9
 ^ⁿd	ⁿd	5
 _	+	1
-b	ᵐb	2	This is only found after an m, so the sequence mb should be changed to ᵐb. If we do this, this line would perhaps need to be deleted?
+b	ⁿb	2
 ^w	w	1
 ʧ	tʃ	1
 ŋ$	ŋ	7
