@@ -53,9 +53,9 @@
 	<word_id>1</word_id>
 	<word>hand</word>
 	<item>paaq</item>
-	<annotation></annotation>
+	<annotation>POc *paRa-</annotation>
 	<loan></loan>
-	<cognacy>8?</cognacy>
+	<cognacy>16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -75,7 +75,7 @@
 	<word_id>3</word_id>
 	<word>right</word>
 	<item>mat'aaw</item>
-	<annotation></annotation>
+	<annotation>POc *mataqu</annotation>
 	<loan></loan>
 	<cognacy>5,13</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -97,7 +97,7 @@
 	<word_id>4</word_id>
 	<word>leg/foot</word>
 	<item>qaay</item>
-	<annotation></annotation>
+	<annotation>POc *qaqe-</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -163,9 +163,9 @@
 	<word_id>9</word_id>
 	<word>to swim</word>
 	<item>noeŋ</item>
-	<annotation></annotation>
+	<annotation>POc *[l,n]aŋi</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy>?</pmpcognacy>
 </record>
 
@@ -185,9 +185,9 @@
 	<word_id>11</word_id>
 	<word>dust</word>
 	<item>qaab</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>1?</cognacy>
+	<annotation>&lt; Palauan</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy>1?</pmpcognacy>
 </record>
 
@@ -198,7 +198,7 @@
 	<item>yalach</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>34</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -209,7 +209,7 @@
 	<item>yarooch</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>34</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -251,9 +251,9 @@
 	<word_id>14</word_id>
 	<word>belly</word>
 	<item>nae-g</item>
-	<annotation>my</annotation>
-	<loan></loan>
-	<cognacy>19, 34</cognacy>
+	<annotation>&lt; Palauan</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -262,8 +262,8 @@
 	<word_id>15</word_id>
 	<word>bone</word>
 	<item>yil</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>&lt; Palauan</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy>?</pmpcognacy>
 </record>
@@ -273,7 +273,7 @@
 	<word_id>16</word_id>
 	<word>intestines</word>
 	<item>t'aay</item>
-	<annotation>(&lt;+taqi?)</annotation>
+	<annotation>POc *taqe 'faeces'</annotation>
 	<loan></loan>
 	<cognacy>29</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -284,7 +284,7 @@
 	<word_id>17</word_id>
 	<word>liver</word>
 	<item>qaed</item>
-	<annotation></annotation>
+	<annotation>POc *qate</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -295,7 +295,7 @@
 	<word_id>18</word_id>
 	<word>breast</word>
 	<item>thuth</item>
-	<annotation></annotation>
+	<annotation>POc *susu</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -308,7 +308,7 @@
 	<item>puu-n</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>98</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -319,7 +319,7 @@
 	<item>poe-n</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>98</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -349,10 +349,10 @@
 	<id>72400</id>
 	<word_id>22</word_id>
 	<word>to fear</word>
-	<item>rus</item>
-	<annotation></annotation>
+	<item>daguw</item>
+	<annotation>POc *takut</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -372,7 +372,7 @@
 	<word_id>23</word_id>
 	<word>blood</word>
 	<item>rachaq</item>
-	<annotation>(1) from Palauan</annotation>
+	<annotation>&lt; Palauan</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -427,8 +427,8 @@
 	<word_id>27</word_id>
 	<word>nose</word>
 	<item>p'eethŋuu-n</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>&lt; Mic</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -493,7 +493,7 @@
 	<word_id>31</word_id>
 	<word>tooth</word>
 	<item>ŋuwol</item>
-	<annotation></annotation>
+	<annotation>&lt; Palauan</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -526,9 +526,9 @@
 	<word_id>33</word_id>
 	<word>to laugh</word>
 	<item>minmin</item>
-	<annotation></annotation>
+	<annotation>POc *malip</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>3</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -581,7 +581,7 @@
 	<word_id>37</word_id>
 	<word>to eat</word>
 	<item>kaay</item>
-	<annotation>intrans?</annotation>
+	<annotation>POc *kani</annotation>
 	<loan></loan>
 	<cognacy>1,44</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -603,9 +603,9 @@
 	<word_id>39</word_id>
 	<word>to cook</word>
 	<item>liith</item>
-	<annotation></annotation>
+	<annotation>POc *nasu(k)</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>3</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -625,7 +625,7 @@
 	<word_id>40</word_id>
 	<word>to drink</word>
 	<item>qunum</item>
-	<annotation></annotation>
+	<annotation>POc *[i,u]num</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -636,7 +636,7 @@
 	<word_id>40</word_id>
 	<word>to drink</word>
 	<item>quun</item>
-	<annotation></annotation>
+	<annotation>POc *[i,u]num</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -647,9 +647,9 @@
 	<word_id>41</word_id>
 	<word>to bite</word>
 	<item>k'aad</item>
-	<annotation></annotation>
+	<annotation>POc *kaRat</annotation>
 	<loan></loan>
-	<cognacy>1?</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy>1?</pmpcognacy>
 </record>
 
@@ -680,9 +680,9 @@
 	<word_id>43</word_id>
 	<word>ear</word>
 	<item>teel</item>
-	<annotation>his</annotation>
+	<annotation>POc *taliŋa</annotation>
 	<loan></loan>
-	<cognacy>1?</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy>1?</pmpcognacy>
 </record>
 
@@ -702,9 +702,9 @@
 	<word_id>44</word_id>
 	<word>to hear</word>
 	<item>ruŋqag</item>
-	<annotation></annotation>
+	<annotation>POc *roŋoR + -aki</annotation>
 	<loan></loan>
-	<cognacy>1?</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy>1?</pmpcognacy>
 </record>
 
@@ -724,7 +724,7 @@
 	<word_id>45</word_id>
 	<word>eye</word>
 	<item>miit</item>
-	<annotation>3.sg.poss</annotation>
+	<annotation>3.sg.poss/ POc *mata</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -735,8 +735,8 @@
 	<word_id>46</word_id>
 	<word>to see</word>
 	<item>guy</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>&lt; Mic</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -757,8 +757,8 @@
 	<word_id>48</word_id>
 	<word>to sleep</word>
 	<item>mool</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>&lt; Mic</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -800,10 +800,10 @@
 	<id>18284</id>
 	<word_id>52</word_id>
 	<word>to stand</word>
-	<item>saak'iy</item>
-	<annotation></annotation>
+	<item>tuuq</item>
+	<annotation>POc *tuqur</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -834,7 +834,7 @@
 	<word_id>54</word_id>
 	<word>man/male</word>
 	<item>moqon</item>
-	<annotation></annotation>
+	<annotation>POc *mʷaqane</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1?</pmpcognacy>
@@ -845,7 +845,7 @@
 	<word_id>55</word_id>
 	<word>woman/female</word>
 	<item>[b]piin</item>
-	<annotation></annotation>
+	<annotation>POc *papine</annotation>
 	<loan></loan>
 	<cognacy>1,106</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -889,7 +889,7 @@
 	<word_id>59</word_id>
 	<word>mother</word>
 	<item>chii-tin-ŋiin</item>
-	<annotation></annotation>
+	<annotation>POc *tina</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -900,7 +900,7 @@
 	<word_id>60</word_id>
 	<word>father</word>
 	<item>chii-tam-ŋiin</item>
-	<annotation></annotation>
+	<annotation>POc *tama</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -933,9 +933,9 @@
 	<word_id>63</word_id>
 	<word>name</word>
 	<item>ŋachol</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>1?</cognacy>
+	<annotation>&lt; Palauan</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy>?</pmpcognacy>
 </record>
 
@@ -944,9 +944,9 @@
 	<word_id>63</word_id>
 	<word>name</word>
 	<item>ŋuchol</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>1?</cognacy>
+	<annotation>&lt; Palauan</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy>?</pmpcognacy>
 </record>
 
@@ -977,7 +977,7 @@
 	<word_id>65</word_id>
 	<word>rope</word>
 	<item>tael</item>
-	<annotation></annotation>
+	<annotation>POc *tali</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1010,7 +1010,7 @@
 	<word_id>68</word_id>
 	<word>needle</word>
 	<item>raasam</item>
-	<annotation></annotation>
+	<annotation>&lt; Palauan</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1021,8 +1021,8 @@
 	<word_id>68</word_id>
 	<word>needle</word>
 	<item>thuuk</item>
-	<annotation></annotation>
-	<loan>L</loan>
+	<annotation>POc *suki 'sew'</annotation>
+	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1133,7 +1133,7 @@
 	<item>guruuy</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1230,8 +1230,8 @@
 	<word_id>84</word_id>
 	<word>to plant</word>
 	<item>miyuuq</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>&lt; Palauan</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1318,7 +1318,7 @@
 	<word_id>90</word_id>
 	<word>to dig</word>
 	<item>[ker]keer</item>
-	<annotation></annotation>
+	<annotation>POc *keli; -r unexpected</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1439,7 +1439,7 @@
 	<word_id>99</word_id>
 	<word>feather</word>
 	<item>wul</item>
-	<annotation></annotation>
+	<annotation>POc *pulu-</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1450,9 +1450,9 @@
 	<word_id>100</word_id>
 	<word>wing</word>
 	<item>bon</item>
-	<annotation></annotation>
+	<annotation>POc *banic</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1494,9 +1494,9 @@
 	<word_id>104</word_id>
 	<word>fat/grease</word>
 	<item>maam</item>
-	<annotation></annotation>
+	<annotation>POc *mamis 'sweet-tasting'</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1505,9 +1505,9 @@
 	<word_id>104</word_id>
 	<word>fat/grease</word>
 	<item>mam</item>
-	<annotation></annotation>
+	<annotation>POc *mamis 'sweet-tasting'</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1527,8 +1527,8 @@
 	<word_id>106</word_id>
 	<word>snake</word>
 	<item>parchooyog</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>&lt; Palauan</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1538,8 +1538,8 @@
 	<word_id>107</word_id>
 	<word>worm (earthworm)</word>
 	<item>qäloelaey</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>&lt; Palauan</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1549,7 +1549,7 @@
 	<word_id>108</word_id>
 	<word>louse</word>
 	<item>thiil</item>
-	<annotation>louse, egg, nit</annotation>
+	<annotation>louse, egg, nit; POc *lisaq: metathesis?</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1560,9 +1560,9 @@
 	<word_id>109</word_id>
 	<word>mosquito</word>
 	<item>neeŋ</item>
-	<annotation></annotation>
+	<annotation>POc *ñamuk</annotation>
 	<loan></loan>
-	<cognacy>1?</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy>?</pmpcognacy>
 </record>
 
@@ -1582,9 +1582,9 @@
 	<word_id>111</word_id>
 	<word>fish</word>
 	<item>niig</item>
-	<annotation></annotation>
+	<annotation>POc *na + ikan</annotation>
 	<loan></loan>
-	<cognacy>1?</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1595,7 +1595,7 @@
 	<item>meal</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1604,9 +1604,9 @@
 	<word_id>112</word_id>
 	<word>rotten</word>
 	<item>buuy'</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>1</cognacy>
+	<annotation>&lt; Palauan</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1670,9 +1670,9 @@
 	<word_id>118</word_id>
 	<word>grass</word>
 	<item>paan</item>
-	<annotation></annotation>
+	<annotation>POc *palisi</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1681,9 +1681,9 @@
 	<word_id>119</word_id>
 	<word>earth/soil</word>
 	<item>buut'</item>
-	<annotation></annotation>
+	<annotation>POc *butaq (ACD)</annotation>
 	<loan></loan>
-	<cognacy>27?</cognacy>
+	<cognacy>27</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1703,8 +1703,8 @@
 	<word_id>121</word_id>
 	<word>sand</word>
 	<item>yaan'</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>&lt; Palauan</annotation>
+	<loan>L</loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1714,7 +1714,7 @@
 	<word_id>122</word_id>
 	<word>water</word>
 	<item>rawn</item>
-	<annotation>fresh water</annotation>
+	<annotation>fresh water; POc *[d]ranum</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1725,7 +1725,7 @@
 	<word_id>122</word_id>
 	<word>water</word>
 	<item>daay</item>
-	<annotation>salt water</annotation>
+	<annotation>salt water; POc *tasik</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1747,9 +1747,9 @@
 	<word_id>124</word_id>
 	<word>sea</word>
 	<item>madaay</item>
-	<annotation></annotation>
+	<annotation>POc *ma + tasik</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1769,7 +1769,7 @@
 	<word_id>125</word_id>
 	<word>salt</word>
 	<item>sool</item>
-	<annotation></annotation>
+	<annotation>&lt; English</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1813,7 +1813,7 @@
 	<word_id>128</word_id>
 	<word>sky</word>
 	<item>laaŋ</item>
-	<annotation></annotation>
+	<annotation>POc *laŋit</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1824,7 +1824,7 @@
 	<word_id>129</word_id>
 	<word>moon</word>
 	<item>puul</item>
-	<annotation></annotation>
+	<annotation>POc *pulan</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1835,7 +1835,7 @@
 	<word_id>130</word_id>
 	<word>star</word>
 	<item>t'uuf</item>
-	<annotation></annotation>
+	<annotation>POc *pituqun ??</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy>?</pmpcognacy>
@@ -1857,7 +1857,7 @@
 	<word_id>133</word_id>
 	<word>rain</word>
 	<item>n'uw</item>
-	<annotation></annotation>
+	<annotation>POc *qusan</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1890,8 +1890,8 @@
 	<word_id>136</word_id>
 	<word>wind</word>
 	<item>nifeeŋ</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>&lt; Mic</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -2000,9 +2000,9 @@
 	<word_id>143</word_id>
 	<word>fire</word>
 	<item>nifiy</item>
-	<annotation></annotation>
+	<annotation>POc *na + api</annotation>
 	<loan></loan>
-	<cognacy>1?</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy>1?</pmpcognacy>
 </record>
 
@@ -2066,8 +2066,8 @@
 	<word_id>148</word_id>
 	<word>white</word>
 	<item>weachweach</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>&lt; Palauan 'lime'</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -2099,7 +2099,7 @@
 	<word_id>151</word_id>
 	<word>green</word>
 	<item>giriin</item>
-	<annotation>Loan</annotation>
+	<annotation>&lt; English</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2110,9 +2110,9 @@
 	<word_id>152</word_id>
 	<word>small</word>
 	<item>qachiig</item>
-	<annotation></annotation>
+	<annotation>POc *qitik</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2253,7 +2253,7 @@
 	<word_id>163</word_id>
 	<word>new</word>
 	<item>biqech</item>
-	<annotation></annotation>
+	<annotation>&lt; Palauan</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2319,9 +2319,9 @@
 	<word_id>167</word_id>
 	<word>night</word>
 	<item>neap'</item>
-	<annotation></annotation>
+	<annotation>POc *na-Rapi</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2330,7 +2330,7 @@
 	<word_id>168</word_id>
 	<word>day</word>
 	<item>raraan</item>
-	<annotation></annotation>
+	<annotation>POc *[d]ra(n,ŋ)i</annotation>
 	<loan></loan>
 	<cognacy>6</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -2341,9 +2341,9 @@
 	<word_id>169</word_id>
 	<word>year</word>
 	<item>duw</item>
-	<annotation></annotation>
+	<annotation>POc *taqun</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy>?</pmpcognacy>
 </record>
 
@@ -2407,9 +2407,9 @@
 	<word_id>174</word_id>
 	<word>in, inside</word>
 	<item>laan</item>
-	<annotation></annotation>
+	<annotation>POc *lalo-ña</annotation>
 	<loan></loan>
-	<cognacy>1?</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2429,9 +2429,9 @@
 	<word_id>176</word_id>
 	<word>below</word>
 	<item>taan</item>
-	<annotation>(&lt;taneq)</annotation>
+	<annotation>POc *tanoq 'earth'</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2550,7 +2550,7 @@
 	<word_id>185</word_id>
 	<word>we</word>
 	<item>gad|ow</item>
-	<annotation></annotation>
+	<annotation>POc *kita</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -2561,7 +2561,7 @@
 	<word_id>185</word_id>
 	<word>we</word>
 	<item>gam|ow</item>
-	<annotation></annotation>
+	<annotation>POc *kami</annotation>
 	<loan></loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2572,7 +2572,7 @@
 	<word_id>186</word_id>
 	<word>you</word>
 	<item>gimeew</item>
-	<annotation></annotation>
+	<annotation>POc *kamiu</annotation>
 	<loan></loan>
 	<cognacy>1,13</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -2638,7 +2638,7 @@
 	<word_id>192</word_id>
 	<word>and</word>
 	<item>ma</item>
-	<annotation>VP conjunction</annotation>
+	<annotation>VP conjunction; POc *ma</annotation>
 	<loan></loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -2692,10 +2692,10 @@
 	<id>82696</id>
 	<word_id>195</word_id>
 	<word>no, not</word>
-	<item>daangaay</item>
-	<annotation></annotation>
+	<item>daa</item>
+	<annotation>'not'; POc *ta</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>4</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2748,7 +2748,7 @@
 	<word_id>198</word_id>
 	<word>Two</word>
 	<item>l'agruw</item>
-	<annotation></annotation>
+	<annotation>??? + POc *rua</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -2759,9 +2759,9 @@
 	<word_id>199</word_id>
 	<word>Three</word>
 	<item>dalip</item>
-	<annotation></annotation>
+	<annotation>POc *tolu + Classifier</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2780,7 +2780,7 @@
 	<id>165197</id>
 	<word_id>200</word_id>
 	<word>Four</word>
-	<item>anngeeg</item>
+	<item>anŋeeg</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -2813,8 +2813,8 @@
 	<id>134955</id>
 	<word_id>203</word_id>
 	<word>Seven</word>
-	<item>medlip</item>
-	<annotation></annotation>
+	<item>me-dlip</item>
+	<annotation>'minus three'</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2824,8 +2824,8 @@
 	<id>134954</id>
 	<word_id>204</word_id>
 	<word>Eight</word>
-	<item>merük</item>
-	<annotation></annotation>
+	<item>me-rük</item>
+	<annotation>'minus two'</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2835,8 +2835,8 @@
 	<id>134953</id>
 	<word_id>205</word_id>
 	<word>Nine</word>
-	<item>mereb</item>
-	<annotation></annotation>
+	<item>me-reb</item>
+	<annotation>'minus one'</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>

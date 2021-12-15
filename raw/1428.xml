@@ -624,7 +624,7 @@ See Schlossberg 2012 for details</notes>
 	<item>waivi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,52</cognacy>
+	<cognacy>1,106</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1069,24 +1069,46 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>327560</id>
+	<id>3232966</id>
 	<word_id>100</word_id>
 	<word>wing</word>
-	<item>mape@pape</item>
+	<item>pape</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>86,21</cognacy>
+	<cognacy>21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
-	<id>327561</id>
-	<word_id>101</word_id>
-	<word>to fly</word>
-	<item>lave@rovo</item>
+	<id>3232965</id>
+	<word_id>100</word_id>
+	<word>wing</word>
+	<item>mape</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>44,1</cognacy>
+	<cognacy>86</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3232982</id>
+	<word_id>101</word_id>
+	<word>to fly</word>
+	<item>rovo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3232981</id>
+	<word_id>101</word_id>
+	<word>to fly</word>
+	<item>lave</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>44</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1350,7 +1372,7 @@ See Schlossberg 2012 for details</notes>
 	<item>nawaravi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>13</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

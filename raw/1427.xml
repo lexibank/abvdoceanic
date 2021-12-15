@@ -162,7 +162,7 @@ See Schlossberg 2012 for details</notes>
 	<item>ubu-</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>55</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -360,7 +360,7 @@ See Schlossberg 2012 for details</notes>
 	<item>kulua-</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>3</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -580,7 +580,7 @@ See Schlossberg 2012 for details</notes>
 	<item>tauma</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>81, 86</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -591,7 +591,7 @@ See Schlossberg 2012 for details</notes>
 	<item>taya</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -602,7 +602,7 @@ See Schlossberg 2012 for details</notes>
 	<item>taga</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -943,7 +943,7 @@ See Schlossberg 2012 for details</notes>
 	<item>tafina</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>31</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1108,7 +1108,7 @@ See Schlossberg 2012 for details</notes>
 	<item>baitutuna</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>25,74</cognacy>
+	<cognacy>25</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1790,7 +1790,7 @@ See Schlossberg 2012 for details</notes>
 	<item>mala</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1850,10 +1850,21 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>327389</id>
+	<id>3232972</id>
 	<word_id>139</word_id>
 	<word>cold</word>
-	<item>tulutuluna@vagugula</item>
+	<item>vagugula</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3232971</id>
+	<word_id>139</word_id>
+	<word>cold</word>
+	<item>tulutuluna</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>126</cognacy>
@@ -1905,6 +1916,17 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
+	<id>3232986</id>
+	<word_id>144</word_id>
+	<word>to burn</word>
+	<item>alaina</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>17</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>327394</id>
 	<word_id>144</word_id>
 	<word>to burn</word>
@@ -1916,13 +1938,13 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>327395</id>
+	<id>3232985</id>
 	<word_id>144</word_id>
 	<word>to burn</word>
-	<item>kabu@alaina</item>
+	<item>kabu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>16, 17</cognacy>
+	<cognacy>16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2021,7 +2043,7 @@ See Schlossberg 2012 for details</notes>
 	<item>kabikona</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>67</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2032,7 +2054,7 @@ See Schlossberg 2012 for details</notes>
 	<item>kabisona</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>67</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2120,7 +2142,7 @@ See Schlossberg 2012 for details</notes>
 	<item>kikiwena</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>85</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2131,7 +2153,7 @@ See Schlossberg 2012 for details</notes>
 	<item>lalafana</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>48</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

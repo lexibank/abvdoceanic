@@ -668,7 +668,7 @@ See Schlossberg 2012 for details</notes>
 	<item>vavine</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,52</cognacy>
+	<cognacy>1,106</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1124,6 +1124,17 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
+	<id>3232958</id>
+	<word_id>92</word_id>
+	<word>to open, uncover</word>
+	<item>wage</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>330376</id>
 	<word_id>92</word_id>
 	<word>to open, uncover</word>
@@ -1135,10 +1146,10 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>330377</id>
+	<id>3232957</id>
 	<word_id>92</word_id>
 	<word>to open, uncover</word>
-	<item>wae@wage</item>
+	<item>wae</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>75</cognacy>
@@ -1905,13 +1916,24 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>330447</id>
+	<id>3232999</id>
 	<word_id>156</word_id>
 	<word>thin</word>
-	<item>ɣeanina@ðanaðanana</item>
+	<item>ɣeanina</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>56</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233000</id>
+	<word_id>156</word_id>
+	<word>thin</word>
+	<item>ðanaðanana</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>57</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2158,10 +2180,21 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>330470</id>
+	<id>3232960</id>
 	<word_id>177</word_id>
 	<word>this</word>
-	<item>ai-na@taina</item>
+	<item>taina</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3232959</id>
+	<word_id>177</word_id>
+	<word>this</word>
+	<item>ai-na</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -2367,6 +2400,17 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
+	<id>3232978</id>
+	<word_id>192</word_id>
+	<word>and</word>
+	<item>akaka</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>330489</id>
 	<word_id>192</word_id>
 	<word>and</word>
@@ -2378,10 +2422,10 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>330490</id>
+	<id>3232977</id>
 	<word_id>192</word_id>
 	<word>and</word>
-	<item>e@akaka</item>
+	<item>e</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>8</cognacy>

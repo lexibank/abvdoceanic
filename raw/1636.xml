@@ -240,17 +240,6 @@
 </record>
 
 <record>
-	<id>3229826</id>
-	<word_id>19</word_id>
-	<word>shoulder</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>3229425</id>
 	<word_id>20</word_id>
 	<word>to know, be knowledgeable</word>
@@ -390,17 +379,6 @@
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>10</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3229827</id>
-	<word_id>29</word_id>
-	<word>to sniff, smell</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -697,7 +675,7 @@
 	<item>tā'ō'oto </item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy>7,10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -752,7 +730,7 @@
 	<item>tū</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>4</cognacy>
+	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -785,7 +763,7 @@
 	<item>vahine</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1, 106, 116</cognacy>
+	<cognacy>1,106, 116</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1049,7 +1027,7 @@
 	<item>pātia</item>
 	<annotation>DUP</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1148,7 +1126,7 @@
 	<item>rā'au</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1,26</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1204,17 +1182,6 @@
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>92</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3229893</id>
-	<word_id>83</word_id>
-	<word>to work</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1670,17 +1637,6 @@
 </record>
 
 <record>
-	<id>3229896</id>
-	<word_id>120</word_id>
-	<word>stone</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>3229526</id>
 	<word_id>121</word_id>
 	<word>sand</word>
@@ -1709,7 +1665,7 @@
 	<item>pape</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2787,7 +2743,7 @@
 	<item>iva</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5,44,66</cognacy>
+	<cognacy>5,44</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

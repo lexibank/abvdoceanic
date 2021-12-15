@@ -412,7 +412,7 @@ See Schlossberg 2012 for details</notes>
 	<id>328371</id>
 	<word_id>34</word_id>
 	<word>to cry</word>
-	<item>tou@</item>
+	<item>tou</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>8</cognacy>
@@ -668,7 +668,7 @@ See Schlossberg 2012 for details</notes>
 	<item>wavine</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,52</cognacy>
+	<cognacy>1,106</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1124,13 +1124,35 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>328436</id>
+	<id>3233007</id>
 	<word_id>124</word_id>
 	<word>sea</word>
-	<item>beimara@neyaɣa@bogapu</item>
+	<item>beimara</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>67</cognacy>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233008</id>
+	<word_id>124</word_id>
+	<word>sea</word>
+	<item>neyaɣa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233009</id>
+	<word_id>124</word_id>
+	<word>sea</word>
+	<item>bogapu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1174,7 +1196,7 @@ See Schlossberg 2012 for details</notes>
 	<item>mara</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>80</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1300,6 +1322,17 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
+	<id>3232941</id>
+	<word_id>140</word_id>
+	<word>dry</word>
+	<item>rarana</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>107</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>328452</id>
 	<word_id>140</word_id>
 	<word>dry</word>
@@ -1311,13 +1344,13 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>328453</id>
+	<id>3232940</id>
 	<word_id>140</word_id>
 	<word>dry</word>
-	<item>motom@rarana</item>
+	<item>motom</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>107</cognacy>
+	<cognacy>119</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1465,10 +1498,21 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>328467</id>
+	<id>3233024</id>
 	<word_id>160</word_id>
 	<word>painful, sick</word>
-	<item>doriya@gubaga</item>
+	<item>doriya</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233025</id>
+	<word_id>160</word_id>
+	<word>painful, sick</word>
+	<item>gubaga</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1498,6 +1542,28 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
+	<id>3232946</id>
+	<word_id>164</word_id>
+	<word>good</word>
+	<item>bubuna</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3232945</id>
+	<word_id>164</word_id>
+	<word>good</word>
+	<item>beinbeina</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>328470</id>
 	<word_id>164</word_id>
 	<word>good</word>
@@ -1509,10 +1575,10 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>328471</id>
+	<id>3232944</id>
 	<word_id>164</word_id>
 	<word>good</word>
-	<item>kamowa@beinbeina@bubuna</item>
+	<item>kamowa</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
