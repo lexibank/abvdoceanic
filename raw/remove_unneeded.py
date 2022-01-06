@@ -1,25 +1,33 @@
 #!/usr/bin/env python3
 # coding=utf-8
-"""..."""
-__author__ = 'Simon J. Greenhill <simon@simon.net.nz>'
-__copyright__ = 'Copyright (c) 2021 Simon J. Greenhill'
-__license__ = 'New-style BSD'
+"""
+Updates language data in this snapshot to match the (more up-to-date)
+ABVD lexibank dataset.
+"""
+import warnings
+from pathlib import Path
+from shutil import copyfile
 
 import csvw
-from pathlib import Path
 
-def get(filename, delimiter=","):
-    with csvw.UnicodeDictReader(filename, delimiter=delimiter) as reader:
-        for row in reader:
-            yield(row)
 
-RAWDIR = Path('../raw')
+WANTED_OCEANIC_LANGUAGES = Path('../etc/oceanicfiltered.txt')
+ABVD_LEXIBANK_SNAPSHOT = Path('../../abvd/raw/')
 
-keep = set()
-for row in get('oceanicfiltered.txt', "\t"):
-    keep.add(RAWDIR / ("%s.xml" % row['ID']))
+xmlfiles = {x.name: x for x in ABVD_LEXIBANK_SNAPSHOT.glob("*.xml")}
 
-for r in RAWDIR.iterdir():
-    if r not in keep:
-        print("rm %s" % r)
-        r.unlink()
+with csvw.UnicodeDictReader(WANTED_OCEANIC_LANGUAGES, delimiter="\t") as reader:
+    for row in reader:
+        wanted = Path("%s.xml" % row['ID'])
+        if str(wanted) in xmlfiles:
+            print(
+                'overwrite' if wanted.exists() else 'copy',
+                xmlfiles[str(wanted)], '->', wanted
+            )
+            copyfile(xmlfiles[str(wanted)], wanted)
+        else:
+            if not wanted.exists():
+                warnings.warn(
+                    '%s should be deleted -- not in %s' % (
+                    wanted, ABVD_LEXIBANK_SNAPSHOT
+                ))
