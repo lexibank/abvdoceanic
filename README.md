@@ -1,4 +1,4 @@
-# CLDF dataset derived from Greenhill et al.'s "Austronesian Basic Vocabulary Database" from 2020
+# CLDF dataset derived from Greenhill et al.'s "Austronesian Basic Vocabulary Database" from 2020 focusing on Oceanic languages
 
 [![CLDF validation](https://github.com/SimonGreenhill/abvd_oceanic/workflows/CLDF-validation/badge.svg)](https://github.com/SimonGreenhill/abvd_oceanic/actions?query=workflow%3ACLDF-validation)
 
@@ -23,29 +23,29 @@ Conceptlists in Concepticon:
 
 
 [![CLDF validation](https://github.com/SimonGreenhill/abvd_oceanic/workflows/CLDF-validation/badge.svg)](https://github.com/SimonGreenhill/abvd_oceanic/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-green.svg "Glottolog: 99%")
+![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 417
-- **Concepts:** 210
-- **Lexemes:** 84,789
+- **Varieties:** 418
+- **Concepts:** 191
+- **Lexemes:** 78,455
 - **Sources:** 0
-- **Synonymy:** 1.15
-- **Cognacy:** 78,429 cognates in 10,102 cognate sets (2,438 singletons)
+- **Synonymy:** 1.14
+- **Cognacy:** 74,079 cognates in 9,484 cognate sets (2,309 singletons)
 - **Cognate Diversity:** 0.12
 - **Invalid lexemes:** 0
-- **Tokens:** 429,562
-- **Segments:** 441 (0 BIPA errors, 0 CTLS sound class errors, 440 CLTS modified)
-- **Inventory size (avg):** 31.05
+- **Tokens:** 391,865
+- **Segments:** 430 (0 BIPA errors, 0 CTLS sound class errors, 429 CLTS modified)
+- **Inventory size (avg):** 30.57
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 84789/84789 (100.00%)
+- Entries missing sources: 78455/78455 (100.00%)
 
 # Contributors
 

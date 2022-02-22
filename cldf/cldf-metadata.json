@@ -11,31 +11,31 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Greenhill et al.'s \"Austronesian Basic Vocabulary Database\" from 2020",
+    "dc:title": "CLDF dataset derived from Greenhill et al.'s \"Austronesian Basic Vocabulary Database\" from 2020 focusing on Oceanic languages",
     "dcat:accessURL": "https://github.com/SimonGreenhill/abvd_oceanic",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/SimonGreenhill/abvd_oceanic",
             "rdf:type": "prov:Entity",
-            "dc:created": "866f397",
+            "dc:created": "v0.1-103-g82dfd28",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
+            "dc:created": "v4.5",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.5.0",
+            "dc:created": "v2.5.0-47-g176a1946",
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.1.0-26-gb12a7df",
+            "dc:created": "v2.2.0",
             "dc:title": "CLTS"
         }
     ],
@@ -62,7 +62,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 84789,
+            "dc:extent": 78455,
             "tableSchema": {
                 "columns": [
                     {
@@ -165,7 +165,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 417,
+            "dc:extent": 418,
             "tableSchema": {
                 "columns": [
                     {
@@ -255,7 +255,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 210,
+            "dc:extent": 191,
             "tableSchema": {
                 "columns": [
                     {
@@ -287,7 +287,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 78429,
+            "dc:extent": 74079,
             "tableSchema": {
                 "columns": [
                     {

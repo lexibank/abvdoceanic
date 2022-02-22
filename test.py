@@ -4,7 +4,7 @@ def test_valid(cldf_dataset, cldf_logger):
 
 # should be 210 items
 def test_parameters(cldf_dataset):
-    assert len(list(cldf_dataset["ParameterTable"])) == 210
+    assert len(list(cldf_dataset["ParameterTable"])) == 191
 
 
 ## test we have some languages
