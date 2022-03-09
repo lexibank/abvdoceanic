@@ -1,82 +1,82 @@
-Grapheme	IPA	Frequency
-^v	v	7
-r	r	34
-a	a	97
--$	NULL	17
-^m	m	4
-i	i	47
-r$	r	13
-t	t	31
-u$	u	6
-l	l	34
-e	e	17
-^-	NULL	73
-f	f	1
-ɪ	i	26
-v	v	22
-l$	l	16
-^n	n	35
--	+	30
-h	h	13
-m	m	10
-ɛ$	ɛ	1
-ⁿdʳ	ⁿdʳ	11
-o	o	30
-i$	i	21
-u	u	26
-ɸ$	f	9
-o$	o	4
-^ᵐb	ⁿb	5
-ɛ	ɛ	44
-k	k	9
-uʰ$	u h	2
-^t	t	4
-x	x	4
-^tᵐb	t ⁿb	1
-^s	s	3
-^h	h	5
-n	n	34
-s	s	15
-s$	s	6
-ɣ	ɣ	30
-_ᵐb	+ ⁿb	2
-e$	e	15
-t$	t	12
-^f	f	5
-_	+	4
-b	ⁿb	2
-^k	k	5
-ŋ$	ŋ	5
-ɳ	ŋ	1
-ŋ	ŋ	10
-ɔ	ɔ	1
-^l	l	8
-ⁿd	ⁿd	11
-w	w	9
-ⁿdʳ$	ⁿdʳ	4
-n$	n	19
-^ⁿdʳ	ⁿdʳ	3
-ə	ə	10
-^mʷ	mʷ	1
-ᵐb	ⁿb	13
-iʰ$	i h	2
-x$	x	10
-^ⁿd	ⁿd	4
-š	s	1
-ɛʰ$	ɛ h	1
-a$	a	11
-h$	h	7
-v$	v	1
-$	NULL	2
-_ⁿd	+ ⁿd	1
-^b	ⁿb	1
-^r	r	2
-^ⁿt	n t	2
-ã$	a	1
-xs	x s	1
-m$	m	1
-aᵐb	a ⁿb	1
-^x	x	5
-^a	a	2
-d	ⁿd	1
-^i	i	11
+Grapheme	IPAInSource	IPA	Frequency
+^v	v	v	7
+r	r	r	34
+a	a	a	97
+-$	NULL	NULL	17
+^m	m	m	4
+i	i	i	47
+r$	r	r	13
+t	t	t	31
+u$	u	u	6
+l	l	l	34
+e	e	e	17
+^-	NULL	NULL	73
+f	f	v	1
+ɪ	ɪ	i	26
+v	v	v	22
+l$	l	l	16
+^n	n	n	35
+-	+	+	30
+h	h	h	13
+m	m	m	10
+ɛ$	ɛ	ɛ	1
+ⁿdʳ	ⁿdʳ	ⁿdʳ	11
+o	o	o	30
+i$	i	i	21
+u	u	u	26
+ɸ$	ɸ	v	9
+o$	o	o	4
+^ᵐb	ⁿb	ⁿb	5
+ɛ	ɛ	ɛ	44
+k	k	k	9
+uʰ$	u h	u h	2
+^t	t	t	4
+x	x	ɣ	4
+^tᵐb	t ⁿb	t ⁿb	1
+^s	s	s	3
+^h	h	h	5
+n	n	n	34
+s	s	s	15
+s$	s	s	6
+ɣ	ɣ	ɣ	30
+_ᵐb	+ ⁿb	+ ⁿb	2
+e$	e	e	15
+t$	t	t	12
+^f	f	v	5
+_	+	+	4
+b	b	ⁿb	2
+^k	k	k	5
+ŋ$	ŋ	ŋ	5
+ɳ	ɳ	ŋ	1
+ŋ	ŋ	ŋ	10
+ɔ	ɔ	ɔ	1
+^l	l	l	8
+ⁿd	ⁿd	ⁿd	11
+w	w	w	9
+ⁿdʳ$	ⁿdʳ	ⁿdʳ	4
+n$	n	n	19
+^ⁿdʳ	ⁿdʳ	ⁿdʳ	3
+ə	ə	ə	10
+^mʷ	mʷ	mʷ	1
+ᵐb	ⁿb	ⁿb	13
+iʰ$	i h	i h	2
+x$	x	ɣ	10
+^ⁿd	ⁿd	ⁿd	4
+š	ʃ	s	1
+ɛʰ$	ɛ h	ɛ h	1
+a$	a	a	11
+h$	h	h	7
+v$	v	v	1
+$	NULL	NULL	2
+_ⁿd	+ ⁿd	+ ⁿd	1
+^b	b	ⁿb	1
+^r	r	r	2
+^ⁿt	n t	n t	2
+ã$	ã	a	1
+xs	x s	ɣ s	1
+m$	m	m	1
+aᵐb	a ⁿb	a ⁿb	1
+^x	x	ɣ	5
+^a	a	a	2
+d	d	ⁿd	1
+^i	i	i	11
