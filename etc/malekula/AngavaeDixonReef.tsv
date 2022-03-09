@@ -1,106 +1,106 @@
-Grapheme	IPA	Frequency
-^a	a	8
-mb	ⁿb
-dr	ⁿdʳ
--	+	85
-v	β	42
-a	a	178
-r	r	39
--$	NULL	18
-^ⁿd	ⁿd	2
-e	e	21
-l	l	54
-m	m	38
-i	i	44
-r$	r	8
-^t	t	5
-u	u	59
-i$	i	15
-^h	h	57
-k	k	9
-^-	NULL	58
-ŋ	ŋ	20
-a$	a	18
-^ᵑg	ⁿg	3
-ə	ə	11
-l$	l	13
-ᵐb	ⁿb	17
-o	o	38
-ⁿdʳ	ⁿdʳ	5
-u$	u	13
-ɛ	e	50
-β	β	6
-e$	e	24
-n	n	30
-p˺$	p	5
-w	w	7
-s$	s	15
-t	t	25
-g	g	25
-^k	k	5
-f	β	2
-βʷ	βʷ	1
-s	s	21
-aːᵐb	aː ⁿb	1
-^n	n	4
-ʊ	u	10
-^ᵐb	ⁿb	3
-m$	m	3
-k$	k	8
-^ɛ	e	2
-ɪ$	i	2
-ð	ð	7
-rs	r s	1
-z	z	8
-ᵑg	ⁿg	6
-ɪ	i	9
-ə$	ə	8
-n$	n	9
-ⁿd	ⁿd	11
-mʷ	mʷ	5
-ɛ$	e	4
-ᵐbʷ	ⁿbʷ	2
-ɔ$	o	8
-æ	a	1
-t$	t	3
-ɺ	NULL	1
-_	+	7
-^m	m	5
-^s	s	9
-h	h	1
-ⁿt	n t	1
-_ᵐb	+ ⁿb	2
-eᵐb	e ⁿb	2
-kʰ$	k	3
-aᵐb	a ⁿb	4
-p	p	1
-ʉ	u	2
-ŋ$	ŋ	2
-d$	t	1
-^e	e	1
-aː	a	4
-ɔ	o	2
-^i	i	14
-ɳ	ŋ	1
-d	d	1
-b$	ⁿb	2
-t˺$	t	2
-^l	l	9
-ɾ	r	1
-p$	p	2
-v$	β	1
-rw	r w	1
-ɣ	ɣ	1
-^d	ⁿd	1
-ⁿm	n m	1
-^v	β	1
-^ŋ	ŋ	1
-əə$	əː	1
-œ	œ	1
-aˑ	a	1
-ts	ts	1
-^r	r	1
-tⁿ$	t	1
-^ɳ	ŋ	1
-b	ᵐb	1
-ɬ$	l	1
+Grapheme	IPAInSource	IPA	Frequency
+^a	a	a	8
+mb	ⁿb	ⁿb
+dr	ⁿdʳ	ⁿdʳ
+-	+	+	85
+v	β	v	42
+a	a	a	178
+r	r	r	39
+-$	NULL	NULL	18
+^ⁿd	ⁿd	ⁿd	2
+e	e	e	21
+l	l	l	54
+m	m	m	38
+i	i	i	44
+r$	r	r	8
+^t	t	t	5
+u	u	u	59
+i$	i	i	15
+^h	h	h	57
+k	k	k	9
+^-	NULL	NULL	58
+ŋ	ŋ	ŋ	20
+a$	a	a	18
+^ᵑg	ⁿg	ⁿg	3
+ə	ə	ə	11
+l$	l	l	13
+ᵐb	ⁿb	ⁿb	17
+o	o	o	38
+ⁿdʳ	ⁿdʳ	ⁿdʳ	5
+u$	u	u	13
+ɛ	ɛ	e	50
+β	β	v	6
+e$	e	e	24
+n	n	n	30
+p˺$	p	p	5
+w	w	w	7
+s$	s	s	15
+t	t	t	25
+g	g	ⁿg	25
+^k	k	k	5
+f	f	v	2
+βʷ	βʷ	vʷ	1
+s	s	s	21
+aːᵐb	aː ⁿb		1
+^n	n	n	4
+ʊ	ʊ	u	10
+^ᵐb	ⁿb	ⁿb	3
+m$	m	m	3
+k$	k	k	8
+^ɛ	ɛ	e	2
+ɪ$	ɪ	i	2
+ð	ð	ð	7
+rs	r s	r s	1
+z	z	z	8
+ᵑg	ⁿg	ⁿg	6
+ɪ	ɪ	i	9
+ə$	ə	ə	8
+n$	n	n	9
+ⁿd	ⁿd	ⁿd	11
+mʷ	mʷ	mʷ	5
+ɛ$	ɛ	e	4
+ᵐbʷ	ⁿbʷ	ⁿbʷ	2
+ɔ$	ɔ	o	8
+æ	æ	a	1
+t$	t	t	3
+ɺ	NULL	NULL	1
+_	+	+	7
+^m	m	m	5
+^s	s	s	9
+h	h	h	1
+ⁿt	n t	n t	1
+_ᵐb	+ ⁿb	+ ⁿb	2
+eᵐb	e ⁿb	e ⁿb	2
+kʰ$	kʰ	k	3
+aᵐb	a ⁿb	a ⁿb	4
+p	p	p	1
+ʉ	ʉ	u	2
+ŋ$	ŋ	ŋ	2
+d$	d	t	1
+^e	e	e	1
+aː	aː	a	4
+ɔ	ɔ	o	2
+^i	i	i	14
+ɳ	ɳ	ŋ	1
+d	d	t	1
+b$	ⁿb	ⁿb	2
+t˺$	t	t	2
+^l	l	l	9
+ɾ	ɾ	r	1
+p$	p	p	2
+v$	v	v	1
+rw	r w	r w	1
+ɣ	ɣ	ɣ	1
+^d	d	ⁿd	1
+ⁿm	n m	n m	1
+^v	v	v	1
+^ŋ	ŋ	ŋ	1
+əə$	əː	ə	1
+œ	œ	œ	1
+aˑ	aˑ	a	1
+ts	ts	ts	1
+^r	r	r	1
+tⁿ$	tⁿ	t n	1
+^ɳ	ɳ	ŋ	1
+b	b	ⁿb	1
+ɬ$	ɬ	l	1
