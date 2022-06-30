@@ -1,104 +1,106 @@
-Grapheme	IPA	Frequency
-^f	f	3
-ɛ	ɛ	62
-r	r	58
-a	a	82
--$	NULL	21
-^x	x	13
-m	m	30
-e	e	30
-r$	r	9
-^t	t	3
-i	i	55
-n$	n	29
-^b	b	2
-ŋ	ŋ	10
-^n	n	30
--	+	31
-s	s	12
-ɾ$	ɾ	7
-^-	NULL	68
-f	f	14
-n	n	23
-ɛ$	ɛ	2
-ɾ	ɾ	17
-i$	i	18
-u$	u	7
-^ᵐb	ⁿb	7
-u	u	35
-o	o	45
-v$	v	3
-^ⁿdʳ	ⁿdʳ	1
-^ⁿd	ⁿd	3
-aᵐb	a ⁿb	5
-^t͡ʃ	tʃ	8
-ᵐb	ⁿb	7
-^ʃ	ʃ	1
-ʃ	ʃ	1
-t	t	25
-ɣ	ɣ	22
-k	k	3
-v	v	11
-x$	x	7
-e$	e	22
-^k	k	2
-^s	s	4
-^fʷ	fʷ	1
-t͡ʃ	tʃ	8
-ŋ$	ŋ	7
-^r	r	15
-β	β	7
-t$	t	5
-x	x	7
-ɪ	ɪ	4
-g	g	7
-^m	m	8
-ᵐʙ	ⁿʙ	4
-ʊ	ʊ	3
-f$	f	4
-s$	s	10
-βs	β s	1
-^a	a	4
-h$	h	1
-m$	m	6
-t˺$	t˺/t	3
-o$	o	8
-_$	NULL	1
-ə	ə	1
-t͡ʃ$	tʃ	8
-p	p	7
-fʷ	fʷ	1
-^ᵑg	ⁿg	2
-^l	l	2
-l	l	4
-ᵑg	ⁿg	1
-ɔ$	ɔ	2
-ⁿd	ⁿd	2
-ᵐp	ⁿp	2
-$	NULL	2
-_	+	2
-ʁ	ʁ	1
-bʷ	bʷ	1
-^v	v	1
-^aᵐb	a ⁿb	1
-^u	u	1
-^ŋ	ŋ	1
-aᵑg	a ⁿg	1
-a$	a	2
-mᵗs	m ᵗs/ts	1
-b	b	1
-d	d	3
-ᵐ	ⁿb	2
-ŋw	ŋʷ	1
-^g	g	2
-βʷ	βʷ	1
-ʒ	ʒ	1
-l$	l	1
-rs	r s	1
-^ɣ	ɣ	1
-t͡s	ts	1
-ɣs	ɣ s	1
-^w	w	1
-tw	tʷ	1
-tt͡s	t ts	1
-xs	x s	1
+Grapheme	IPAInSource	IPA	Frequency
+^f	f	v	3
+ɛ	ɛ	e	62
+r	r	r	58
+a	a	a	82
+-$	NULL	NULL	21
+^x	x	ɣ	13
+mb	ⁿb	ⁿb
+mbʷ	ⁿbʷ	ⁿbʷ
+m	m	m	30
+e	e	e	30
+r$	r	r	9
+^t	t	t	3
+i	i	i	55
+n$	n	n	29
+^b	b	ⁿb	2
+ŋ	ŋ	ŋ	10
+^n	n	n	30
+-	+	+	31
+s	s	s	12
+ɾ$	ɾ	ɾ	7
+^-	NULL	NULL	68
+f	f	v	14
+n	n	n	23
+ɛ$	ɛ	e	2
+ɾ	ɾ	ɾ	17
+i$	i	i	18
+u$	u	u	7
+^ᵐb	ⁿb	ⁿb	7
+u	u	u	35
+o	o	o	45
+v$	v	v	3
+^ⁿdʳ	ⁿdʳ	ⁿdʳ	1
+^ⁿd	ⁿd	ⁿd	3
+aᵐb	a ⁿb	a ⁿb	5
+^t͡ʃ	tʃ	tʃ	8
+ᵐb	ⁿb	ⁿb	7
+^ʃ	ʃ	s	1
+ʃ	ʃ	s	1
+t	t	t	25
+ɣ	ɣ	ɣ	22
+k	k	k	3
+v	v	v	11
+x$	x	ɣ	7
+e$	e	e	22
+^k	k	k	2
+^s	s	s	4
+^fʷ	fʷ	vʷ	1
+t͡ʃ	tʃ	tʃ	8
+ŋ$	ŋ	ŋ	7
+^r	r	r	15
+β	β	v	7
+t$	t	t	5
+x	x	ɣ	7
+ɪ	ɪ	i	4
+g	g	ⁿg	7
+^m	m	m	8
+ᵐʙ	ⁿʙ	ⁿʙ	4
+ʊ	ʊ	u	3
+f$	f	v	4
+s$	s	s	10
+βs	β s	v s	1
+^a	a	a	4
+h$	h	ɣ	1
+m$	m	m	6
+t˺$	t˺	t	3
+o$	o	o	8
+_$	NULL	NULL	1
+ə	ə	ə	1
+t͡ʃ$	tʃ	tʃ	8
+p	p	p	7
+fʷ	fʷ	vʷ	1
+^ᵑg	ⁿg	ⁿg	2
+^l	l	l	2
+l	l	l	4
+ᵑg	ⁿg	ⁿg	1
+ɔ$	ɔ	o	2
+ⁿd	ⁿd	ⁿd	2
+ᵐp	ⁿʙ	ⁿʙ	2
+$	NULL	NULL	2
+_	+	+	2
+ʁ	x	ɣ	1
+bʷ	ⁿbʷ	ⁿbʷ	1
+^v	v	v	1
+^aᵐb	a ⁿb	a ⁿb	1
+^u	u	u	1
+^ŋ	ŋ	ŋ	1
+aᵑg	a ⁿg	a ⁿg	1
+a$	a	a	2
+mᵗs	m s	m s	1
+b	b	ⁿb	1
+d	d	ⁿd	3
+ᵐ	ⁿ	ⁿb	2
+ŋw	ŋ w	ŋ w	1
+^g	g	ⁿg	2
+βʷ	βʷ	vʷ	1
+ʒ	ʒ	s	1
+l$	l	l	1
+rs	r s	r s	1
+^ɣ	ɣ	ɣ	1
+t͡s	ts	tʃ	1
+ɣs	ɣ s	ɣ s	1
+^w	w	w	1
+tw	t w	t w	1
+tt͡s	t ts	t tʃ	1
+xs	x s	ɣ s	1
