@@ -1,101 +1,101 @@
-Grapheme	IPAInSource	IPA	Frequency
-^n	n	n	77
-ɛ	ɛ	e	128
--	+	+	83
-v	v	v	23
-a	a	a	157
-r	r	r	31
--$	NULL	NULL	19
-^m	m	m	8
-o	o	o	55
-i	i	i	26
-r$	r	r	6
-ndʳ	ⁿdʳ	ⁿdʳ
-nd	ⁿd	ⁿd
-^b	ⁿb	ⁿb	1
-ŋ	ŋ	ŋ	25
-ə	ə	ə	22
-n	n	n	40
-ə$	ə	ə	6
-^h	h	x	3
-l	l	l	66
-^-	NULL	NULL	65
-ŋ$	ŋ	ŋ	3
-s	s	s	35
-ɛ$	ɛ	e	33
-β	β	v	18
-u	u	u	59
-l$	l	l	23
-ⁿdʳ	ⁿdʳ	ⁿdʳ	5
-i$	i	i	31
-ɪ	ɪ	i	11
-t	t	t	65
-w	w	w	9
-lw	l w	l w	1
-aː	aː	aː	8
-g	g	ⁿg	12
-βʷ	βʷ	vʷ	8
-m	m	m	39
-aːᵐb	aː ⁿb	aː ⁿb	1
-a$	a	a	24
-s$	s	s	13
-ᵐbʷ	ⁿbʷ	ⁿbʷ	4
-^ⁿdʳ	ⁿdʳ	ⁿdʳ	1
-g$	g	ⁿg	1
-e$	e	e	6
-ⁿd	ⁿd	ⁿd	10
-ᵑg	ⁿg	ⁿg	3
-rs	r s	r s	1
-ᵐb	ⁿb	ⁿb	14
-vʷ	vʷ	vʷ	1
-u$	u	u	8
-βs	β s	v s	2
-ms	m s	m s	1
-o$	o	o	3
-n$	n	n	9
-k	k	k	17
-p$	p	p	12
-j	j	j	1
-^ⁿd	ⁿd	ⁿd	2
-ʊ	ʊ	u	3
-mʷ	mʷ	mʷ	9
-d	d	ⁿd	3
-mᵇ$	ⁿb	ⁿb	3
-t$	t	t	3
-_	+	+	9
-^k	k	k	9
-e	e	e	5
-ɔ$	ɔ	o	1
-gs	g s	ⁿg s	1
-æ	æ	a	3
-k$	k	k	10
-aᵑg	a ⁿg	a ⁿg	1
-^ᵐb	ⁿb	ⁿb	2
-b	ⁿb	ⁿb	2
-aᵐb	a ⁿb	a ⁿb	6
-sw	s w	s w	2
-^ŋ	ŋ	ŋ	1
-vs	v s	v s	3
-^ɛ	ɛ	e	2
-aː$	aː	aː	1
-ʉ	ʉ	u	2
-p	p	p	2
-^t	t	t	6
-^l	l	l	6
-b$	b	ⁿb	1
-^v	v	v	7
-^β	β	v	1
-^w	w	w	1
-ks	k s	k s	1
-^r	r	r	1
-^ᵑg	ⁿg	ⁿg	1
-^mʷ	mʷ	mʷ	2
-^s	s	s	2
-^a	a	a	1
-^i	i	i	16
-œ	œ	ø	1
-^o	o	o 	2
-ʷ	w	w	1
-ᵑk	ⁿk	ⁿg	1
-$	NULL	NULL	1
-__	+	+	1
+Grapheme	IPA	Frequency
+^n	n	77
+ɛ	e	128
+-	+	83
+v	v	23
+a	a	157
+r	r	31
+-$	NULL	19
+^m	m	8
+o	o	55
+i	i	26
+r$	r	6
+ndʳ	ⁿdʳ
+nd	ⁿd
+^b	ⁿb	1
+ŋ	ŋ	25
+ə	ə	22
+n	n	40
+ə$	ə	6
+^h	x	3
+l	l	66
+^-	NULL	65
+ŋ$	ŋ	3
+s	s	35
+ɛ$	e	33
+β	v	18
+u	u	59
+l$	l	23
+ⁿdʳ	ⁿdʳ	5
+i$	i	31
+ɪ	i	11
+t	t	65
+w	w	9
+lw	l w	1
+aː	aː	8
+g	ⁿg	12
+βʷ	vʷ	8
+m	m	39
+aːᵐb	aː ⁿb	1
+a$	a	24
+s$	s	13
+ᵐbʷ	ⁿbʷ	4
+^ⁿdʳ	ⁿdʳ	1
+g$	ⁿg	1
+e$	e	6
+ⁿd	ⁿd	10
+ᵑg	ⁿg	3
+rs	r s	1
+ᵐb	ⁿb	14
+vʷ	vʷ	1
+u$	u	8
+βs	v s	2
+ms	m s	1
+o$	o	3
+n$	n	9
+k	k	17
+p$	p	12
+j	j	1
+^ⁿd	ⁿd	2
+ʊ	u	3
+mʷ	mʷ	9
+d	ⁿd	3
+mᵇ$	ⁿb	3
+t$	t	3
+_	+	9
+^k	k	9
+e	e	5
+ɔ$	o	1
+gs	ⁿg s	1
+æ	a	3
+k$	k	10
+aᵑg	a ⁿg	1
+^ᵐb	ⁿb	2
+b	ⁿb	2
+aᵐb	a ⁿb	6
+sw	s w	2
+^ŋ	ŋ	1
+vs	v s	3
+^ɛ	e	2
+aː$	aː	1
+ʉ	u	2
+p	p	2
+^t	t	6
+^l	l	6
+b$	ⁿb	1
+^v	v	7
+^β	v	1
+^w	w	1
+ks	k s	1
+^r	r	1
+^ᵑg	ⁿg	1
+^mʷ	mʷ	2
+^s	s	2
+^a	a	1
+^i	i	16
+œ	ø	1
+^o	o 	2
+ʷ	w	1
+ᵑk	ⁿg	1
+$	NULL	1
+__	+	1
