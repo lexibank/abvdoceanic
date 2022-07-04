@@ -1,99 +1,99 @@
-Grapheme	IPA	Frequency
-^v	v	2
-a	a	115
-r	r	38
--$	NULL	16
-^d	d	1
-e	e	31
-l	l	58
-mʷ	mʷ	7
-i	i	75
-r$	r	11
-^ᵐb	ⁿb	5
-ŋ	ŋ	18
-n$	n	27
-^b	b	1
-u	u	61
-^-	NULL	82
-o	o	50
-ŋ$	ŋ	14
-^n	n	62
--	+	60
-h	h	8
-l$	l	26
-ᵐbʷ	ⁿbʷ	7
-v	v	21
-ʔ	ʔ	16
-s$	s	13
-^ᵐbʷ	ⁿbʷ	3
-s	s	21
-n	n	19
-ɛ	ɛ	39
-p$	p	12
-ɔ	ɔ	3
-ʔ$	ʔ	18
-^t	t	4
-t	t	33
-^h	h	2
-β	β	9
-m	m	41
-m$	m	7
-^s	s	7
-ʉ	ʉ	17
-w	w	8
-ⁿdʳ	ⁿdʳ	6
-i$	i	18
-tʰ	tʰ	1
-ⁿd	ⁿd	9
-ᵑg	ⁿg	7
-nh	nʰ	1
-^ᵐβ	ⁿβ	2
-vʷ	vʷ	3
-ɪ	ɪ	22
-aᵐb	a ⁿb	1
-u$	u	7
-ᵐʙ	ⁿʙ	5
-e$	e	5
-ɳ	ɳ	1
-^ⁿd	ⁿd	4
-^m	m	8
-d	d	1
-o$	o	9
-t$	t	12
-bʷ	bʷ	1
-_	+	14
-_$	NULL	1
-ᵐb	ⁿb	15
-p	p	5
-_ᵐb	+ ⁿb	1
-k	k	2
-a$	a	3
-$	NULL	5
-^l	l	4
-ə	ə	4
-^mʷ	mʷ	1
-y	y/j	2
-^i	i	10
-g	g	1
-nw	nʷ	1
-ɔ$	ɔ	1
-ph	pʰ	1
-h$	h	3
-ᵐp	ⁿp	1
-ʰ	ʰm	1
-βs$	β s	1
-ɪ$	ɪ	1
-^e	e	2
-aˑ	aˑ	1
-ee	eː	2
-aː$	aː	1
-aa	aː	1
-ŋs	ŋ s	1
-^ᵑg	ⁿg	3
-ᵑk	ⁿk	2
-^x	x	1
-^r	r	1
-aː	aː	1
-^a	a	4
-^eⁿd	e ⁿd	1
-^ɪ	ɪ	1
+Grapheme	IPAInSource	IPA	Frequency
+^v	v	v	2
+a	a	a	115
+r	r	r	38
+-$	NULL	NULL	16
+^d	d	ⁿd	1
+e	e	e	31
+l	l	l	58
+mʷ	mʷ	mʷ	7
+i	i	i	75
+r$	r	r	11
+^ᵐb	ⁿb	ⁿb	5
+ŋ	ŋ	ŋ	18
+n$	n	n	27
+^b	ⁿb	ⁿb	1
+u	u	u	61
+^-	NULL	NULL	82
+o	o	o	50
+ŋ$	ŋ	ŋ	14
+^n	n	n	62
+-	+	+	60
+h	h	h	8
+l$	l	l	26
+ᵐbʷ	ⁿbʷ	ⁿbʷ	7
+v	v	v	21
+ʔ	ʔ	ʔ	16
+s$	s	s	13
+^ᵐbʷ	ⁿbʷ	ⁿbʷ	3
+s	s	s	21
+n	n	n	19
+ɛ	ɛ	e	39
+p$	p	p	12
+ɔ	ɔ	o	3
+ʔ$	ʔ	ʔ	18
+^t	t	t	4
+t	t	t	33
+^h	h	h	2
+β	β	v	9
+m	m	m	41
+m$	m	m	7
+^s	s	s	7
+ʉ	ʉ	y	17
+w	w	w	8
+ⁿdʳ	ⁿdʳ	ⁿdʳ	6
+i$	i	i	18
+tʰ	tʰ	t h	1
+ⁿd	ⁿd	ⁿd	9
+ᵑg	ⁿg	ⁿg	7
+nh	n h	n h	1
+^ᵐβ	ⁿβ	n v	2
+vʷ	vʷ	vʷ	3
+ɪ	ɪ	i	22
+aᵐb	a ⁿb	a ⁿb	1
+u$	u	u	7
+ᵐʙ	ⁿʙ	ⁿʙ	5
+e$	e	e	5
+ɳ	ɳ	ŋ	1
+^ⁿd	ⁿd	ⁿd	4
+^m	m	m	8
+d	d	ⁿd	1
+o$	o	o	9
+t$	t	t	12
+bʷ	ⁿbʷ	ⁿbʷ	1
+_	+	+	14
+_$	NULL	NULL	1
+ᵐb	ⁿb	ⁿb	15
+p	p	p	5
+_ᵐb	+ ⁿb	ⁿb	1
+k	k	k	2
+a$	a	a	3
+$	NULL	NULL	5
+^l	l	l	4
+ə	ə	ø	4
+^mʷ	mʷ	mʷ	1
+y	y	y	2
+^i	i	i	10
+g	g	ⁿg	1
+nw	n w	n w	1
+ɔ$	ɔ	o	1
+ph	p h	p h	1
+h$	h	h	3
+ᵐp	ᵐp	ᵐb	1
+ʰ	ʰ	h	1
+βs$	β s	v s	1
+ɪ$	ɪ	i	1
+^e	e	e	2
+aˑ	aˑ	aː	1
+ee	eː	eː	2
+aː$	aː	aː	1
+aa	aː	aː	1
+ŋs	ŋ s	ŋ s	1
+^ᵑg	ⁿg	ⁿg	3
+ᵑk	ⁿk	ⁿk	2
+^x	x	ɣ	1
+^r	r	r	1
+aː	aː	aː	1
+^a	a	a	4
+^eⁿd	e ⁿd	e ⁿd	1
+^ɪ	ɪ	i	1

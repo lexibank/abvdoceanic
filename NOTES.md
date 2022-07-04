@@ -30,10 +30,10 @@ cd ..
 To make a nexus file, use the custom `abvdoceanic.nexus` in cldfbench. The parameters are:
 
 * --output=/path/to/filename.nex = the output file to write.
-* --ascertainment = add BEASTs ascertainment correction if you want.
-** --ascertainment=overall - one ascertainment character added for overall correction.
-** --ascertainment=word - per word ascertainment correction.
-* --removecombined=<int> - set level at which to filter combined cognates.
+* --ascertainment={token} add BEASTs ascertainment correction if you want.
+* * `overall` - one ascertainment character added for overall correction.
+* * `word` - per word ascertainment correction.
+* --removecombined={int} - set level at which to filter combined cognates.
 
 
 ```shell

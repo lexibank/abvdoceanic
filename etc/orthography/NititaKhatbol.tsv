@@ -1,110 +1,111 @@
-Grapheme	IPA	Frequency
-^n	n	68
-ɛ	ɛ	26
--	+	72
-v	v	23
-r	r	21
-a	a	116
--$	NULL	17
-^mʷ	mʷ	1
-r$	r	15
-^b	b	1
-t	t	43
-n$	n	16
-k	k	8
-ɪ	ɪ	23
-d	d	6
-^-	NULL	66
-o	o	45
-e	e	24
-s	s	33
-l$	l	12
-u	u	60
-n	n	17
-ⁿd	ⁿd	16
-l	l	29
-i	i	54
-s$	s	11
-mᵇl	mb l	1
-mᵇ$	mb	1
-ᵑk	ⁿk	9
-$	NULL	8
-m	m	30
-ⁿdʳ	ⁿdʳ	3
-ð	ð	1
-ŋ	ŋ	8
-ᵐʙ	ⁿʙ	8
-t$	t	11
-ᵐb	ⁿb	5
-ʊ	ʊ	4
-j	j/dʒ	1
-i$	i	7
-e$	e	10
-ᵑg	ⁿg	11
-β	β	10
-p	p	6
-ɣ	ɣ	13
-ⁿt͡s	ⁿts	1
-p˺$	p˺/p	2
-ə	ə	4
-p$	p	2
-u$	u	10
-ᴩ	ᴩ/p	2
-^ⁿd	ⁿd	1
-ŋ$	ŋ	5
-^g	g	1
-g	g	2
-ᵐbʳ	ⁿbʳ	1
-x$	x	8
-^a	a	8
-ʁ	ʁ	1
-aᵗ	a t	1
-lᵗs	l ᵗs/ts	1
-ʋ	ʋ	3
-^m	m	3
-o$	o	3
-a$	a	12
-x	x	8
-ɔ$	ɔ	1
-_-	+	1
-βʷ	βʷ	1
-ʁ$	ʁ	2
-aᵑg	a ⁿg	2
-kʰ$	kʰ	1
-pʷ	pʷ	2
-h$	h	1
-m$	m	6
-_$	NULL	6
-aᵐb	a ⁿb	1
-ʒ$	ʒ	2
-ᵐbʷ	ⁿbʷ	1
-^ᵐb	ⁿb	2
-^ᵐʙ	ⁿʙ	1
-^t	t	4
-b	b	3
-^ᵑg	ⁿg	5
-vʷ	vʷ	2
-t˺$	t˺/t	1
-ɾ	ɾ	1
-ʉ	ʉ	1
-tt$	tː	1
-h	h	1
-ɸ$	ɸ	2
-ᵐ	ⁿb	1
-z	z	1
-M	m	1
-v$	v	1
-z$	z	1
-k$	k	4
-^l	l	2
-^ⁿdʳ	ⁿdʳ	1
-eᵐb	e ⁿb	1
-y	y/j	1
-^s	s	2
-xᵐ	xⁿ	1
-ᵑd	ⁿd	2
-^aᵐb	a ⁿb	1
-^i	i	13
-ns	n s	1
-ɬ$	ɬ	1
-_	+	3
+Grapheme	IPAInSource	IPA	Frequency
+^n	n	n	68
+mb	ⁿb	ⁿb
+ɛ	ɛ	e	26
+-	+	+	72
+v	v	v	23
+r	r	r	21
+a	a	a	116
+-$	NULL	NULL	17
+^mʷ	mʷ	mʷ	1
+r$	r	r	15
+^b	b	ⁿb	1
+t	t	t	43
+n$	n	n	16
+k	k	k	8
+ɪ	ɪ	i	23
+d	d	ⁿd	6
+^-	NULL	NULL	66
+o	o	o	45
+e	e	e	24
+s	s	s	33
+l$	l	l	12
+u	u	u	60
+n	n	n	17
+ⁿd	ⁿd	ⁿd	16
+l	l	l	29
+i	i	i	54
+s$	s	s	11
+mᵇl	m l	m l	1
+mᵇ$	m	m	1
+ᵑk	ⁿk	ⁿg	9
+$	NULL	NULL	8
+m	m	m	30
+ⁿdʳ	ⁿdʳ	ⁿdʳ	3
+ð	t	t	1
+ŋ	ŋ	ŋ	8
+ᵐʙ	ⁿʙ	ⁿʙ	8
+t$	t	t	11
+ᵐb	ⁿb	ⁿb	5
+ʊ	ʊ	o	4
+j	j	j	1
+i$	i	i	7
+e$	e	e	10
+ᵑg	ⁿg	ⁿg	11
+β	β	v	10
+p	p	p	6
+ɣ	ɣ	ɣ	13
+ⁿt͡s	ⁿtʃ	ⁿdʒ	1
+p˺$	p˺	p	2
+ə	ə	ə	4
+p$	p	p	2
+u$	u	u	10
+ᴩ	ᴩ	ᴩ	2
+^ⁿd	ⁿd	ⁿd	1
+ŋ$	ŋ	ŋ	5
+^g	g	ⁿg	1
+g	g	ⁿg	2
+ᵐbʳ	ⁿb r	ⁿb r	1
+x$	x	h	8
+^a	a	a	8
+ʁ	x	h	1
+aᵗ	a t	a t	1
+lᵗs	l tʃ	l tʃ	1
+ʋ	ʋ	v	3
+^m	m	m	3
+o$	o	o	3
+a$	a	a	12
+x	x	h	8
+ɔ$	ɔ	o	1
+_-	+	+	1
+βʷ	βʷ	vʷ	1
+ʁ$	x	h	2
+aᵑg	a ⁿg	a ⁿg	2
+kʰ$	x	h	1
+pʷ	pʷ	pʷ	2
+h$	h	h	1
+m$	m	m	6
+_$	NULL	NULL	6
+aᵐb	a ⁿb	a ⁿb	1
+ʒ$	ʒ	s	2
+ᵐbʷ	ⁿbʷ	ⁿbʷ	1
+^ᵐb	ⁿb	ⁿb	2
+^ᵐʙ	ⁿʙ	ⁿʙ	1
+^t	t	t	4
+b	b	ⁿb	3
+^ᵑg	ⁿg	ⁿg	5
+vʷ	vʷ	vʷ	2
+t˺$	t˺	t	1
+ɾ	ɾ	r	1
+ʉ	ʉ	y	1
+tt$	t t	t t	1
+h	h	h	1
+ɸ$	ɸ	v	2
+ᵐ	ⁿb	ⁿb	1
+z	z	s	1
+M	m	m	1
+v$	v	v	1
+z$	z	s	1
+k$	k	k	4
+^l	l	l	2
+^ⁿdʳ	ⁿdʳ	ⁿdʳ	1
+eᵐb	e ⁿb	e ⁿb	1
+y	y	j	1
+^s	s	s	2
+xᵐ	x m	h m	1
+ᵑd	ⁿd	ⁿd	2
+^aᵐb	a ⁿb	a ⁿb	1
+^i	i	i	13
+ns	n s	n s	1
+ɬ$	ɬ	l	1
+_	+	+	3

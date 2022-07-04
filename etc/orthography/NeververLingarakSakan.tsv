@@ -1,100 +1,100 @@
-Grapheme	IPA	Frequency
-^n	n	71
-ɛ	e	48
--	+	78
-v	v	24
-ɾ	r	4
-a	a	100
--$	NULL	20
-mʷ	m	1
-r$	r	12
-^ᵐb	ⁿb	4
-r	r	26
-t	t	40
-n$	n	23
-g	g	7
-l	l	39
-^-	NULL	68
-β	v	13
-o$	o	8
-s	s	19
-l$	l	14
-m$	m	9
-ⁿdʳ	ⁿdʳ	6
-i$	i	6
-s$	s	16
-i	i	56
-y	y	2
-^ᵑg	ⁿg	4
-ⁿd	ⁿd	9
-m	m	39
-u	u	44
-o	o	56
-ŋ	ŋ	11
-ᵐb	ⁿb	17
-aᵐb	a ⁿb	6
-ʷ	NULL	3
-e	e	13
-e$	e	15
-ɣ	ɣ	20
-ⁿt͡s	ⁿdʒ	7
-b	b	1
-n	n	11
-q$	k	1
-t͡s	dʒ	2
-ŋ$	ŋ	5
-x$	ɣ	10
-ɳ	ŋ	2
-p	p	2
-ə	i	2
-k	k	6
-ɪ	i	24
-k$	k	1
-d	ⁿd	2
-t$	t	9
-a$	a	12
-ᵑg	ⁿg	9
-ʊ	u	1
-^x	ɣ	1
-ɣ$	ɣ	1
-^m	m	1
-x	ɣ	7
-ⁿʧ	ⁿtʃ	1
-ᵐʙ	ⁿʙ	3
-ɔ$	o	3
-u$	u	7
-p$	p	5
-q	k	1
-aᵑg	a ⁿg	1
-$	NULL	4
-h$	ɣ	2
-^ⁿd	ⁿd	2
-ns	ⁿdʒ	2
-ŋs	ŋ s	1
-ᵐbʷ	ⁿb	1
-t˺$	t˺/t	1
-ns$	ⁿdʒ	1
-^h	ɣ	3
-uˑ$	uˑ	1
-_	+	4
-ʉ	u	1
-^l	l	4
-^i	i	11
-p˺$	p	2
-ɑ	a	1
-^t	t	2
-ss	s	1
-^0	NULL	1
-^a	a	8
-ⁿdʳ$	ⁿdʳ	1
-^b	ⁿb	1
-ᴩ	ᴩ/p	1
-^aᵐb	a ⁿb	1
-^e	e	1
-^k	k	2
-^iᵑg	i ⁿg	1
-^e$	e	1
-^s	s	1
-ɐ	a	3
-ɬ$	l	2
-^ⁿt͡s	ⁿdʒ	4
+Grapheme	IPAInSource	IPA	Frequency
+^n	n	n	71
+ɛ	ɛ	ɛ	48
+-	+	+	78
+v	v	v	24
+ɾ	ɾ	r	4
+a	a	a	100
+-$	NULL	NULL	20
+mʷ	mʷ	mʷ	1
+r$	r	r	12
+^ᵐb	ⁿb	ⁿb	4
+r	r	r	26
+t	t	t	40
+n$	n	n	23
+g	g	ⁿg	7
+l	l	l	39
+^-	NULL	NULL	68
+β	β	v	13
+o$	o	o	8
+s	s	s	19
+l$	l	l	14
+m$	m	m	9
+ⁿdʳ	ⁿdʳ	ⁿdʳ	6
+i$	i	i	6
+s$	s	s	16
+i	i	i	56
+y	y	y	2
+^ᵑg	ⁿg	ⁿg	4
+ⁿd	ⁿd	ⁿd	9
+m	m	m	39
+u	u	u	44
+o	o	o	56
+ŋ	ŋ	ŋ	11
+ᵐb	ⁿb	ⁿb	17
+aᵐb	a ⁿb	a ⁿb	6
+ʷ	w	w	3
+e	e	e	13
+e$	e	e	15
+ɣ	ɣ	ɣ	20
+ⁿt͡s	ⁿts	ⁿdʒ	7
+b	b	ⁿb	1
+n	n	n	11
+q$	k	k	1
+t͡s	ⁿdʒ	ⁿdʒ	2
+ŋ$	ŋ	ŋ	5
+x$	x	ɣ	10
+ɳ	ɳ	ŋ	2
+p	p	p	2
+ə	ə	ə	2
+k	k	k	6
+ɪ	ɪ	i	24
+k$	k	k	1
+d	d	ⁿd	2
+t$	t	t	9
+a$	a	a	12
+ᵑg	ⁿg	ⁿg	9
+ʊ	ʊ	u	1
+^x	x	ɣ	1
+ɣ$	ɣ	ɣ	1
+^m	m	m	1
+x	x	ɣ	7
+ⁿʧ	ⁿtʃ	ⁿdʒ	1
+ᵐʙ	ⁿʙ	ⁿʙ	3
+ɔ$	ɔ	o	3
+u$	u	u	7
+p$	p	p	5
+q	k	k	1
+aᵑg	a ⁿg	a ⁿg	1
+$	NULL	NULL	4
+h$	h	ɣ	2
+^ⁿd	ⁿd	ⁿd	2
+ns	n s	n s	2
+ŋs	ŋ s	ŋ s	1
+ᵐbʷ	ⁿbʷ	ⁿbʷ	1
+t˺$	t˺	t	1
+ns$	n s	n s	1
+^h	h	ɣ	3
+uˑ$	uˑ	u	1
+_	+	+	4
+ʉ	ʉ	y	1
+^l	l	l	4
+^i	i	i	11
+p˺$	p˺	p	2
+ɑ	ɑ	a	1
+^t	t	t	2
+ss	s s	s s	1
+^0	NULL	NULL	1
+^a	a	a	8
+ⁿdʳ$	ⁿdʳ	ⁿdʳ	1
+^b	b	ⁿb	1
+ᴩ	ᴩ	ᴩ	1
+^aᵐb	a ⁿb	a ⁿb	1
+^e	e	e	1
+^k	k	k	2
+^iᵑg	i ⁿg	i ⁿg	1
+^e$	e	e	1
+^s	s	s	1
+ɐ	ɐ	a	3
+ɬ$	ɬ	l	2
+^ⁿt͡s	ⁿts	ⁿdʒ	4
