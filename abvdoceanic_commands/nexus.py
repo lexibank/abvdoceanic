@@ -9,6 +9,7 @@ from nexusmaker import NexusMakerAscertained
 from nexusmaker import NexusMakerAscertainedParameters
 from nexusmaker.tools import remove_combining_cognates
 
+root = Path(__file__).parent.parent
 
 def register(parser):
     parser.add_argument(
@@ -33,7 +34,8 @@ def register(parser):
 
 
 def run(args):
-    mdfile = Oceanic().cldf_dir / "cldf-metadata.json"
+
+    mdfile = root / 'cldf' / "cldf-metadata.json"
     args.log.info('loading %s' % mdfile)
     records = list(load_cldf(mdfile, table='FormTable'))
     
