@@ -45,7 +45,7 @@ only low-tone vowels occur after b, d, g, and gw, mb, nd, Å‹g, ngw, and ns, a
 	<item>lêma</item>
 	<annotation>his or her hand</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1,64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1568,11 +1568,22 @@ only low-tone vowels occur after b, d, g, and gw, mb, nd, Å‹g, ngw, and ns, a
 </record>
 
 <record>
-	<id>43888</id>
+	<id>3233552</id>
 	<word_id>123</word_id>
 	<word>to flow</word>
-	<item>-sèleŋ/-nseleŋ</item>
-	<annotation>to drip, flow, realis, irrealis</annotation>
+	<item>-sèleŋ</item>
+	<annotation>to drip, flow (realis)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233553</id>
+	<word_id>123</word_id>
+	<word>to flow</word>
+	<item>-nseleŋ</item>
+	<annotation>to drip, flow (irrealis)</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
