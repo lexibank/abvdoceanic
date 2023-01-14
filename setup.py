@@ -24,6 +24,6 @@ setup(
     extras_require={"test": ["pytest-cldf"]},
     install_requires=[
         'pylexibank>=2.1',
-        'nexusmaker>=2.0.2',
+        'nexusmaker>=2.0.4',
     ]
 )

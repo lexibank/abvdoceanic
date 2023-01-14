@@ -2,7 +2,6 @@
 Write nexus file
 """
 from pathlib import Path
-from lexibank_abvdoceanic import Dataset as Oceanic
 from nexusmaker import load_cldf
 from nexusmaker import NexusMaker
 from nexusmaker import NexusMakerAscertained
@@ -10,6 +9,7 @@ from nexusmaker import NexusMakerAscertainedParameters
 from nexusmaker.tools import remove_combining_cognates
 
 root = Path(__file__).parent.parent
+
 
 def register(parser):
     parser.add_argument(
@@ -25,7 +25,7 @@ def register(parser):
         "--filter",
         default=None,
         type=Path,
-        help="filename containing a list of parameters (one per line) to remove")
+        help="filename containing a list of parameters to remove")
     parser.add_argument(
         "--removecombined",
         default=None,
@@ -34,25 +34,28 @@ def register(parser):
 
 
 def run(args):
-
     mdfile = root / 'cldf' / "cldf-metadata.json"
-    args.log.info('loading %s' % mdfile)
     records = list(load_cldf(mdfile, table='FormTable'))
+    args.log.info('%8d records loaded from %s' % (len(records), mdfile))
     
     # run filter if given
     if args.filter:
-        for p in args.filter.read_text().split("\n"):
-            p = p.lower()
+        for param in args.filter.read_text().split("\n"):
             nrecords = len(records)
-            records = [r for r in records if r.Parameter.lower() != p]
+            records = [
+                r for r in records if r.Parameter.lower() != param.lower()
+            ]
             change = nrecords - len(records)
-            args.log.info(
-                '%8d records removed for parameter %s' % (change, p)
-            )
+            args.log.info('%8d records removed for parameter %s' % (
+                change, param
+            ))
             if change == 0:
-                args.log.warn(
-                    "No records removed for parameter %s -- typo?" % p
-                )
+                args.log.warn("No records removed for parameter %s" % param)
+    
+    args.log.info(
+        '%8d records written to nexus %s using ascertainment=%s' % (
+        len(records), args.output, args.ascertainment
+    ))
 
     args.log.info(
         'writing nexus from %d records to %s using ascertainment=%s'
@@ -60,11 +63,14 @@ def run(args):
     )
 
     if args.ascertainment is None:
-        nex = NexusMaker(data=records)
+        nex = NexusMaker(
+            data=records, remove_loans=True, unique_ids=True)
     elif args.ascertainment == 'overall':
-        nex = NexusMakerAscertained(data=records)
+        nex = NexusMakerAscertained(
+            data=records, remove_loans=True, unique_ids=True)
     elif args.ascertainment == 'word':
-        nex = NexusMakerAscertainedParameters(data=records)
+        nex = NexusMakerAscertainedParameters(
+            data=records, remove_loans=True, unique_ids=True)
     else:
         raise ValueError("Unknown Ascertainment %s" % args.ascertainment)
 

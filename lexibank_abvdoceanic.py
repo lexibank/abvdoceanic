@@ -1,7 +1,5 @@
-import re
 from pathlib import Path
 from functools import lru_cache
-from nameparser import HumanName
 from clldutils.misc import slug
 from pylexibank.providers import abvd
 from pylexibank.util import progressbar
@@ -31,33 +29,11 @@ BADWORDS = [
 ]
 
 
-
-def normalize_contributors(l):
-    for key in ['checkedby', 'typedby']:
-        l[key] = normalize_names(l[key])
-    return l
-
-
-def normalize_names(names):
-    res = []
-    if names:
-        for name in re.split('\s+and\s+|\s*&\s*|,\s+|\s*\+\s*', names):
-            name = {
-                'Simon': 'Simon Greenhill',
-                'D. Mead': 'David Mead',
-                'Alex François': 'Alexandre François',
-                'Dr Alex François': 'Alexandre François',
-                'R. Blust': 'Robert Blust',
-            }.get(name, name)
-            name = HumanName(name.title())
-            res.append('{0} {1}'.format(name.first or name.title, name.last).strip())
-    return ' and '.join(res)
-
-
 @lru_cache(1000)
 def get_language_id(wl):
-    return "%s_%d" % (slug(wl.language.name, lowercase=False), int(wl.language.id))
-    
+    return "%s_%d" % (
+        slug(wl.language.name, lowercase=False), int(wl.language.id)
+    )
 
 
 class Dataset(abvd.BVD):
@@ -84,21 +60,21 @@ class Dataset(abvd.BVD):
             ("? ", ""),
             ("#a-k", ""),
             (" ̂ŋ"[1:], "ŋ"),
-            (" ̃pur"[1:], ""), 
+            (" ̃pur"[1:], ""),
             ('"""', ""),
             ("mo ̂ne", "mo ne"),
             ]
     )
 
     def cmd_download(self, args):
-        raise NotImplementedException("Manually place raw XML files in ./raw/")
+        raise NotImplementedError("Manually place raw XML files in ./raw/")
 
 
     def cmd_makecldf(self, args):
         # Load ignore list
         ignore_raw = self.etc_dir.read_csv("ignore.tsv", delimiter="\t")
         # Format: Doculect, Concept, Value
-        ignore_list = {(row[0], row[1], row[2]) : None for row in ignore_raw}
+        ignore_list = {(row[0], row[1], row[2]): None for row in ignore_raw}
         n_ignored, n_badwords = 0, 0
         args.log.info("Loaded etc/ignore.tsv with {} entries".format(len(ignore_list)))
         
@@ -118,7 +94,7 @@ class Dataset(abvd.BVD):
                 typedby=wl.language.typedby,
                 checkedby=wl.language.checkedby,
                 notes=wl.language.notes,
-                #source=";".join(source)  # TODO we need to add this.
+                source=";".join(wl.language.source)
             )
 
             for entry in wl.entries:
@@ -156,9 +132,7 @@ class Dataset(abvd.BVD):
                         Language_ID=get_language_id(wl),
                         Parameter_ID=cid,
                         Value=entry.name,
-                        # set source to entry-level sources if they exist, otherwise use
-                        # the language level source.
-                        #Source=[entry.source] if entry.source else source,
+                        Source=[entry.source],
                         Cognacy=entry.cognacy,
                         Comment=entry.comment or '',
                         Loan=True if entry.loan and len(entry.loan) else False,
@@ -173,8 +147,10 @@ class Dataset(abvd.BVD):
                     for cognate_set_id in entry.cognates:
                         match = wl.dataset.cognate_pattern.match(cognate_set_id)
                         if not match:  # pragma: no cover
-                            args.log.warning('Invalid cognateset ID for entry {0}: {1}'.format(
-                                entry.id, cognate_set_id))
+                            args.log.warning(
+                                'Invalid cognateset ID for entry %s: %s' % (
+                                entry.id, cognate_set_id
+                            ))
                         else:
                             # make global cognate set id
                             cs_id = "%s-%s" % (slug(entry.word), match.group('id'))
@@ -185,8 +161,6 @@ class Dataset(abvd.BVD):
                                 Doubt=bool(match.group('doubt')),
                                 Source=['Greenhilletal2008'] if wl.section == 'austronesian' else []
                             )
-            #wl.to_cldf(args.writer, concepts)
-            # Now normalize the typedby and checkedby values:
-            args.writer.objects['LanguageTable'][-1] = normalize_contributors(args.writer.objects['LanguageTable'][-1])
+            # wl.to_cldf(args.writer, concepts)
         args.log.info("Ignored {} entries from ignore.tsv".format(n_ignored))
         args.log.info("Ignored {} entries from bad words".format(n_badwords))
