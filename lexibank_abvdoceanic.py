@@ -40,7 +40,7 @@ class Dataset(abvd.BVD):
     dir = Path(__file__).parent
     id = 'abvdoceanic'
     SECTION = 'austronesian'
-    
+
     form_spec = FormSpec(
         brackets={"[": "]", "{": "}", "(": ")"},
         separators=";/,~",
@@ -69,7 +69,6 @@ class Dataset(abvd.BVD):
     def cmd_download(self, args):
         raise NotImplementedError("Manually place raw XML files in ./raw/")
 
-
     def cmd_makecldf(self, args):
         # Load ignore list
         ignore_raw = self.etc_dir.read_csv("ignore.tsv", delimiter="\t")
@@ -77,7 +76,7 @@ class Dataset(abvd.BVD):
         ignore_list = {(row[0], row[1], row[2]): None for row in ignore_raw}
         n_ignored, n_badwords = 0, 0
         args.log.info("Loaded etc/ignore.tsv with {} entries".format(len(ignore_list)))
-        
+
         args.writer.add_sources(*self.raw_dir.read_bib())
         concepts = args.writer.add_concepts(
             id_factory=lambda c: c.id.split('-')[-1]+ '_' + slug(c.english),
@@ -109,17 +108,17 @@ class Dataset(abvd.BVD):
 
                 # handle concepts
                 cid = concepts.get(entry.word_id)
-                
+
                 if cid in BADWORDS:
                     n_badwords += 1
                     continue
-                
+
                 if not cid:
                     wl.dataset.unmapped.add_concept(ID=entry.word_id, Name=entry.word)
                     # add it if we don't have it.
                     args.writer.add_concept(ID=entry.word_id, Name=entry.word)
                     cid = entry.word_id
-                    
+
                 # Skip entries which appear in etc/ignore.tsv
                 if (get_language_id(wl), entry.word, entry.name) in ignore_list:
                     n_ignored += 1
@@ -148,9 +147,8 @@ class Dataset(abvd.BVD):
                         match = wl.dataset.cognate_pattern.match(cognate_set_id)
                         if not match:  # pragma: no cover
                             args.log.warning(
-                                'Invalid cognateset ID for entry %s: %s' % (
-                                entry.id, cognate_set_id
-                            ))
+                                'Invalid cognateset ID for entry %s: %s' % (entry.id, cognate_set_id)
+                            )
                         else:
                             # make global cognate set id
                             cs_id = "%s-%s" % (slug(entry.word), match.group('id'))

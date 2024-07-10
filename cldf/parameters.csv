@@ -6,7 +6,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 5_towalk,to walk,1443,WALK
 6_roadpath,road/path,2457,PATH OR ROAD
 7_tocome,to come,1446,COME
+8_toturn,to turn,1588,TURN
 9_toswim,to swim,1439,SWIM
+10_dirty,dirty,1230,DIRTY
 11_dust,dust,2,DUST
 12_skin,skin,763,SKIN
 13_back,back,1291,BACK
@@ -148,11 +150,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 149_red,red,156,RED
 150_yellow,yellow,1424,YELLOW
 151_green,green,1425,GREEN
+152_small,small,1246,SMALL
 153_big,big,1202,BIG
 154_short,short,1645,SHORT
 155_long,long,1203,LONG
 156_thin,thin,2308,THIN
 157_thick,thick,1244,THICK
+158_narrow,narrow,1267,NARROW
+159_wide,wide,1243,WIDE
 160_painfulsick,"painful, sick",2103,PAINFUL OR SICK
 161_shyashamed,"shy, ashamed",3805,SHY OR ASHAMED
 162_old,old,1229,OLD
@@ -167,6 +172,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 171_tohide,to hide,2486,HIDE
 172_toclimb,to climb,1102,CLIMB
 173_at,at,1461,AT
+174_ininside,"in, inside",1460,IN
 175_above,above,1741,ABOVE
 176_below,below,1485,BELOW OR UNDER
 177_this,this,1214,THIS
@@ -177,11 +183,15 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 182_i,I,1209,I
 183_thou,thou,1215,THOU
 184_heshe,he/she,2642,HE OR SHE
+185_we,we,1212,WE
 186_you,you,1213,YOU
 187_they,they,817,THEY
 188_what,what?,1236,WHAT
 189_who,who?,1235,WHO
+190_other,other,197,OTHER
+191_all,all,98,ALL
 192_and,and,1577,AND
+193_if,if,1459,IF
 194_how,how?,1239,HOW
 195_nonot,"no, not",2279,NO OR NOT
 196_tocount,to count,1420,COUNT
@@ -190,3 +200,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 199_three,Three,492,THREE
 200_four,Four,1500,FOUR
 201_five,Five,493,FIVE
+202_six,Six,1703,SIX
+203_seven,Seven,1704,SEVEN
+204_eight,Eight,1705,EIGHT
+205_nine,Nine,1483,NINE
+206_ten,Ten,1515,TEN
+207_twenty,Twenty,1710,TWENTY
+208_fifty,Fifty,1717,FIFTY
+209_onehundred,One Hundred,1634,HUNDRED
+210_onethousand,One Thousand,1843,THOUSAND
