@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/abvdoceanic",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.1-136-g8e0d47c",
+            "dc:created": "v0.1-137-g3d784ac",
             "dc:title": "Repository"
         },
         {
@@ -252,7 +252,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 210,
+            "dc:extent": 191,
             "tableSchema": {
                 "columns": [
                     {

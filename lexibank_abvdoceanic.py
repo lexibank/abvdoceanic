@@ -40,6 +40,7 @@ class Dataset(abvd.BVD):
     dir = Path(__file__).parent
     id = 'abvdoceanic'
     SECTION = 'austronesian'
+    writer_options = dict(keep_languages=False, keep_parameters=False)
 
     form_spec = FormSpec(
         brackets={"[": "]", "{": "}", "(": ")"},
