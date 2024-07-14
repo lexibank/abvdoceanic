@@ -1,6 +1,6 @@
 # CLDF dataset derived from Greenhill et al.'s "Austronesian Basic Vocabulary Database" from 2020 focusing on Oceanic languages
 
-[![CLDF validation](https://github.com/SimonGreenhill/abvd_oceanic/workflows/CLDF-validation/badge.svg)](https://github.com/SimonGreenhill/abvd_oceanic/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/lexibank/abvdoceanic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/abvdoceanic/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -75,15 +75,15 @@ cldfbench abvdoceanic.nexus --ascertainment=word --removecombined 2 --output abv
 ## Statistics
 
 
-[![CLDF validation](https://github.com/SimonGreenhill/abvd_oceanic/workflows/CLDF-validation/badge.svg)](https://github.com/SimonGreenhill/abvd_oceanic/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/lexibank/abvdoceanic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/abvdoceanic/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 418
-- **Concepts:** 191
+- **Varieties:** 418 (linked to 411 different Glottocodes)
+- **Concepts:** 191 (linked to 191 different Concepticon concept sets)
 - **Lexemes:** 78,515
 - **Sources:** 0
 - **Synonymy:** 1.14
@@ -105,7 +105,10 @@ cldfbench abvdoceanic.nexus --ascertainment=word --removecombined 2 --output abv
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
 Simon J. Greenhill | @SimonGreenhill | maintainer                           | Author
-Johann-Mattis List | @lingulist  | orthography profiles | Other
+Mary Walworth | @maryewal | maintainer                           | Author
+Isaac Stead | @antipodite | maintainer                           | Author
+Tihomir Rangelov | @tihomirrangelov | maintainer                           | Author
+Johann-Mattis List | @lingulist  | orthography profiles | Editor
 
 
 

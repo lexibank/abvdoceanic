@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 import json
 
 with open('metadata.json', 'r', encoding='utf-8') as fp:
@@ -13,6 +13,7 @@ setup(
     py_modules=['lexibank_abvdoceanic'],
     include_package_data=True,
     zip_safe=False,
+    packages=find_packages(where="."),
     entry_points={
         'lexibank.dataset': [
             'abvdoceanic=lexibank_abvdoceanic:Dataset',
