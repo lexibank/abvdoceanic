@@ -90,9 +90,9 @@ cldfbench abvdoceanic.nexus --ascertainment=word --removecombined 2 --output abv
 - **Cognacy:** 74,236 cognates in 9,490 cognate sets (2,308 singletons)
 - **Cognate Diversity:** 0.12
 - **Invalid lexemes:** 0
-- **Tokens:** 392,172
-- **Segments:** 430 (0 BIPA errors, 0 CLTS sound class errors, 429 CLTS modified)
-- **Inventory size (avg):** 30.58
+- **Tokens:** 392,135
+- **Segments:** 432 (0 BIPA errors, 0 CLTS sound class errors, 431 CLTS modified)
+- **Inventory size (avg):** 30.64
 
 ## Possible Improvements:
 
