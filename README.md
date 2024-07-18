@@ -109,6 +109,7 @@ Mary Walworth | @maryewal | maintainer                           | Author
 Isaac Stead | @antipodite | maintainer                           | Author
 Tihomir Rangelov | @tihomirrangelov | maintainer                           | Author
 Johann-Mattis List | @lingulist  | orthography profiles | Editor
+Frederic Blum | @FredericBlum | orthography profiles | Editor
 
 
 
